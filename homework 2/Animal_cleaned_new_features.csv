@@ -1,0 +1,1001 @@
+Animal ID,Found Location,Intake Type,Intake Condition,Animal Type_Intake,Sex upon Intake,Age upon Intake,Breed_Intake,Color_Intake,Sex upon Outcome,Age upon Outcome,binary_outcome,DateTime_Intake_month,DateTime_Intake_year,DateTime_Outcome_month,DateTime_Outcome_year,Date of Birth_month,Date of Birth_year,Day_in_shelter,Reproduction_ability,health_Situation
+A668972,Austin,Public Assist,Normal,Dog,Intact Male,1461.0,Other,Black,Intact Male,1479.0,Death,12,2013,12,2013,12,2009,18.0,Yes,Healthy
+A756041,Austin,Stray,Normal,Cat,Intact Female,76.0,Domestic Shorthair Mix,Black,Spayed Female,80.0,Alive,8,2017,8,2017,5,2017,4.0,No,Healthy
+A791266,Creedmoor,Owner Surrender,Normal,Cat,Neutered Male,1826.0,Domestic Shorthair Mix,Mix color,Neutered Male,1846.0,Alive,3,2019,4,2019,3,2014,20.0,No,Healthy
+A782709,Travis,Stray,Injured,Dog,Intact Female,1826.0,Other,Mix color,Intact Female,1828.0,Alive,10,2018,10,2018,10,2013,2.0,Yes,Unhealthy
+A699922,Austin,Stray,Normal,Cat,Neutered Male,730.0,Domestic Shorthair Mix,Tabby,Neutered Male,733.0,Alive,4,2015,4,2015,4,2013,3.0,No,Healthy
+A768629,Austin,Owner Surrender,Normal,Dog,Neutered Male,433.0,Other,Mix color,Neutered Male,438.0,Alive,5,2018,6,2018,3,2017,5.0,No,Healthy
+A700939,Leander,Owner Surrender,Normal,Dog,Neutered Male,140.0,Pit Bull Mix,Mix color,Neutered Male,144.0,Alive,5,2015,5,2015,12,2014,4.0,No,Healthy
+A712189,Austin,Stray,Normal,Dog,Neutered Male,2191.0,Other,Tricolor,Neutered Male,2192.0,Alive,9,2015,9,2015,9,2009,1.0,No,Healthy
+A700596,Austin,Stray,Normal,Cat,Neutered Male,365.0,Domestic Shorthair Mix,Mix color,Neutered Male,382.0,Alive,4,2015,5,2015,4,2014,17.0,No,Healthy
+A743116,Austin,Stray,Normal,Dog,Intact Male,366.0,Pit Bull Mix,Mix color,Intact Male,366.0,Alive,2,2017,2,2017,2,2016,0.0,Yes,Healthy
+A672666,Austin,Stray,Normal,Cat,Spayed Female,549.0,Domestic Shorthair Mix,Mix color,Spayed Female,556.0,Alive,2,2014,2,2014,8,2012,7.0,No,Healthy
+A384027,Austin,Stray,Normal,Dog,Neutered Male,3573.5499999999965,Other,Brown,Neutered Male,3575.6999999999966,Alive,3,2019,3,2019,11,2004,2.150000000000091,No,Healthy
+A665843,Austin,Owner Surrender,Normal,Cat,Intact Male,122.0,Domestic Shorthair Mix,Tabby,Neutered Male,133.0,Alive,10,2013,11,2013,6,2013,11.0,No,Healthy
+A668433,Austin,Stray,Normal,Dog,Intact Male,731.0,Pit Bull Mix,Mix color,Intact Male,738.0,Death,12,2013,12,2013,12,2011,7.0,Yes,Healthy
+A683220,Pflugerville,Public Assist,Normal,Cat,Intact Female,366.0,Domestic Shorthair Mix,Tabby,Intact Female,387.0,Alive,7,2014,7,2014,7,2013,21.0,Yes,Healthy
+A674877,Austin,Stray,Normal,Dog,Intact Male,74.0,Other,Mix color,Neutered Male,78.0,Alive,3,2014,3,2014,1,2014,4.0,No,Healthy
+A800513,Austin,Stray,Normal,Cat,Intact Male,61.0,Domestic Shorthair,Mix color,Neutered Male,74.0,Alive,7,2019,8,2019,5,2019,13.0,No,Healthy
+A797067,Austin,Owner Surrender,Normal,Dog,Neutered Male,2191.0,German Shepherd Mix,Mix color,Neutered Male,2202.0,Alive,6,2019,6,2019,6,2013,11.0,No,Healthy
+A801161,Austin,Stray,Normal,Cat,Unknown,22.0,Domestic Shorthair,Black,Unknown,22.0,Alive,7,2019,7,2019,7,2019,0.0,Unknown,Healthy
+A773489,Austin,Stray,Normal,Cat,Intact Male,37.0,Domestic Shorthair Mix,Mix color,Neutered Male,59.0,Alive,6,2018,6,2018,4,2018,22.0,No,Healthy
+A633175,Austin,Owner Surrender,Normal,Dog,Intact Male,1583.0,Other,Mix color,Neutered Male,1618.0,Alive,5,2015,7,2015,1,2011,35.0,No,Healthy
+A803448,Austin,Stray,Normal,Cat,Intact Male,62.0,Domestic Shorthair,Tabby,Neutered Male,76.0,Alive,9,2019,9,2019,7,2019,14.0,No,Healthy
+A717273,Austin,Stray,Normal,Cat,Intact Male,730.0,Domestic Shorthair Mix,Tabby,Neutered Male,734.0,Alive,12,2015,12,2015,12,2013,4.0,No,Healthy
+A724016,Austin,Stray,Normal,Dog,Intact Male,731.0,Other,Mix color,Neutered Male,737.0,Alive,4,2016,4,2016,4,2014,6.0,No,Healthy
+A804289,Austin,Stray,Normal,Dog,Intact Male,1461.0,Other,Mix color,Neutered Male,1470.0,Alive,9,2019,9,2019,9,2015,9.0,No,Healthy
+A460100,Austin,Stray,Injured,Dog,Neutered Male,3573.5499999999965,Other,Mix color,Neutered Male,3575.6999999999966,Alive,3,2017,3,2017,8,2005,2.150000000000091,No,Unhealthy
+A775687,Austin,Stray,Normal,Cat,Intact Male,54.0,Domestic Shorthair Mix,Mix color,Intact Male,59.0,Alive,7,2018,7,2018,5,2018,5.0,Yes,Healthy
+A706493,Austin,Stray,Normal,Cat,Unknown,730.0,Domestic Shorthair Mix,Black,Unknown,731.0,Alive,6,2015,6,2015,6,2013,1.0,Unknown,Healthy
+A739932,Austin,Owner Surrender,Normal,Dog,Intact Female,153.0,Chihuahua Shorthair Mix,Mix color,Spayed Female,216.0,Alive,12,2016,2,2017,7,2016,63.0,No,Healthy
+A674508,Austin,Stray,Normal,Dog,Neutered Male,2922.0,Labrador Retriever Mix,Yellow,Neutered Male,3122.0,Alive,3,2014,9,2014,3,2006,200.0,No,Healthy
+A699079,Austin,Stray,Normal,Dog,Neutered Male,685.0,Labrador Retriever Mix,Mix color,Neutered Male,690.0,Alive,9,2016,9,2016,10,2014,5.0,No,Healthy
+A737337,Austin,Stray,Aged,Dog,Spayed Female,3573.5499999999965,Other,Red,Spayed Female,3575.6999999999966,Alive,10,2016,10,2016,10,2003,2.150000000000091,No,Healthy
+A728802,Austin,Stray,Normal,Cat,Intact Female,53.0,Domestic Shorthair Mix,Tabby,Intact Female,58.0,Alive,6,2016,6,2016,4,2016,5.0,Yes,Healthy
+A797447,Austin,Stray,Normal,Cat,Intact Male,92.0,Other,Mix color,Intact Male,96.0,Alive,6,2019,6,2019,3,2019,4.0,Yes,Healthy
+A772001,Austin,Stray,Normal,Cat,Intact Female,24.0,Domestic Shorthair Mix,Mix color,Intact Female,26.0,Alive,5,2018,5,2018,4,2018,2.0,Yes,Healthy
+A770459,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Mix color,Neutered Male,377.0,Alive,4,2018,5,2018,4,2017,12.0,No,Healthy
+A732096,Austin,Public Assist,Normal,Dog,Spayed Female,182.0,Other,Mix color,Spayed Female,190.0,Alive,8,2016,8,2016,2,2016,8.0,No,Healthy
+A678567,Austin,Stray,Normal,Dog,Intact Female,365.0,Other,Mix color,Spayed Female,379.0,Alive,5,2014,5,2014,5,2013,14.0,No,Healthy
+A754667,Austin,Stray,Normal,Cat,Intact Female,36.0,Domestic Shorthair Mix,Tabby,Spayed Female,92.0,Alive,7,2017,9,2017,6,2017,56.0,No,Healthy
+A679061,Austin,Public Assist,Normal,Dog,Spayed Female,254.0,Pit Bull Mix,Mix color,Spayed Female,281.0,Alive,5,2014,6,2014,9,2013,27.0,No,Healthy
+A708415,Austin,Stray,Normal,Cat,Unknown,22.0,Domestic Shorthair Mix,Tabby,Unknown,22.0,Alive,7,2015,7,2015,7,2015,0.0,Unknown,Healthy
+A800176,Austin,Stray,Normal,Dog,Intact Male,169.0,Other,Mix color,Intact Male,169.0,Alive,8,2019,8,2019,2,2019,0.0,Yes,Healthy
+A671153,Austin,Public Assist,Normal,Dog,Intact Male,1097.0,Chihuahua Shorthair Mix,Tan,Neutered Male,1108.0,Alive,1,2014,1,2014,1,2011,11.0,No,Healthy
+A704121,Austin,Stray,Normal,Dog,Spayed Female,730.0,Other,Tricolor,Spayed Female,732.0,Alive,6,2015,6,2015,6,2013,2.0,No,Healthy
+A729822,Austin,Stray,Normal,Cat,Intact Female,61.0,Domestic Shorthair Mix,Tabby,Spayed Female,68.0,Alive,6,2016,7,2016,4,2016,7.0,No,Healthy
+A796927,Austin,Stray,Nursing,Cat,Intact Female,15.0,Domestic Shorthair,Tabby,Intact Female,15.0,Alive,6,2019,6,2019,5,2019,0.0,Yes,Healthy
+A808871,Austin,Stray,Normal,Dog,Intact Male,92.0,Other,Mix color,Neutered Male,96.0,Alive,11,2019,11,2019,8,2019,4.0,No,Healthy
+A731470,Austin,Stray,Normal,Cat,Intact Male,79.0,Siamese Mix,Point,Neutered Male,83.0,Alive,7,2016,7,2016,5,2016,4.0,No,Healthy
+A765743,Austin,Stray,Normal,Dog,Intact Male,334.0,Other,Mix color,Neutered Male,339.0,Alive,1,2018,1,2018,2,2017,5.0,No,Healthy
+A781823,Austin,Stray,Normal,Dog,Intact Female,300.0,Other,Mix color,Spayed Female,304.0,Alive,10,2018,10,2018,12,2017,4.0,No,Healthy
+A792215,Austin,Stray,Normal,Dog,Intact Male,730.0,Other,Mix color,Intact Male,731.0,Alive,4,2019,4,2019,4,2017,1.0,Yes,Healthy
+A747311,Austin,Owner Surrender,Normal,Cat,Neutered Male,1096.0,Siamese Mix,Point,Neutered Male,1104.0,Alive,4,2017,4,2017,4,2014,8.0,No,Healthy
+A682573,Austin,Stray,Normal,Dog,Intact Female,365.0,Other,Mix color,Spayed Female,377.0,Alive,6,2014,7,2014,6,2013,12.0,No,Healthy
+A768218,Austin,Owner Surrender,Normal,Dog,Spayed Female,1461.0,Other,Mix color,Spayed Female,1461.0,Alive,3,2018,3,2018,3,2014,0.0,No,Healthy
+A712193,Austin,Stray,Sick,Dog,Intact Male,3573.5499999999965,Other,Mix color,Intact Male,3575.6999999999966,Death,9,2015,9,2015,9,2005,2.150000000000091,Yes,Unhealthy
+A778653,Travis,Owner Surrender,Normal,Dog,Spayed Female,2319.0,Pit Bull Mix,Mix color,Spayed Female,2325.0,Alive,12,2018,12,2018,8,2012,6.0,No,Healthy
+A757358,Outside Jurisdiction,Public Assist,Normal,Dog,Intact Female,731.0,Labrador Retriever Mix,Black,Intact Female,763.0,Alive,9,2017,10,2017,9,2015,32.0,Yes,Healthy
+A708921,Austin,Stray,Injured,Dog,Intact Male,730.0,Pit Bull Mix,Mix color,Neutered Male,940.0,Alive,8,2015,2,2016,8,2013,210.0,No,Unhealthy
+A710754,Austin,Stray,Normal,Cat,Intact Male,730.0,Domestic Shorthair Mix,Tabby,Intact Male,731.0,Alive,8,2015,8,2015,8,2013,1.0,Yes,Healthy
+A757288,Austin,Stray,Normal,Dog,Intact Male,77.0,Other,Tan,Neutered Male,81.0,Alive,9,2017,9,2017,6,2017,4.0,No,Healthy
+A800980,Austin,Owner Surrender,Normal,Dog,Intact Male,3573.5499999999965,Other,Mix color,Intact Male,3575.6999999999966,Alive,7,2019,8,2019,7,2009,2.150000000000091,Yes,Healthy
+A736561,Travis,Public Assist,Normal,Dog,Spayed Female,243.0,Other,Tricolor,Spayed Female,244.0,Alive,10,2016,10,2016,2,2016,1.0,No,Healthy
+A741771,Travis,Stray,Normal,Dog,Intact Male,366.0,Pit Bull Mix,Mix color,Neutered Male,397.0,Alive,1,2017,2,2017,1,2016,31.0,No,Healthy
+A773354,Austin,Stray,Normal,Dog,Intact Female,151.0,Other,Mix color,Spayed Female,156.0,Alive,5,2018,6,2018,12,2017,5.0,No,Healthy
+A747422,Austin,Stray,Normal,Cat,Neutered Male,731.0,Domestic Shorthair Mix,Blue,Neutered Male,737.0,Alive,4,2017,4,2017,4,2015,6.0,No,Healthy
+A702230,Austin,Stray,Normal,Cat,Intact Male,730.0,Siamese Mix,Point,Intact Male,731.0,Alive,5,2015,5,2015,5,2013,1.0,Yes,Healthy
+A744772,Austin,Stray,Normal,Cat,Intact Female,365.0,Other,Black,Spayed Female,366.0,Alive,3,2017,3,2017,3,2016,1.0,No,Healthy
+A754274,Austin,Owner Surrender,Normal,Dog,Spayed Female,381.0,Other,Mix color,Spayed Female,384.0,Alive,8,2017,8,2017,7,2016,3.0,No,Healthy
+A737329,Austin,Stray,Normal,Dog,Neutered Male,731.0,Other,Brown,Neutered Male,734.0,Alive,10,2016,10,2016,10,2014,3.0,No,Healthy
+A808195,Austin,Wildlife,Normal,Other,Unknown,730.0,Other,Black,Unknown,730.0,Death,11,2019,11,2019,11,2017,0.0,Unknown,Healthy
+A797246,Pflugerville,Owner Surrender,Normal,Cat,Intact Male,120.0,Other,Mix color,Neutered Male,123.0,Alive,6,2019,6,2019,2,2019,3.0,No,Healthy
+A760148,Austin,Owner Surrender,Normal,Cat,Intact Female,2557.0,Other,Mix color,Spayed Female,2574.0,Alive,10,2017,10,2017,10,2010,17.0,No,Healthy
+A778852,Austin,Stray,Normal,Other,Intact Male,367.0,Other,Mix color,Intact Male,370.0,Alive,8,2018,8,2018,8,2017,3.0,Yes,Healthy
+A770440,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Tan,Neutered Male,370.0,Alive,4,2018,4,2018,4,2017,5.0,No,Healthy
+A791383,Austin,Stray,Normal,Dog,Intact Male,304.0,Other,Mix color,Neutered Male,314.0,Alive,3,2019,4,2019,5,2018,10.0,No,Healthy
+A726422,Austin,Stray,Normal,Cat,Spayed Female,731.0,Domestic Shorthair Mix,Tortie,Spayed Female,943.0,Alive,5,2016,12,2016,5,2014,212.0,No,Healthy
+A743802,Manor,Stray,Normal,Dog,Neutered Male,2317.0,German Shepherd Mix,Tricolor,Neutered Male,2317.0,Alive,6,2019,6,2019,2,2013,0.0,No,Healthy
+A811209,Austin,Stray,Normal,Cat,Intact Female,730.0,Domestic Shorthair,Tabby,Spayed Female,743.0,Alive,12,2019,1,2020,12,2017,13.0,No,Healthy
+A757798,Austin,Stray,Other,Cat,Intact Male,7.0,Domestic Shorthair Mix,Black,Intact Male,7.0,Alive,9,2017,9,2017,8,2017,0.0,Yes,Healthy
+A672315,Austin,Stray,Normal,Dog,Intact Female,731.0,Other,Mix color,Spayed Female,740.0,Alive,2,2014,2,2014,2,2012,9.0,No,Healthy
+A743983,Austin,Owner Surrender,Normal,Dog,Spayed Female,1153.0,Labrador Retriever Mix,Mix color,Spayed Female,1172.0,Alive,4,2017,5,2017,2,2014,19.0,No,Healthy
+A749207,Austin,Stray,Normal,Cat,Intact Female,30.0,Domestic Shorthair Mix,Mix color,Spayed Female,97.0,Alive,5,2017,7,2017,4,2017,67.0,No,Healthy
+A712602,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Mix color,Neutered Male,385.0,Alive,9,2015,10,2015,9,2014,20.0,No,Healthy
+A810907,Austin,Stray,Normal,Dog,Intact Female,365.0,Other,Tricolor,Spayed Female,374.0,Alive,12,2019,12,2019,12,2018,9.0,No,Healthy
+A743287,Williamson,Owner Surrender,Normal,Dog,Spayed Female,1706.0,Other,Other,Spayed Female,1708.0,Alive,2,2017,2,2017,6,2012,2.0,No,Healthy
+A746023,Austin,Owner Surrender,Normal,Dog,Spayed Female,365.0,Other,Mix color,Spayed Female,368.0,Alive,3,2017,3,2017,3,2016,3.0,No,Healthy
+A688997,Austin,Stray,Sick,Cat,Neutered Male,3573.5499999999965,Domestic Shorthair Mix,Mix color,Neutered Male,3575.6999999999966,Death,3,2016,3,2016,9,2004,2.150000000000091,No,Unhealthy
+A748168,Austin,Stray,Normal,Dog,Intact Female,548.0,Chihuahua Shorthair Mix,Tan,Intact Female,552.0,Alive,4,2017,5,2017,10,2015,4.0,Yes,Healthy
+A754203,Austin,Stray,Normal,Cat,Intact Female,365.0,Domestic Shorthair Mix,Torbie,Intact Female,369.0,Alive,7,2017,7,2017,7,2016,4.0,Yes,Healthy
+A795397,Austin,Stray,Normal,Cat,Intact Female,34.0,Other,Tabby,Spayed Female,67.0,Alive,5,2019,6,2019,4,2019,33.0,No,Healthy
+A697243,Austin,Stray,Normal,Dog,Neutered Male,1096.0,Pit Bull Mix,Mix color,Neutered Male,1096.0,Alive,2,2015,2,2015,2,2012,0.0,No,Healthy
+A791891,Travis,Stray,Injured,Cat,Intact Female,365.0,Domestic Shorthair Mix,Mix color,Spayed Female,384.0,Alive,4,2019,4,2019,4,2018,19.0,No,Unhealthy
+A783389,Austin,Stray,Injured,Cat,Neutered Male,912.0,Domestic Shorthair Mix,Black,Neutered Male,916.0,Alive,10,2018,11,2018,5,2016,4.0,No,Unhealthy
+A800102,Austin,Public Assist,Normal,Other,Unknown,365.0,Other,Black,Unknown,369.0,Death,7,2019,7,2019,7,2018,4.0,Unknown,Healthy
+A753657,Travis,Owner Surrender,Sick,Dog,Intact Female,80.0,Other,Mix color,Intact Female,81.0,Alive,7,2017,7,2017,4,2017,1.0,Yes,Unhealthy
+A702217,Austin,Stray,Normal,Dog,Intact Female,67.0,Other,Mix color,Spayed Female,74.0,Alive,5,2015,5,2015,3,2015,7.0,No,Healthy
+A743643,Austin,Wildlife,Normal,Other,Unknown,366.0,Bat Mix,Brown,Unknown,367.0,Death,2,2017,2,2017,2,2016,1.0,Unknown,Healthy
+A748974,Austin,Stray,Normal,Cat,Neutered Male,223.0,Siamese Mix,Point,Neutered Male,233.0,Alive,5,2017,5,2017,10,2016,10.0,No,Healthy
+A648634,Hays,Owner Surrender,Normal,Cat,Spayed Female,1326.0,Domestic Shorthair Mix,Mix color,Spayed Female,1331.0,Alive,10,2014,10,2014,3,2011,5.0,No,Healthy
+A673887,Austin,Stray,Normal,Cat,Unknown,1826.0,Domestic Shorthair Mix,Mix color,Unknown,1826.0,Alive,3,2014,3,2014,3,2009,0.0,Unknown,Healthy
+A713674,Austin,Stray,Injured,Dog,Intact Male,730.0,Other,Mix color,Neutered Male,758.0,Alive,10,2015,11,2015,10,2013,28.0,No,Unhealthy
+A729992,Travis,Stray,Injured,Dog,Intact Male,83.0,Other,Tan,Neutered Male,123.0,Alive,6,2016,8,2016,4,2016,40.0,No,Unhealthy
+A787363,Austin,Stray,Normal,Dog,Neutered Male,730.0,Other,Mix color,Neutered Male,730.0,Alive,1,2019,1,2019,1,2017,0.0,No,Healthy
+A759303,Austin,Stray,Normal,Cat,Intact Male,37.0,Domestic Shorthair Mix,Black,Intact Male,60.0,Alive,9,2017,10,2017,8,2017,23.0,Yes,Healthy
+A766501,Austin,Stray,Normal,Dog,Intact Male,15.0,Other,Mix color,Neutered Male,63.0,Alive,2,2018,3,2018,1,2018,48.0,No,Healthy
+A674719,Austin,Stray,Normal,Dog,Intact Male,724.0,Other,Mix color,Neutered Male,730.0,Alive,3,2014,3,2014,3,2012,6.0,No,Healthy
+A792078,Austin,Stray,Normal,Cat,Intact Female,730.0,Domestic Shorthair Mix,Tortie,Spayed Female,815.0,Alive,4,2019,6,2019,4,2017,85.0,No,Healthy
+A744926,Austin,Owner Surrender,Normal,Dog,Intact Female,181.0,Other,Mix color,Spayed Female,186.0,Alive,3,2017,3,2017,9,2016,5.0,No,Healthy
+A731914,Austin,Stray,Normal,Other,Unknown,366.0,Bat Mix,Black,Unknown,368.0,Death,7,2016,7,2016,7,2015,2.0,Unknown,Healthy
+A780209,Austin,Stray,Normal,Cat,Intact Female,274.0,Domestic Shorthair Mix,Mix color,Intact Female,279.0,Alive,9,2018,9,2018,12,2017,5.0,Yes,Healthy
+A678717,Manor,Stray,Normal,Cat,Intact Female,37.0,Domestic Medium Hair Mix,Mix color,Spayed Female,78.0,Alive,5,2014,6,2014,4,2014,41.0,No,Healthy
+A764527,Austin,Stray,Normal,Cat,Intact Male,105.0,Domestic Shorthair Mix,Mix color,Intact Male,107.0,Alive,12,2017,1,2018,9,2017,2.0,Yes,Healthy
+A675759,Austin,Public Assist,Sick,Dog,Neutered Male,2060.0,Labrador Retriever Mix,Tan,Neutered Male,2061.0,Alive,11,2015,11,2015,3,2010,1.0,No,Unhealthy
+A733541,Austin,Owner Surrender,Normal,Cat,Intact Female,366.0,Domestic Shorthair Mix,Tortie,Spayed Female,373.0,Alive,8,2016,8,2016,8,2015,7.0,No,Healthy
+A790687,Austin,Stray,Normal,Dog,Intact Male,212.0,Other,Tricolor,Neutered Male,216.0,Alive,3,2019,3,2019,8,2018,4.0,No,Healthy
+A704877,Travis,Stray,Injured,Cat,Intact Male,365.0,Domestic Shorthair Mix,Mix color,Intact Male,366.0,Death,6,2015,6,2015,6,2014,1.0,Yes,Unhealthy
+A777077,Austin,Stray,Normal,Dog,Neutered Male,61.0,Chihuahua Shorthair Mix,Mix color,Neutered Male,61.0,Alive,8,2018,8,2018,6,2018,0.0,No,Healthy
+A669844,Austin,Stray,Normal,Dog,Intact Male,548.0,Other,Mix color,Neutered Male,552.0,Alive,12,2013,1,2014,6,2012,4.0,No,Healthy
+A757478,Austin,Owner Surrender,Normal,Cat,Intact Female,365.0,Domestic Shorthair Mix,Black,Spayed Female,389.0,Death,9,2017,9,2017,9,2016,24.0,No,Healthy
+A696212,Austin,Stray,Normal,Dog,Neutered Male,3573.5499999999965,Other,Mix color,Neutered Male,3575.6999999999966,Alive,1,2015,2,2015,2,2002,2.150000000000091,No,Healthy
+A736934,Austin,Stray,Normal,Cat,Intact Female,45.0,Domestic Shorthair Mix,Mix color,Intact Female,49.0,Alive,10,2016,10,2016,9,2016,4.0,Yes,Healthy
+A750932,Austin,Stray,Normal,Cat,Neutered Male,3470.0,Domestic Shorthair Mix,Mix color,Neutered Male,3474.0,Alive,6,2017,6,2017,12,2007,4.0,No,Healthy
+A707641,Austin,Owner Surrender,Normal,Dog,Intact Female,3103.0,Other,Red,Intact Female,3109.0,Alive,7,2015,7,2015,1,2007,6.0,Yes,Healthy
+A795199,Austin,Owner Surrender,Normal,Cat,Spayed Female,3573.5499999999965,Domestic Shorthair Mix,Torbie,Spayed Female,3575.6999999999966,Alive,5,2019,10,2019,5,2008,2.150000000000091,No,Healthy
+A739151,Travis,Owner Surrender,Normal,Dog,Intact Male,61.0,Other,Mix color,Intact Male,62.0,Alive,11,2016,11,2016,9,2016,1.0,Yes,Healthy
+A742364,Austin,Stray,Normal,Dog,Intact Male,366.0,Labrador Retriever Mix,Tan,Neutered Male,372.0,Alive,1,2017,1,2017,1,2016,6.0,No,Healthy
+A726389,Austin,Stray,Normal,Cat,Unknown,2.0,Domestic Shorthair Mix,Calico,Unknown,2.0,Alive,5,2016,5,2016,5,2016,0.0,Unknown,Healthy
+A720873,Austin,Stray,Normal,Dog,Intact Female,123.0,Labrador Retriever Mix,Mix color,Spayed Female,127.0,Alive,2,2016,2,2016,10,2015,4.0,No,Healthy
+A760006,Austin,Stray,Normal,Cat,Intact Female,21.0,Domestic Shorthair Mix,Tabby,Intact Female,21.0,Alive,10,2017,10,2017,9,2017,0.0,Yes,Healthy
+A705909,Austin,Stray,Normal,Cat,Intact Female,61.0,Domestic Shorthair Mix,Black,Spayed Female,87.0,Alive,6,2015,7,2015,4,2015,26.0,No,Healthy
+A645000,Austin,Stray,Normal,Dog,Intact Female,2082.0,Chihuahua Shorthair Mix,Mix color,Intact Female,2082.0,Alive,9,2016,9,2016,1,2011,0.0,Yes,Healthy
+A811417,Austin,Stray,Normal,Dog,Neutered Male,1461.0,Other,Mix color,Neutered Male,1461.0,Alive,1,2020,1,2020,1,2016,0.0,No,Healthy
+A774322,Austin,Public Assist,Normal,Dog,Intact Male,730.0,Pit Bull Mix,Mix color,Intact Male,804.0,Alive,6,2018,8,2018,6,2016,74.0,Yes,Healthy
+A672435,Austin,Stray,Normal,Dog,Intact Male,55.0,Other,Mix color,Neutered Male,63.0,Alive,2,2014,2,2014,12,2013,8.0,No,Healthy
+A746500,Austin,Owner Surrender,Normal,Cat,Neutered Male,365.0,Domestic Medium Hair Mix,Mix color,Neutered Male,375.0,Alive,4,2017,4,2017,4,2016,10.0,No,Healthy
+A795708,Austin,Stray,Normal,Cat,Intact Male,58.0,Domestic Shorthair,Tabby,Intact Male,71.0,Alive,5,2019,6,2019,3,2019,13.0,Yes,Healthy
+A668301,Austin,Owner Surrender,Normal,Dog,Spayed Female,1096.0,Other,Black,Spayed Female,1096.0,Alive,12,2013,12,2013,12,2010,0.0,No,Healthy
+A799712,Austin,Stray,Normal,Dog,Intact Male,181.0,Other,Mix color,Neutered Male,217.0,Alive,7,2019,8,2019,1,2019,36.0,No,Healthy
+A808024,Austin,Stray,Sick,Cat,Intact Female,52.0,Other,Tortie,Intact Female,56.0,Alive,11,2019,11,2019,9,2019,4.0,Yes,Unhealthy
+A668142,Austin,Owner Surrender,Normal,Dog,Intact Female,65.0,Labrador Retriever Mix,Mix color,Spayed Female,67.0,Alive,12,2013,12,2013,10,2013,2.0,No,Healthy
+A785057,Manor,Stray,Normal,Dog,Intact Female,46.0,Other,Mix color,Intact Female,47.0,Alive,11,2018,11,2018,10,2018,1.0,Yes,Healthy
+A764294,Travis,Stray,Normal,Dog,Intact Male,287.0,Other,Brindle,Intact Male,289.0,Alive,12,2017,12,2017,3,2017,2.0,Yes,Healthy
+A700060,Austin,Stray,Nursing,Cat,Unknown,0.0,Domestic Shorthair Mix,Black,Unknown,1.0,Alive,4,2015,4,2015,4,2015,1.0,Unknown,Healthy
+A779197,Austin,Stray,Sick,Cat,Intact Female,730.0,Domestic Shorthair Mix,Mix color,Intact Female,730.0,Alive,8,2018,8,2018,8,2016,0.0,Yes,Unhealthy
+A711709,Austin,Stray,Nursing,Cat,Intact Female,2.0,Domestic Shorthair Mix,Mix color,Intact Female,2.0,Alive,9,2015,9,2015,9,2015,0.0,Yes,Healthy
+A708382,Austin,Public Assist,Normal,Dog,Neutered Male,1096.0,Other,Mix color,Neutered Male,1103.0,Alive,7,2015,8,2015,7,2012,7.0,No,Healthy
+A678893,Austin,Stray,Normal,Cat,Intact Male,30.0,Domestic Shorthair Mix,Mix color,Neutered Male,83.0,Alive,5,2014,7,2014,4,2014,53.0,No,Healthy
+A706864,Austin,Stray,Normal,Dog,Intact Female,730.0,Other,Mix color,Spayed Female,737.0,Alive,7,2015,7,2015,7,2013,7.0,No,Healthy
+A779457,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Mix color,Neutered Male,373.0,Alive,9,2018,9,2018,9,2017,8.0,No,Healthy
+A780847,Travis,Stray,Normal,Dog,Intact Male,730.0,Other,Mix color,Neutered Male,735.0,Alive,9,2018,9,2018,9,2016,5.0,No,Healthy
+A665325,Austin,Stray,Sick,Dog,Intact Female,92.0,Pit Bull Mix,Mix color,Intact Female,92.0,Alive,10,2013,10,2013,7,2013,0.0,Yes,Unhealthy
+A796299,Austin,Stray,Normal,Cat,Intact Female,22.0,Domestic Shorthair,Calico,Intact Female,22.0,Alive,5,2019,5,2019,5,2019,0.0,Yes,Healthy
+A671228,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Mix color,Neutered Male,369.0,Alive,1,2014,1,2014,1,2013,4.0,No,Healthy
+A789529,Austin,Stray,Normal,Cat,Intact Male,38.0,Domestic Shorthair Mix,Tabby,Neutered Male,66.0,Alive,2,2019,3,2019,1,2019,28.0,No,Healthy
+A765565,Austin,Stray,Normal,Dog,Intact Female,184.0,Pit Bull Mix,Blue,Intact Female,186.0,Alive,1,2018,1,2018,7,2017,2.0,Yes,Healthy
+A798839,Austin,Stray,Nursing,Cat,Intact Female,365.0,Domestic Shorthair,Torbie,Intact Female,366.0,Alive,7,2019,7,2019,7,2018,1.0,Yes,Healthy
+A789691,Austin,Public Assist,Normal,Dog,Neutered Male,876.0,Pit Bull Mix,Mix color,Neutered Male,884.0,Alive,7,2019,7,2019,2,2017,8.0,No,Healthy
+A762770,Austin,Stray,Sick,Cat,Intact Male,61.0,Domestic Medium Hair Mix,Mix color,Intact Male,72.0,Alive,11,2017,12,2017,9,2017,11.0,Yes,Unhealthy
+A770624,Austin,Stray,Normal,Dog,Spayed Female,2071.0,Other,Mix color,Spayed Female,2074.0,Alive,12,2019,12,2019,4,2014,3.0,No,Healthy
+A734467,Austin,Public Assist,Normal,Dog,Intact Male,236.0,Other,Mix color,Neutered Male,246.0,Alive,9,2016,9,2016,1,2016,10.0,No,Healthy
+A700042,Austin,Stray,Normal,Dog,Neutered Male,547.0,Pit Bull Mix,Mix color,Neutered Male,548.0,Alive,4,2015,4,2015,10,2013,1.0,No,Healthy
+A736947,Austin,Stray,Normal,Dog,Intact Male,1096.0,Other,Mix color,Intact Male,1097.0,Alive,10,2016,10,2016,10,2013,1.0,Yes,Healthy
+A767072,Austin,Stray,Normal,Cat,Spayed Female,1826.0,Domestic Shorthair Mix,Torbie,Spayed Female,1831.0,Alive,2,2018,2,2018,2,2013,5.0,No,Healthy
+A794036,Austin,Stray,Normal,Cat,Intact Male,30.0,Domestic Medium Hair Mix,Mix color,Intact Male,32.0,Alive,5,2019,5,2019,4,2019,2.0,Yes,Healthy
+A713220,Pflugerville,Stray,Normal,Dog,Neutered Male,3286.0,Other,Mix color,Neutered Male,3287.0,Alive,10,2015,10,2015,10,2006,1.0,No,Healthy
+A686803,Austin,Owner Surrender,Normal,Dog,Intact Male,114.0,Other,Mix color,Neutered Male,115.0,Alive,8,2014,8,2014,5,2014,1.0,No,Healthy
+A722727,Austin,Stray,Normal,Cat,Intact Male,7.0,Domestic Shorthair Mix,Mix color,Intact Male,7.0,Alive,3,2016,3,2016,3,2016,0.0,Yes,Healthy
+A758048,Austin,Stray,Normal,Cat,Intact Female,22.0,Domestic Shorthair Mix,Mix color,Intact Female,72.0,Alive,9,2017,10,2017,8,2017,50.0,Yes,Healthy
+A778777,Austin,Stray,Normal,Cat,Intact Female,365.0,Domestic Shorthair Mix,Mix color,Intact Female,369.0,Alive,8,2018,8,2018,8,2017,4.0,Yes,Healthy
+A706115,Austin,Stray,Normal,Dog,Spayed Female,2921.0,Other,Mix color,Spayed Female,2932.0,Alive,6,2015,7,2015,6,2007,11.0,No,Healthy
+A764196,Austin,Stray,Normal,Dog,Intact Male,731.0,Other,Mix color,Neutered Male,768.0,Alive,12,2017,1,2018,12,2015,37.0,No,Healthy
+A679228,Manor,Stray,Normal,Dog,Intact Female,1096.0,Other,Red,Spayed Female,1103.0,Alive,5,2014,5,2014,5,2011,7.0,No,Healthy
+A686999,Austin,Stray,Normal,Dog,Intact Male,304.0,Other,Mix color,Neutered Male,310.0,Alive,8,2014,9,2014,10,2013,6.0,No,Healthy
+A726552,Austin,Owner Surrender,Normal,Dog,Spayed Female,927.0,Pit Bull Mix,Tan,Spayed Female,935.0,Alive,12,2017,11,2017,5,2015,8.0,No,Healthy
+A759847,Austin,Stray,Normal,Cat,Unknown,731.0,Domestic Shorthair Mix,Tabby,Unknown,736.0,Alive,10,2017,10,2017,10,2015,5.0,Unknown,Healthy
+A794567,Austin,Stray,Nursing,Cat,Intact Female,30.0,Domestic Shorthair,Black,Intact Female,34.0,Alive,5,2019,5,2019,4,2019,4.0,Yes,Healthy
+A727825,Valle,Owner Surrender,Normal,Dog,Intact Female,76.0,Other,Mix color,Spayed Female,77.0,Alive,5,2016,5,2016,3,2016,1.0,No,Healthy
+A709240,Austin,Stray,Normal,Cat,Intact Male,76.0,Other,Point,Neutered Male,82.0,Alive,8,2015,8,2015,5,2015,6.0,No,Healthy
+A688100,Valle,Stray,Normal,Cat,Unknown,15.0,Domestic Shorthair Mix,Tabby,Unknown,15.0,Alive,9,2014,9,2014,8,2014,0.0,Unknown,Healthy
+A778323,Austin,Stray,Normal,Dog,Intact Female,122.0,Other,Brindle,Spayed Female,127.0,Alive,8,2018,8,2018,4,2018,5.0,No,Healthy
+A722236,Austin,Stray,Normal,Dog,Spayed Female,1827.0,Labrador Retriever Mix,Mix color,Spayed Female,1827.0,Alive,3,2016,3,2016,3,2011,0.0,No,Healthy
+A635138,Austin,Public Assist,Normal,Dog,Neutered Male,1545.0,Pit Bull Mix,Mix color,Neutered Male,1554.0,Alive,11,2015,11,2015,8,2011,9.0,No,Healthy
+A757568,Outside Jurisdiction,Public Assist,Normal,Dog,Intact Female,732.0,Labrador Retriever Mix,Mix color,Intact Female,742.0,Alive,9,2017,9,2017,9,2015,10.0,Yes,Healthy
+A688465,Travis,Stray,Normal,Dog,Intact Male,549.0,German Shepherd Mix,Mix color,Neutered Male,596.0,Alive,9,2014,11,2014,3,2013,47.0,No,Healthy
+A784997,Austin,Stray,Normal,Cat,Spayed Female,730.0,Domestic Shorthair Mix,Black,Spayed Female,734.0,Alive,11,2018,11,2018,11,2016,4.0,No,Healthy
+A780245,Austin,Stray,Normal,Dog,Intact Male,364.0,Labrador Retriever Mix,Mix color,Neutered Male,372.0,Alive,9,2018,9,2018,9,2017,8.0,No,Healthy
+A784763,Austin,Stray,Normal,Dog,Spayed Female,76.0,Other,Mix color,Spayed Female,173.0,Alive,11,2018,2,2019,9,2018,97.0,No,Healthy
+A793264,Austin,Stray,Nursing,Cat,Unknown,1.0,Domestic Shorthair Mix,Mix color,Unknown,2.0,Alive,4,2019,4,2019,4,2019,1.0,Unknown,Healthy
+A708892,Valle,Stray,Normal,Cat,Intact Male,122.0,Other,Mix color,Intact Male,123.0,Alive,8,2015,8,2015,4,2015,1.0,Yes,Healthy
+A739386,Austin,Stray,Normal,Cat,Intact Female,366.0,Other,Mix color,Spayed Female,367.0,Alive,12,2016,12,2016,12,2015,1.0,No,Healthy
+A712775,Austin,Stray,Normal,Cat,Intact Male,19.0,Domestic Shorthair Mix,Mix color,Intact Male,19.0,Alive,9,2015,9,2015,9,2015,0.0,Yes,Healthy
+A734332,Austin,Stray,Normal,Cat,Intact Female,31.0,Domestic Shorthair Mix,Tortie,Spayed Female,90.0,Alive,9,2016,11,2016,8,2016,59.0,No,Healthy
+A734675,Austin,Stray,Normal,Dog,Intact Male,184.0,German Shepherd Mix,Brown,Neutered Male,194.0,Alive,9,2016,9,2016,3,2016,10.0,No,Healthy
+A795051,Austin,Owner Surrender,Normal,Dog,Spayed Female,151.0,Other,Mix color,Spayed Female,158.0,Alive,5,2019,5,2019,12,2018,7.0,No,Healthy
+A707572,Travis,Stray,Normal,Dog,Intact Male,365.0,Other,Tricolor,Intact Male,369.0,Alive,7,2015,7,2015,7,2014,4.0,Yes,Healthy
+A782034,Manor,Stray,Normal,Cat,Intact Female,9.0,Domestic Shorthair Mix,Tabby,Spayed Female,69.0,Alive,10,2018,12,2018,9,2018,60.0,No,Healthy
+A795843,Travis,Stray,Normal,Dog,Spayed Female,730.0,Other,Mix color,Spayed Female,733.0,Alive,5,2019,5,2019,5,2017,3.0,No,Healthy
+A808306,Austin,Public Assist,Normal,Dog,Neutered Male,1461.0,Other,Black,Neutered Male,1465.0,Alive,11,2019,11,2019,11,2015,4.0,No,Healthy
+A732151,Austin,Stray,Normal,Cat,Unknown,8.0,Domestic Medium Hair Mix,Blue,Unknown,8.0,Alive,8,2016,8,2016,7,2016,0.0,Unknown,Healthy
+A701755,Austin,Owner Surrender,Normal,Dog,Neutered Male,70.0,Other,Tricolor,Neutered Male,81.0,Alive,5,2015,5,2015,3,2015,11.0,No,Healthy
+A754384,Austin,Wildlife,Normal,Other,Unknown,731.0,Bat Mix,Brown,Unknown,732.0,Death,7,2017,7,2017,7,2015,1.0,Unknown,Healthy
+A729983,Austin,Stray,Normal,Cat,Intact Female,548.0,Domestic Shorthair Mix,Blue,Spayed Female,556.0,Alive,6,2016,7,2016,12,2014,8.0,No,Healthy
+A671138,Austin,Owner Surrender,Normal,Cat,Intact Male,1096.0,Other,Mix color,Intact Male,1110.0,Alive,1,2014,2,2014,1,2011,14.0,Yes,Healthy
+A701163,Austin,Stray,Normal,Cat,Intact Male,31.0,Siamese Mix,Point,Intact Male,31.0,Alive,4,2015,4,2015,3,2015,0.0,Yes,Healthy
+A687511,Bastrop,Owner Surrender,Normal,Cat,Intact Male,62.0,Domestic Medium Hair Mix,Tabby,Neutered Male,64.0,Alive,9,2014,9,2014,7,2014,2.0,No,Healthy
+A761176,Austin,Stray,Normal,Cat,Intact Female,37.0,Domestic Shorthair Mix,Torbie,Intact Female,52.0,Alive,10,2017,11,2017,9,2017,15.0,Yes,Healthy
+A757562,Outside Jurisdiction,Public Assist,Normal,Dog,Spayed Female,245.0,Other,Mix color,Spayed Female,263.0,Alive,9,2017,9,2017,1,2017,18.0,No,Healthy
+A699615,Austin,Wildlife,Normal,Other,Unknown,1095.0,Bat Mix,Brown,Unknown,1096.0,Death,3,2015,3,2015,3,2012,1.0,Unknown,Healthy
+A593937,Austin,Stray,Normal,Dog,Spayed Female,1859.0,Other,White,Spayed Female,1859.0,Alive,9,2015,9,2015,8,2010,0.0,No,Healthy
+A782227,Austin,Stray,Normal,Cat,Intact Female,178.0,Domestic Shorthair Mix,Tabby,Spayed Female,186.0,Alive,10,2018,10,2018,4,2018,8.0,No,Healthy
+A799246,Austin,Stray,Normal,Cat,Intact Male,49.0,Domestic Shorthair,Mix color,Neutered Male,106.0,Alive,7,2019,9,2019,5,2019,57.0,No,Healthy
+A714562,Austin,Stray,Feral,Cat,Intact Male,137.0,Domestic Shorthair Mix,Point,Intact Male,138.0,Alive,10,2015,10,2015,6,2015,1.0,Yes,Healthy
+A746484,Outside Jurisdiction,Owner Surrender,Normal,Dog,Neutered Male,731.0,Other,Red,Neutered Male,732.0,Alive,4,2017,4,2017,4,2015,1.0,No,Healthy
+A710322,Austin,Owner Surrender,Normal,Cat,Spayed Female,2556.0,Domestic Shorthair Mix,Tabby,Spayed Female,2605.0,Alive,8,2015,10,2015,8,2008,49.0,No,Healthy
+A790481,Austin,Stray,Sick,Cat,Spayed Female,730.0,Domestic Shorthair Mix,Mix color,Spayed Female,747.0,Alive,3,2019,3,2019,3,2017,17.0,No,Unhealthy
+A702281,Austin,Stray,Normal,Dog,Neutered Male,2564.0,Other,Tan,Neutered Male,2568.0,Alive,5,2015,5,2015,5,2008,4.0,No,Healthy
+A781098,Travis,Stray,Normal,Dog,Intact Female,9.0,Other,Mix color,Intact Female,54.0,Alive,9,2018,11,2018,9,2018,45.0,Yes,Healthy
+A776414,Austin,Stray,Normal,Cat,Intact Female,365.0,Domestic Shorthair Mix,Mix color,Intact Female,369.0,Alive,7,2018,7,2018,7,2017,4.0,Yes,Healthy
+A801996,Manor,Public Assist,Behavior,Dog,Neutered Male,597.0,Other,Mix color,Neutered Male,643.0,Alive,10,2019,11,2019,2,2018,46.0,No,Healthy
+A711732,Austin,Stray,Normal,Cat,Spayed Female,639.0,Domestic Shorthair Mix,Tabby,Spayed Female,675.0,Alive,9,2015,10,2015,12,2013,36.0,No,Healthy
+A741102,Austin,Wildlife,Sick,Other,Unknown,731.0,Bat Mix,Black,Unknown,731.0,Death,12,2016,12,2016,12,2014,0.0,Unknown,Unhealthy
+A718281,Austin,Stray,Normal,Dog,Intact Male,302.0,Pit Bull Mix,Mix color,Neutered Male,311.0,Alive,12,2015,1,2016,2,2015,9.0,No,Healthy
+A679871,Austin,Stray,Normal,Cat,Spayed Female,1461.0,Other,Mix color,Spayed Female,1470.0,Alive,5,2014,6,2014,5,2010,9.0,No,Healthy
+A611127,Outside Jurisdiction,Owner Surrender,Normal,Dog,Neutered Male,3270.0,Other,White,Neutered Male,3274.0,Alive,3,2019,3,2019,4,2010,4.0,No,Healthy
+A794500,Austin,Stray,Normal,Cat,Spayed Female,730.0,Other,Mix color,Spayed Female,772.0,Alive,5,2019,6,2019,5,2017,42.0,No,Healthy
+A678161,Austin,Stray,Injured,Dog,Intact Female,212.0,Other,Yellow,Spayed Female,260.0,Alive,5,2014,6,2014,10,2013,48.0,No,Unhealthy
+A731450,Austin,Stray,Normal,Dog,Intact Male,366.0,Other,Mix color,Neutered Male,390.0,Alive,7,2016,8,2016,7,2015,24.0,No,Healthy
+A668017,Austin,Owner Surrender,Normal,Dog,Spayed Female,250.0,Chihuahua Shorthair Mix,Black,Spayed Female,253.0,Alive,4,2014,4,2014,7,2013,3.0,No,Healthy
+A754762,Rock,Owner Surrender,Normal,Dog,Spayed Female,1488.0,German Shepherd Mix,Mix color,Spayed Female,1492.0,Alive,8,2017,8,2017,7,2013,4.0,No,Healthy
+A788250,Austin,Stray,Normal,Dog,Intact Male,730.0,Other,White,Neutered Male,742.0,Alive,1,2019,2,2019,1,2017,12.0,No,Healthy
+A785312,Austin,Public Assist,Normal,Dog,Intact Female,1096.0,Other,Tricolor,Intact Female,1097.0,Alive,12,2018,12,2018,12,2015,1.0,Yes,Healthy
+A682586,Austin,Stray,Normal,Dog,Spayed Female,730.0,Other,Mix color,Spayed Female,730.0,Alive,6,2014,6,2014,6,2012,0.0,No,Healthy
+A689061,Austin,Stray,Normal,Dog,Intact Male,153.0,Other,Other,Intact Male,157.0,Alive,9,2014,10,2014,4,2014,4.0,Yes,Healthy
+A742096,Austin,Stray,Normal,Dog,Intact Male,366.0,Chihuahua Shorthair Mix,Brown,Neutered Male,378.0,Alive,1,2017,1,2017,1,2016,12.0,No,Healthy
+A665235,Austin,Owner Surrender,Nursing,Dog,Intact Female,37.0,Other,Tricolor,Intact Female,37.0,Alive,10,2013,10,2013,9,2013,0.0,Yes,Healthy
+A715512,Austin,Stray,Normal,Cat,Intact Female,365.0,Domestic Shorthair Mix,Tabby,Spayed Female,425.0,Alive,11,2015,1,2016,11,2014,60.0,No,Healthy
+A706800,Austin,Stray,Normal,Cat,Intact Male,76.0,Domestic Shorthair Mix,Black,Neutered Male,92.0,Alive,7,2015,7,2015,4,2015,16.0,No,Healthy
+A771295,Austin,Owner Surrender,Normal,Cat,Spayed Female,273.0,Domestic Shorthair Mix,Tortie,Spayed Female,275.0,Alive,12,2018,12,2018,3,2018,2.0,No,Healthy
+A769740,Austin,Owner Surrender,Normal,Dog,Spayed Female,1643.0,Other,Mix color,Spayed Female,1660.0,Alive,4,2018,4,2018,10,2013,17.0,No,Healthy
+A685554,Austin,Stray,Normal,Dog,Intact Male,304.0,German Shepherd Mix,Black,Neutered Male,308.0,Alive,8,2014,8,2014,10,2013,4.0,No,Healthy
+A478957,Austin,Owner Surrender,Normal,Cat,Neutered Male,3567.0,Domestic Shorthair,Mix color,Neutered Male,3571.0,Alive,1,2017,1,2017,4,2007,4.0,No,Healthy
+A699953,Austin,Stray,Normal,Dog,Neutered Male,274.0,Labrador Retriever Mix,Black,Neutered Male,274.0,Alive,7,2015,7,2015,10,2014,0.0,No,Healthy
+A777051,Austin,Owner Surrender,Normal,Cat,Neutered Male,294.0,Siamese Mix,Point,Neutered Male,307.0,Alive,7,2018,8,2018,10,2017,13.0,No,Healthy
+A796120,Austin,Stray,Nursing,Cat,Intact Female,22.0,Domestic Shorthair,Tortie,Intact Female,22.0,Alive,5,2019,5,2019,5,2019,0.0,Yes,Healthy
+A672392,Valle,Stray,Normal,Cat,Intact Male,731.0,Domestic Shorthair Mix,Mix color,Neutered Male,738.0,Alive,2,2014,2,2014,2,2012,7.0,No,Healthy
+A741294,Austin,Stray,Injured,Dog,Intact Female,366.0,Other,Brown,Intact Female,381.0,Alive,12,2016,1,2017,12,2015,15.0,Yes,Unhealthy
+A749219,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Mix color,Neutered Male,369.0,Alive,5,2017,5,2017,5,2016,4.0,No,Healthy
+A677659,Austin,Stray,Normal,Cat,Intact Female,29.0,Domestic Shorthair Mix,Calico,Spayed Female,122.0,Alive,4,2014,7,2014,3,2014,93.0,No,Healthy
+A696654,Travis,Stray,Normal,Dog,Intact Male,123.0,Other,Tricolor,Neutered Male,128.0,Alive,2,2015,2,2015,10,2014,5.0,No,Healthy
+A704755,Travis,Stray,Normal,Cat,Intact Male,38.0,Domestic Shorthair Mix,Tabby,Neutered Male,78.0,Alive,6,2015,7,2015,5,2015,40.0,No,Healthy
+A749637,Travis,Owner Surrender,Normal,Dog,Neutered Male,3573.5499999999965,German Shepherd Mix,Mix color,Neutered Male,3575.6999999999966,Alive,5,2017,5,2017,5,2006,2.150000000000091,No,Healthy
+A800924,Pflugerville,Owner Surrender,Normal,Dog,Neutered Male,505.0,Other,Mix color,Neutered Male,506.0,Alive,12,2019,12,2019,7,2018,1.0,No,Healthy
+A767887,Austin,Public Assist,Normal,Dog,Intact Male,367.0,Other,Mix color,Neutered Male,375.0,Alive,3,2018,3,2018,3,2017,8.0,No,Healthy
+A760649,Travis,Wildlife,Sick,Other,Unknown,731.0,Bat Mix,Brown,Unknown,732.0,Death,10,2017,10,2017,10,2015,1.0,Unknown,Unhealthy
+A802554,Travis,Owner Surrender,Normal,Cat,Intact Female,61.0,Domestic Shorthair,Tabby,Intact Female,78.0,Alive,8,2019,9,2019,6,2019,17.0,Yes,Healthy
+A753356,Austin,Stray,Injured,Cat,Unknown,91.0,Domestic Medium Hair Mix,Mix color,Unknown,91.0,Death,7,2017,7,2017,4,2017,0.0,Unknown,Unhealthy
+A734657,Austin,Stray,Normal,Cat,Intact Female,62.0,Domestic Shorthair Mix,Mix color,Spayed Female,66.0,Alive,9,2016,9,2016,7,2016,4.0,No,Healthy
+A782314,Austin,Stray,Normal,Cat,Intact Male,44.0,Domestic Shorthair Mix,Tabby,Neutered Male,85.0,Alive,10,2018,11,2018,8,2018,41.0,No,Healthy
+A723638,Austin,Owner Surrender,Normal,Dog,Intact Female,548.0,Other,Mix color,Spayed Female,570.0,Alive,4,2016,4,2016,10,2014,22.0,No,Healthy
+A803847,Austin,Stray,Normal,Cat,Unknown,15.0,Domestic Shorthair,Tortie,Unknown,15.0,Alive,9,2019,9,2019,8,2019,0.0,Unknown,Healthy
+A716208,Austin,Stray,Normal,Other,Unknown,730.0,Other,Other,Unknown,736.0,Alive,11,2015,11,2015,11,2013,6.0,Unknown,Healthy
+A809581,Austin,Stray,Normal,Cat,Intact Male,730.0,Domestic Shorthair,Blue,Intact Male,742.0,Alive,11,2019,12,2019,11,2017,12.0,Yes,Healthy
+A801901,Austin,Owner Surrender,Normal,Other,Intact Female,1095.0,Other,Mix color,Intact Female,1098.0,Alive,8,2019,8,2019,8,2016,3.0,Yes,Healthy
+A744827,Austin,Stray,Normal,Cat,Intact Male,25.0,Domestic Shorthair Mix,Mix color,Neutered Male,63.0,Alive,3,2017,4,2017,2,2017,38.0,No,Healthy
+A782044,Austin,Stray,Normal,Dog,Intact Male,45.0,Other,Mix color,Neutered Male,49.0,Alive,10,2018,10,2018,8,2018,4.0,No,Healthy
+A677258,Austin,Stray,Sick,Cat,Intact Female,121.0,Domestic Medium Hair Mix,Tortie,Spayed Female,126.0,Alive,4,2014,4,2014,12,2013,5.0,No,Unhealthy
+A803868,Austin,Stray,Normal,Cat,Intact Female,53.0,Domestic Shorthair Mix,Black,Intact Female,65.0,Alive,9,2019,9,2019,7,2019,12.0,Yes,Healthy
+A679736,Austin,Stray,Normal,Cat,Intact Female,304.0,Domestic Shorthair Mix,Tabby,Intact Female,305.0,Alive,5,2014,5,2014,7,2013,1.0,Yes,Healthy
+A666840,Austin,Stray,Normal,Dog,Intact Male,61.0,Other,Black,Intact Male,62.0,Alive,11,2013,11,2013,9,2013,1.0,Yes,Healthy
+A761090,Austin,Stray,Normal,Cat,Intact Female,731.0,Domestic Shorthair Mix,Mix color,Intact Female,735.0,Alive,10,2017,11,2017,10,2015,4.0,Yes,Healthy
+A764734,Austin,Stray,Normal,Cat,Intact Female,365.0,Domestic Medium Hair Mix,Mix color,Intact Female,368.0,Alive,1,2018,1,2018,1,2017,3.0,Yes,Healthy
+A713303,Austin,Stray,Normal,Cat,Intact Male,30.0,Domestic Shorthair Mix,Mix color,Intact Male,30.0,Alive,10,2015,10,2015,9,2015,0.0,Yes,Healthy
+A718086,Austin,Stray,Normal,Cat,Intact Male,183.0,Domestic Shorthair Mix,Tabby,Neutered Male,189.0,Alive,12,2015,12,2015,6,2015,6.0,No,Healthy
+A795890,Austin,Owner Surrender,Normal,Cat,Intact Male,68.0,Domestic Shorthair,Black,Neutered Male,79.0,Alive,5,2019,6,2019,3,2019,11.0,No,Healthy
+A701338,Austin,Stray,Sick,Dog,Spayed Female,3573.5499999999965,Chihuahua Shorthair Mix,Mix color,Spayed Female,3575.6999999999966,Death,4,2015,4,2015,4,2002,2.150000000000091,No,Unhealthy
+A683642,Austin,Owner Surrender,Nursing,Dog,Intact Female,30.0,Other,Mix color,Spayed Female,139.0,Alive,7,2014,10,2014,6,2014,109.0,No,Healthy
+A772504,Valle,Stray,Normal,Cat,Intact Male,10.0,Domestic Shorthair Mix,Mix color,Intact Male,10.0,Alive,5,2018,5,2018,5,2018,0.0,Yes,Healthy
+A703487,Travis,Public Assist,Normal,Dog,Neutered Male,1103.0,Labrador Retriever Mix,Black,Neutered Male,1110.0,Alive,6,2015,6,2015,5,2012,7.0,No,Healthy
+A790242,Austin,Stray,Normal,Cat,Intact Male,21.0,Domestic Shorthair Mix,Tabby,Intact Male,21.0,Alive,3,2019,3,2019,2,2019,0.0,Yes,Healthy
+A782684,Austin,Owner Surrender,Normal,Cat,Neutered Male,3573.5499999999965,Domestic Shorthair Mix,Tabby,Neutered Male,3575.6999999999966,Alive,10,2018,11,2018,10,2008,2.150000000000091,No,Healthy
+A806768,Travis,Stray,Normal,Dog,Intact Male,183.0,Other,Mix color,Neutered Male,237.0,Alive,10,2019,12,2019,4,2019,54.0,No,Healthy
+A677960,Manor,Owner Surrender,Normal,Dog,Neutered Male,1097.0,Other,Cream,Neutered Male,1111.0,Death,5,2014,5,2014,5,2011,14.0,No,Healthy
+A769985,Austin,Stray,Normal,Other,Intact Female,365.0,Other,White,Intact Female,376.0,Alive,4,2018,4,2018,4,2017,11.0,Yes,Healthy
+A698675,Austin,Stray,Injured,Dog,Intact Male,730.0,Pit Bull Mix,Mix color,Neutered Male,997.0,Alive,3,2015,12,2015,3,2013,267.0,No,Unhealthy
+A715501,Austin,Stray,Normal,Cat,Intact Male,46.0,Domestic Shorthair Mix,Mix color,Neutered Male,72.0,Alive,11,2015,12,2015,9,2015,26.0,No,Healthy
+A756714,Austin,Stray,Normal,Cat,Intact Female,121.0,Domestic Medium Hair Mix,Mix color,Spayed Female,127.0,Alive,8,2017,8,2017,4,2017,6.0,No,Healthy
+A761008,Valle,Stray,Normal,Cat,Intact Female,92.0,Domestic Shorthair Mix,Black,Spayed Female,165.0,Alive,10,2017,1,2018,7,2017,73.0,No,Healthy
+A711865,Austin,Stray,Normal,Dog,Intact Female,211.0,Other,Mix color,Intact Female,218.0,Alive,9,2015,9,2015,2,2015,7.0,Yes,Healthy
+A780888,Austin,Stray,Normal,Cat,Intact Female,65.0,Domestic Shorthair Mix,Mix color,Spayed Female,69.0,Alive,9,2018,9,2018,7,2018,4.0,No,Healthy
+A770192,Austin,Stray,Normal,Dog,Intact Male,1096.0,Pit Bull Mix,Mix color,Intact Male,1097.0,Alive,4,2018,4,2018,4,2015,1.0,Yes,Healthy
+A765356,Austin,Owner Surrender,Normal,Dog,Neutered Male,2560.0,Other,Mix color,Neutered Male,2565.0,Alive,1,2018,1,2018,1,2011,5.0,No,Healthy
+A789066,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Mix color,Intact Male,367.0,Alive,2,2019,2,2019,2,2018,2.0,Yes,Healthy
+A562528,Austin,Public Assist,Normal,Dog,Neutered Male,3377.0,Pit Bull Mix,Mix color,Neutered Male,3388.0,Alive,7,2018,7,2018,4,2009,11.0,No,Healthy
+A664685,Travis,Wildlife,Sick,Other,Unknown,183.0,Bat Mix,Other,Unknown,183.0,Death,10,2013,10,2013,4,2013,0.0,Unknown,Unhealthy
+A684605,Austin,Stray,Normal,Dog,Intact Male,334.0,Pit Bull Mix,Mix color,Neutered Male,356.0,Alive,7,2014,8,2014,8,2013,22.0,No,Healthy
+A666476,Austin,Public Assist,Normal,Dog,Spayed Female,549.0,Other,Cream,Spayed Female,550.0,Alive,11,2013,11,2013,5,2012,1.0,No,Healthy
+A703477,Ridge,Stray,Normal,Cat,Intact Male,37.0,Domestic Shorthair Mix,Mix color,Intact Male,37.0,Death,5,2015,5,2015,4,2015,0.0,Yes,Healthy
+A675487,Austin,Stray,Normal,Dog,Intact Female,730.0,Other,Mix color,Spayed Female,739.0,Alive,3,2014,4,2014,3,2012,9.0,No,Healthy
+A781663,Austin,Stray,Normal,Dog,Intact Male,208.0,Other,Mix color,Neutered Male,214.0,Alive,10,2018,10,2018,3,2018,6.0,No,Healthy
+A787670,Austin,Stray,Normal,Cat,Unknown,730.0,Domestic Shorthair Mix,Blue,Unknown,734.0,Alive,1,2019,1,2019,1,2017,4.0,Unknown,Healthy
+A811102,Travis,Stray,Normal,Dog,Intact Male,61.0,Other,Mix color,Neutered Male,67.0,Alive,12,2019,1,2020,10,2019,6.0,No,Healthy
+A749612,Austin,Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever Mix,Mix color,Neutered Male,63.0,Alive,5,2017,7,2017,5,2017,62.0,No,Healthy
+A800648,Austin,Stray,Normal,Dog,Intact Male,730.0,Other,Mix color,Neutered Male,750.0,Alive,7,2019,8,2019,7,2017,20.0,No,Healthy
+A669584,Austin,Stray,Normal,Dog,Spayed Female,731.0,Other,Tan,Spayed Female,736.0,Alive,12,2013,12,2013,12,2011,5.0,No,Healthy
+A727512,Austin,Wildlife,Normal,Other,Unknown,366.0,Bat Mix,Brown,Unknown,367.0,Death,5,2016,5,2016,5,2015,1.0,Unknown,Healthy
+A752957,Austin,Stray,Normal,Cat,Neutered Male,151.0,Domestic Shorthair Mix,Blue,Neutered Male,155.0,Alive,6,2017,7,2017,1,2017,4.0,No,Healthy
+A797893,Austin,Stray,Normal,Dog,Spayed Female,2556.0,Other,Mix color,Spayed Female,2560.0,Alive,6,2019,6,2019,6,2012,4.0,No,Healthy
+A765112,Austin,Owner Surrender,Normal,Cat,Intact Female,122.0,Siamese Mix,Point,Intact Female,129.0,Alive,1,2018,1,2018,9,2017,7.0,Yes,Healthy
+A707296,Valle,Stray,Normal,Dog,Intact Male,28.0,Other,Other,Neutered Male,62.0,Alive,7,2015,8,2015,6,2015,34.0,No,Healthy
+A803326,Austin,Owner Surrender,Normal,Other,Intact Male,182.0,Other,Mix color,Intact Male,186.0,Alive,8,2019,9,2019,3,2019,4.0,Yes,Healthy
+A734227,Austin,Public Assist,Normal,Dog,Neutered Male,489.0,Labrador Retriever Mix,Brown,Neutered Male,500.0,Alive,9,2016,9,2016,5,2015,11.0,No,Healthy
+A685428,Austin,Wildlife,Normal,Other,Unknown,365.0,Other,Brown,Unknown,366.0,Death,8,2014,8,2014,8,2013,1.0,Unknown,Healthy
+A711462,Austin,Stray,Normal,Dog,Intact Male,335.0,Other,Mix color,Neutered Male,341.0,Alive,9,2015,9,2015,10,2014,6.0,No,Healthy
+A794029,Austin,Stray,Normal,Dog,Intact Female,365.0,Other,Mix color,Spayed Female,488.0,Alive,5,2019,9,2019,5,2018,123.0,No,Healthy
+A805304,Austin,Stray,Normal,Cat,Intact Male,37.0,Domestic Shorthair,Mix color,Neutered Male,141.0,Alive,9,2019,1,2020,8,2019,104.0,No,Healthy
+A671085,Austin,Stray,Normal,Dog,Intact Male,61.0,Other,Mix color,Neutered Male,65.0,Alive,1,2014,1,2014,11,2013,4.0,No,Healthy
+A730830,Austin,Stray,Normal,Dog,Intact Male,366.0,Other,Brown,Neutered Male,371.0,Alive,7,2016,7,2016,7,2015,5.0,No,Healthy
+A700817,Travis,Stray,Normal,Dog,Intact Male,730.0,Pit Bull Mix,Mix color,Neutered Male,756.0,Alive,4,2015,5,2015,4,2013,26.0,No,Healthy
+A753432,Austin,Stray,Normal,Dog,Intact Male,731.0,Other,White,Neutered Male,735.0,Alive,7,2017,7,2017,7,2015,4.0,No,Healthy
+A731351,Austin,Wildlife,Normal,Other,Unknown,366.0,Bat Mix,Brown,Unknown,367.0,Death,7,2016,7,2016,7,2015,1.0,Unknown,Healthy
+A671526,Austin,Owner Surrender,Normal,Dog,Spayed Female,3573.5499999999965,Labrador Retriever Mix,Yellow,Spayed Female,3575.6999999999966,Alive,1,2014,2,2014,1,2002,2.150000000000091,No,Healthy
+A701364,Austin,Owner Surrender,Normal,Cat,Spayed Female,1461.0,Domestic Shorthair Mix,Mix color,Spayed Female,1470.0,Alive,4,2015,5,2015,4,2011,9.0,No,Healthy
+A748580,Austin,Stray,Nursing,Cat,Intact Female,15.0,Domestic Shorthair Mix,Tabby,Intact Female,15.0,Alive,5,2017,5,2017,4,2017,0.0,Yes,Healthy
+A796600,Austin,Stray,Normal,Cat,Intact Female,31.0,Domestic Shorthair Mix,Mix color,Intact Female,58.0,Alive,6,2019,6,2019,5,2019,27.0,Yes,Healthy
+A708271,Austin,Stray,Nursing,Cat,Unknown,7.0,Domestic Shorthair Mix,Tabby,Unknown,7.0,Alive,7,2015,7,2015,7,2015,0.0,Unknown,Healthy
+A744766,Austin,Wildlife,Nursing,Other,Unknown,9.0,Other,Other,Unknown,9.0,Death,3,2017,3,2017,2,2017,0.0,Unknown,Healthy
+A741813,Manor,Stray,Normal,Dog,Intact Male,366.0,Labrador Retriever Mix,Mix color,Neutered Male,372.0,Alive,1,2017,1,2017,1,2016,6.0,No,Healthy
+A679618,Austin,Stray,Normal,Other,Unknown,151.0,Other,Brown,Unknown,155.0,Alive,5,2014,5,2014,12,2013,4.0,Unknown,Healthy
+A728434,Travis,Stray,Normal,Dog,Intact Male,183.0,Other,Other,Neutered Male,190.0,Alive,6,2016,6,2016,12,2015,7.0,No,Healthy
+A746506,Austin,Stray,Normal,Dog,Intact Male,304.0,Chihuahua Shorthair Mix,Mix color,Intact Male,305.0,Alive,4,2017,4,2017,6,2016,1.0,Yes,Healthy
+A763112,Austin,Owner Surrender,Normal,Dog,Spayed Female,3573.5499999999965,Labrador Retriever Mix,Mix color,Spayed Female,3575.6999999999966,Alive,12,2017,6,2018,12,2007,2.150000000000091,No,Healthy
+A753723,Austin,Wildlife,Nursing,Other,Unknown,30.0,Other,Mix color,Unknown,30.0,Alive,7,2017,7,2017,6,2017,0.0,Unknown,Healthy
+A730904,Austin,Stray,Normal,Cat,Spayed Female,731.0,Domestic Shorthair Mix,Tabby,Spayed Female,818.0,Alive,7,2016,10,2016,7,2014,87.0,No,Healthy
+A738263,Austin,Public Assist,Normal,Dog,Intact Male,1461.0,Pit Bull Mix,Mix color,Neutered Male,1471.0,Alive,11,2016,11,2016,11,2012,10.0,No,Healthy
+A778965,Austin,Stray,Normal,Cat,Intact Male,21.0,Domestic Shorthair,Mix color,Intact Male,21.0,Alive,8,2018,8,2018,8,2018,0.0,Yes,Healthy
+A742251,Austin,Stray,Normal,Dog,Intact Female,61.0,Other,Mix color,Intact Female,61.0,Alive,1,2017,1,2017,11,2016,0.0,Yes,Healthy
+A696799,Austin,Stray,Normal,Dog,Intact Female,1096.0,Chihuahua Shorthair Mix,Tricolor,Spayed Female,1102.0,Alive,2,2015,2,2015,2,2012,6.0,No,Healthy
+A700051,Austin,Stray,Nursing,Cat,Unknown,0.0,Domestic Shorthair Mix,Tabby,Unknown,3.0,Alive,4,2015,4,2015,4,2015,3.0,Unknown,Healthy
+A723531,Austin,Public Assist,Normal,Cat,Intact Female,171.0,Domestic Shorthair Mix,Black,Spayed Female,186.0,Alive,4,2016,4,2016,10,2015,15.0,No,Healthy
+A685911,Austin,Stray,Normal,Dog,Intact Male,730.0,Pit Bull Mix,Mix color,Intact Male,730.0,Alive,8,2014,8,2014,8,2012,0.0,Yes,Healthy
+A694323,Austin,Stray,Normal,Dog,Intact Male,44.0,Labrador Retriever Mix,Other,Neutered Male,57.0,Alive,12,2014,1,2015,11,2014,13.0,No,Healthy
+A682375,Austin,Stray,Normal,Dog,Intact Female,2015.0,Chihuahua Shorthair Mix,Tan,Spayed Female,2031.0,Alive,1,2015,1,2015,6,2009,16.0,No,Healthy
+A756990,Austin,Stray,Normal,Cat,Intact Male,15.0,Domestic Shorthair Mix,Tabby,Intact Male,15.0,Alive,8,2017,8,2017,8,2017,0.0,Yes,Healthy
+A738964,Austin,Stray,Normal,Cat,Intact Male,92.0,Other,Black,Intact Male,94.0,Alive,11,2016,11,2016,8,2016,2.0,Yes,Healthy
+A789735,Austin,Stray,Normal,Dog,Intact Female,549.0,Other,Mix color,Spayed Female,558.0,Alive,2,2019,3,2019,8,2017,9.0,No,Healthy
+A806569,Austin,Stray,Normal,Cat,Intact Male,40.0,Domestic Shorthair,Tabby,Neutered Male,137.0,Alive,10,2019,1,2020,9,2019,97.0,No,Healthy
+A672012,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Mix color,Neutered Male,376.0,Alive,2,2014,2,2014,2,2013,11.0,No,Healthy
+A778989,Austin,Owner Surrender,Normal,Dog,Intact Male,1461.0,Other,Mix color,Intact Male,1462.0,Alive,8,2018,8,2018,8,2014,1.0,Yes,Healthy
+A789237,Austin,Owner Surrender,Normal,Cat,Intact Female,184.0,Domestic Shorthair Mix,Calico,Spayed Female,194.0,Alive,2,2019,2,2019,8,2018,10.0,No,Healthy
+A665309,Austin,Owner Surrender,Normal,Dog,Neutered Male,1844.0,Other,Mix color,Neutered Male,1857.0,Alive,11,2013,11,2013,10,2008,13.0,No,Healthy
+A753779,Austin,Stray,Normal,Dog,Intact Female,61.0,German Shepherd Mix,Brown,Spayed Female,65.0,Alive,7,2017,7,2017,5,2017,4.0,No,Healthy
+A701871,Austin,Stray,Normal,Bird,Intact Male,365.0,Other,Mix color,Intact Male,369.0,Alive,5,2015,5,2015,5,2014,4.0,Yes,Healthy
+A688153,Austin,Owner Surrender,Normal,Cat,Intact Female,212.0,Domestic Medium Hair Mix,Mix color,Spayed Female,220.0,Alive,9,2014,9,2014,2,2014,8.0,No,Healthy
+A712738,Austin,Stray,Normal,Dog,Neutered Male,744.0,Other,Mix color,Neutered Male,753.0,Alive,10,2015,10,2015,9,2013,9.0,No,Healthy
+A681423,Austin,Owner Surrender,Normal,Cat,Intact Male,22.0,Other,Tabby,Intact Male,22.0,Alive,6,2014,6,2014,5,2014,0.0,Yes,Healthy
+A786801,Austin,Stray,Normal,Dog,Intact Male,1096.0,Pit Bull Mix,Mix color,Intact Male,1102.0,Alive,1,2019,1,2019,1,2016,6.0,Yes,Healthy
+A683920,Austin,Stray,Injured,Dog,Intact Female,730.0,Chihuahua Shorthair Mix,Black,Intact Female,734.0,Death,7,2014,7,2014,7,2012,4.0,Yes,Unhealthy
+A700278,Austin,Stray,Normal,Dog,Intact Male,39.0,Other,Mix color,Neutered Male,60.0,Alive,4,2015,5,2015,3,2015,21.0,No,Healthy
+A810902,Manor,Owner Surrender,Normal,Dog,Intact Female,76.0,Other,Mix color,Spayed Female,82.0,Alive,12,2019,12,2019,10,2019,6.0,No,Healthy
+A727333,Austin,Stray,Normal,Cat,Intact Female,13.0,Domestic Shorthair Mix,Mix color,Spayed Female,104.0,Alive,5,2016,8,2016,5,2016,91.0,No,Healthy
+A694250,Austin,Stray,Injured,Cat,Intact Female,183.0,Domestic Shorthair Mix,Mix color,Intact Female,183.0,Death,12,2014,12,2014,6,2014,0.0,Yes,Unhealthy
+A769870,Austin,Stray,Normal,Dog,Intact Male,117.0,Chihuahua Shorthair Mix,Mix color,Neutered Male,121.0,Alive,4,2018,4,2018,12,2017,4.0,No,Healthy
+A714040,Austin,Stray,Normal,Dog,Intact Female,730.0,Chihuahua Shorthair Mix,Tricolor,Spayed Female,735.0,Alive,10,2015,10,2015,10,2013,5.0,No,Healthy
+A729157,Austin,Stray,Normal,Cat,Intact Male,61.0,Domestic Shorthair Mix,Mix color,Neutered Male,65.0,Alive,6,2016,6,2016,4,2016,4.0,No,Healthy
+A752972,Travis,Stray,Normal,Cat,Intact Female,76.0,Domestic Shorthair Mix,Tortie,Spayed Female,87.0,Alive,6,2017,7,2017,4,2017,11.0,No,Healthy
+A691836,Austin,Public Assist,Normal,Dog,Intact Female,1096.0,Chihuahua Shorthair Mix,Mix color,Spayed Female,1106.0,Alive,11,2014,11,2014,11,2011,10.0,No,Healthy
+A751802,Austin,Stray,Normal,Dog,Intact Male,731.0,Other,Tricolor,Neutered Male,735.0,Alive,6,2017,6,2017,6,2015,4.0,No,Healthy
+A780963,Austin,Stray,Injured,Dog,Intact Female,1826.0,Chihuahua Shorthair Mix,Red,Intact Female,1831.0,Alive,9,2018,9,2018,9,2013,5.0,Yes,Unhealthy
+A719666,Austin,Stray,Normal,Dog,Intact Male,184.0,Other,Mix color,Neutered Male,190.0,Alive,1,2016,1,2016,7,2015,6.0,No,Healthy
+A685489,Austin,Stray,Normal,Cat,Unknown,243.0,Domestic Shorthair Mix,Mix color,Unknown,244.0,Alive,8,2014,8,2014,12,2013,1.0,Unknown,Healthy
+A773981,Austin,Stray,Normal,Cat,Intact Female,31.0,Domestic Shorthair Mix,Blue,Intact Female,35.0,Alive,6,2018,6,2018,5,2018,4.0,Yes,Healthy
+A775052,Austin,Stray,Normal,Cat,Intact Female,61.0,Other,Mix color,Spayed Female,120.0,Alive,6,2018,8,2018,4,2018,59.0,No,Healthy
+A786419,Travis,Stray,Normal,Dog,Intact Female,303.0,Other,Mix color,Spayed Female,309.0,Alive,12,2018,12,2018,2,2018,6.0,No,Healthy
+A670658,Valle,Stray,Normal,Dog,Intact Male,61.0,Other,Mix color,Intact Male,69.0,Alive,1,2014,1,2014,11,2013,8.0,Yes,Healthy
+A714473,Pflugerville,Stray,Feral,Cat,Intact Male,53.0,Domestic Shorthair Mix,Mix color,Neutered Male,111.0,Alive,10,2015,12,2015,8,2015,58.0,No,Healthy
+A768697,Austin,Wildlife,Normal,Other,Unknown,365.0,Other,Mix color,Unknown,365.0,Death,3,2018,3,2018,3,2017,0.0,Unknown,Healthy
+A799411,Austin,Owner Surrender,Normal,Cat,Intact Female,30.0,Domestic Shorthair,Tortie,Intact Female,30.0,Alive,7,2019,7,2019,6,2019,0.0,Yes,Healthy
+A703389,Austin,Stray,Normal,Dog,Intact Male,104.0,Labrador Retriever Mix,Mix color,Neutered Male,135.0,Alive,5,2015,6,2015,2,2015,31.0,No,Healthy
+A702034,Austin,Stray,Injured,Dog,Intact Male,365.0,Other,Red,Neutered Male,406.0,Alive,5,2015,6,2015,5,2014,41.0,No,Unhealthy
+A689766,Austin,Stray,Normal,Cat,Intact Male,79.0,Domestic Shorthair Mix,Mix color,Neutered Male,83.0,Alive,10,2014,10,2014,7,2014,4.0,No,Healthy
+A792309,Austin,Stray,Normal,Cat,Intact Female,13.0,Domestic Shorthair Mix,Mix color,Intact Female,13.0,Alive,4,2019,4,2019,3,2019,0.0,Yes,Healthy
+A747109,Austin,Public Assist,Normal,Dog,Neutered Male,1532.0,Pit Bull Mix,Brindle,Neutered Male,1541.0,Alive,4,2017,4,2017,2,2013,9.0,No,Healthy
+A716954,Travis,Stray,Nursing,Dog,Intact Female,1095.0,Other,Mix color,Intact Female,1103.0,Alive,11,2015,12,2015,11,2012,8.0,Yes,Healthy
+A758932,Austin,Stray,Normal,Cat,Intact Male,134.0,Other,Black,Intact Male,142.0,Alive,9,2017,10,2017,5,2017,8.0,Yes,Healthy
+A738236,Austin,Stray,Normal,Cat,Intact Male,305.0,Domestic Shorthair Mix,Black,Intact Male,306.0,Alive,11,2016,11,2016,1,2016,1.0,Yes,Healthy
+A748070,Austin,Stray,Sick,Cat,Intact Male,15.0,Domestic Shorthair Mix,Tabby,Intact Male,15.0,Alive,4,2017,4,2017,4,2017,0.0,Yes,Unhealthy
+A710494,Austin,Stray,Normal,Dog,Intact Male,365.0,Labrador Retriever Mix,Black,Intact Male,369.0,Alive,8,2015,8,2015,8,2014,4.0,Yes,Healthy
+A664354,Manor,Stray,Normal,Dog,Intact Male,548.0,Other,Mix color,Neutered Male,566.0,Alive,10,2013,10,2013,4,2012,18.0,No,Healthy
+A657188,Austin,Owner Surrender,Normal,Cat,Neutered Male,3573.5499999999965,Domestic Shorthair Mix,Mix color,Neutered Male,3575.6999999999966,Alive,11,2013,10,2013,6,1999,2.150000000000091,No,Healthy
+A672955,Austin,Public Assist,Normal,Dog,Intact Male,1461.0,Other,Mix color,Neutered Male,1480.0,Alive,2,2014,3,2014,2,2010,19.0,No,Healthy
+A730989,Austin,Stray,Normal,Cat,Intact Female,22.0,Other,Calico,Intact Female,25.0,Alive,7,2016,7,2016,6,2016,3.0,Yes,Healthy
+A789161,Austin,Wildlife,Normal,Other,Unknown,365.0,Bat Mix,Brown,Unknown,367.0,Death,2,2019,2,2019,2,2018,2.0,Unknown,Healthy
+A679856,Austin,Owner Surrender,Normal,Dog,Spayed Female,281.0,Other,Mix color,Spayed Female,281.0,Alive,7,2014,7,2014,9,2013,0.0,No,Healthy
+A733106,Austin,Public Assist,Normal,Dog,Intact Male,731.0,Pit Bull Mix,Mix color,Neutered Male,821.0,Alive,8,2016,11,2016,8,2014,90.0,No,Healthy
+A651130,Austin,Stray,Normal,Dog,Neutered Male,793.0,Other,Mix color,Neutered Male,799.0,Alive,8,2014,8,2014,6,2012,6.0,No,Healthy
+A790436,Austin,Wildlife,Sick,Other,Unknown,730.0,Other,Red,Unknown,730.0,Death,3,2019,3,2019,3,2017,0.0,Unknown,Unhealthy
+A780322,Manor,Stray,Normal,Dog,Intact Male,341.0,Other,White,Neutered Male,357.0,Alive,10,2018,11,2018,11,2017,16.0,No,Healthy
+A687257,Austin,Owner Surrender,Normal,Cat,Spayed Female,2191.0,Domestic Shorthair Mix,Tabby,Spayed Female,2207.0,Alive,9,2014,9,2014,9,2008,16.0,No,Healthy
+A679394,Austin,Stray,Normal,Cat,Intact Female,45.0,Domestic Medium Hair Mix,Tabby,Spayed Female,71.0,Alive,5,2014,6,2014,4,2014,26.0,No,Healthy
+A682179,Valle,Stray,Normal,Dog,Intact Male,61.0,Chihuahua Shorthair Mix,Other,Neutered Male,65.0,Alive,6,2014,6,2014,4,2014,4.0,No,Healthy
+A680365,Austin,Stray,Injured,Dog,Intact Male,1096.0,Labrador Retriever Mix,Black,Neutered Male,1147.0,Alive,6,2014,7,2014,6,2011,51.0,No,Unhealthy
+A674035,Travis,Stray,Normal,Dog,Intact Female,730.0,Other,Mix color,Spayed Female,735.0,Alive,3,2014,3,2014,3,2012,5.0,No,Healthy
+A696115,Pflugerville,Stray,Normal,Cat,Neutered Male,275.0,Domestic Shorthair Mix,Tabby,Neutered Male,281.0,Alive,1,2015,2,2015,4,2014,6.0,No,Healthy
+A809894,Austin,Stray,Sick,Dog,Intact Female,3573.5499999999965,Pit Bull Mix,Mix color,Spayed Female,3575.6999999999966,Alive,12,2019,1,2020,12,2009,2.150000000000091,No,Unhealthy
+A706837,Austin,Owner Surrender,Normal,Other,Intact Female,760.0,Other,Mix color,Intact Female,763.0,Alive,7,2015,7,2015,6,2013,3.0,Yes,Healthy
+A705721,Austin,Stray,Normal,Cat,Intact Male,46.0,Domestic Shorthair Mix,Mix color,Neutered Male,83.0,Alive,6,2015,7,2015,5,2015,37.0,No,Healthy
+A666585,Austin,Stray,Normal,Cat,Spayed Female,365.0,Domestic Shorthair Mix,Tabby,Spayed Female,366.0,Alive,11,2013,11,2013,11,2012,1.0,No,Healthy
+A760666,Pflugerville,Stray,Normal,Cat,Spayed Female,3573.5499999999965,Domestic Medium Hair Mix,Calico,Spayed Female,3575.6999999999966,Alive,10,2017,10,2017,10,2004,2.150000000000091,No,Healthy
+A744114,Austin,Stray,Normal,Dog,Spayed Female,306.0,Labrador Retriever Mix,Yellow,Spayed Female,309.0,Alive,2,2017,2,2017,4,2016,3.0,No,Healthy
+A675771,Austin,Stray,Normal,Dog,Intact Female,304.0,Other,Other,Intact Female,312.0,Alive,4,2014,4,2014,6,2013,8.0,Yes,Healthy
+A651615,Austin,Owner Surrender,Normal,Dog,Neutered Male,1816.0,Other,Cream,Neutered Male,1825.0,Alive,4,2015,4,2015,4,2010,9.0,No,Healthy
+A800877,Austin,Stray,Normal,Cat,Intact Male,24.0,Domestic Shorthair Mix,Tabby,Intact Male,30.0,Alive,7,2019,8,2019,7,2019,6.0,Yes,Healthy
+A532549,Austin,Public Assist,Normal,Dog,Neutered Male,3573.5499999999965,Other,Mix color,Neutered Male,3575.6999999999966,Alive,8,2018,9,2018,8,2005,2.150000000000091,No,Healthy
+A718305,Austin,Stray,Normal,Cat,Intact Female,300.0,Domestic Shorthair Mix,Tortie,Spayed Female,303.0,Alive,12,2015,12,2015,3,2015,3.0,No,Healthy
+A791782,Austin,Stray,Normal,Cat,Intact Male,365.0,Domestic Shorthair Mix,Tabby,Intact Male,368.0,Alive,3,2019,4,2019,3,2018,3.0,Yes,Healthy
+A715811,Austin,Stray,Normal,Cat,Intact Female,365.0,Domestic Medium Hair Mix,Tabby,Spayed Female,368.0,Alive,11,2015,11,2015,11,2014,3.0,No,Healthy
+A716801,Austin,Stray,Normal,Cat,Intact Male,49.0,Domestic Shorthair Mix,Mix color,Neutered Male,91.0,Alive,11,2015,1,2016,10,2015,42.0,No,Healthy
+A701173,Austin,Stray,Nursing,Cat,Unknown,2.0,Domestic Shorthair Mix,Mix color,Unknown,2.0,Alive,4,2015,4,2015,4,2015,0.0,Unknown,Healthy
+A806576,Austin,Stray,Normal,Dog,Intact Female,153.0,German Shepherd Mix,Mix color,Spayed Female,158.0,Alive,10,2019,10,2019,5,2019,5.0,No,Healthy
+A745174,Austin,Stray,Normal,Dog,Intact Female,2555.0,Other,Other,Spayed Female,2558.0,Alive,3,2017,3,2017,3,2010,3.0,No,Healthy
+A698357,Austin,Stray,Normal,Dog,Intact Male,3573.5499999999965,Other,Mix color,Intact Male,3575.6999999999966,Alive,3,2015,3,2015,3,2005,2.150000000000091,Yes,Healthy
+A701657,Austin,Stray,Normal,Cat,Intact Female,22.0,Domestic Shorthair Mix,Tortie,Intact Female,22.0,Alive,5,2015,5,2015,4,2015,0.0,Yes,Healthy
+A691524,Austin,Stray,Normal,Cat,Intact Female,184.0,Domestic Shorthair Mix,Tortie,Intact Female,185.0,Alive,11,2014,11,2014,5,2014,1.0,Yes,Healthy
+A671629,Austin,Owner Surrender,Normal,Cat,Spayed Female,1461.0,Domestic Medium Hair Mix,Cream,Spayed Female,1468.0,Alive,1,2014,2,2014,1,2010,7.0,No,Healthy
+A712449,Manor,Owner Surrender,Normal,Dog,Intact Female,62.0,Other,Tan,Spayed Female,66.0,Alive,9,2015,9,2015,7,2015,4.0,No,Healthy
+A683939,Austin,Stray,Normal,Dog,Intact Female,137.0,Pit Bull Mix,Mix color,Spayed Female,153.0,Alive,7,2014,8,2014,3,2014,16.0,No,Healthy
+A695333,Austin,Stray,Normal,Cat,Intact Female,245.0,Domestic Shorthair Mix,Black,Spayed Female,250.0,Alive,1,2015,1,2015,5,2014,5.0,No,Healthy
+A682796,Austin,Stray,Normal,Cat,Intact Female,61.0,Domestic Shorthair Mix,Tabby,Intact Female,66.0,Alive,7,2014,7,2014,5,2014,5.0,Yes,Healthy
+A804250,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Tan,Intact Male,366.0,Alive,9,2019,9,2019,9,2018,1.0,Yes,Healthy
+A673389,Austin,Owner Surrender,Normal,Other,Intact Female,365.0,Other,Tricolor,Intact Female,366.0,Alive,2,2014,2,2014,2,2013,1.0,Yes,Healthy
+A673297,Austin,Stray,Normal,Dog,Intact Male,276.0,Other,White,Neutered Male,375.0,Alive,2,2014,5,2014,5,2013,99.0,No,Healthy
+A682046,Austin,Stray,Normal,Dog,Intact Male,182.0,Other,Other,Neutered Male,188.0,Alive,6,2014,6,2014,12,2013,6.0,No,Healthy
+A806880,Austin,Owner Surrender,Normal,Dog,Spayed Female,1095.0,Other,Mix color,Spayed Female,1096.0,Alive,10,2019,10,2019,10,2016,1.0,No,Healthy
+A678056,Austin,Owner Surrender,Sick,Dog,Intact Male,61.0,Other,Tan,Intact Male,61.0,Alive,5,2014,5,2014,3,2014,0.0,Yes,Unhealthy
+A650214,Austin,Stray,Normal,Dog,Intact Female,974.0,Other,Mix color,Spayed Female,989.0,Alive,3,2015,4,2015,7,2012,15.0,No,Healthy
+A681837,Austin,Public Assist,Sick,Cat,Intact Male,61.0,Domestic Shorthair Mix,Tabby,Intact Male,77.0,Death,6,2014,7,2014,4,2014,16.0,Yes,Unhealthy
+A793812,Austin,Stray,Normal,Cat,Intact Male,29.0,Domestic Shorthair Mix,Mix color,Neutered Male,66.0,Alive,4,2019,6,2019,4,2019,37.0,No,Healthy
+A775426,Valle,Stray,Normal,Cat,Unknown,7.0,Domestic Shorthair Mix,Tabby,Unknown,7.0,Alive,6,2018,6,2018,6,2018,0.0,Unknown,Healthy
+A758972,Austin,Stray,Normal,Cat,Intact Male,123.0,Other,Mix color,Intact Male,127.0,Alive,9,2017,9,2017,5,2017,4.0,Yes,Healthy
+A753581,Austin,Owner Surrender,Normal,Cat,Intact Male,52.0,Domestic Medium Hair Mix,Mix color,Intact Male,73.0,Alive,7,2017,7,2017,5,2017,21.0,Yes,Healthy
+A790590,Austin,Owner Surrender,Normal,Dog,Neutered Male,425.0,German Shepherd Mix,Mix color,Neutered Male,427.0,Alive,5,2019,5,2019,3,2018,2.0,No,Healthy
+A739911,Austin,Stray,Normal,Dog,Intact Male,3288.0,Other,Mix color,Intact Male,3292.0,Alive,12,2016,12,2016,12,2007,4.0,Yes,Healthy
+A689658,Austin,Stray,Normal,Dog,Intact Female,365.0,Other,Other,Spayed Female,369.0,Alive,10,2014,10,2014,10,2013,4.0,No,Healthy
+A735649,Austin,Public Assist,Normal,Dog,Spayed Female,3573.5499999999965,Other,Mix color,Spayed Female,3575.6999999999966,Alive,9,2016,9,2016,9,1997,2.150000000000091,No,Healthy
+A565366,Austin,Owner Surrender,Normal,Cat,Spayed Female,3071.0,Other,Torbie,Spayed Female,3088.0,Alive,12,2015,1,2016,7,2007,17.0,No,Healthy
+A515661,Austin,Stray,Normal,Dog,Spayed Female,3570.0,Other,Mix color,Spayed Female,3572.0,Alive,4,2015,4,2015,7,2005,2.0,No,Healthy
+A798048,Austin,Stray,Injured,Dog,Intact Female,3573.5499999999965,Other,White,Intact Female,3575.6999999999966,Alive,6,2019,6,2019,6,2009,2.150000000000091,Yes,Unhealthy
+A745446,Austin,Stray,Normal,Dog,Intact Male,731.0,Other,Mix color,Intact Male,732.0,Alive,3,2017,3,2017,3,2015,1.0,Yes,Healthy
+A770899,Austin,Owner Surrender,Normal,Dog,Neutered Male,365.0,Other,Mix color,Neutered Male,366.0,Alive,4,2018,4,2018,4,2017,1.0,No,Healthy
+A746441,Travis,Owner Surrender,Normal,Cat,Spayed Female,2192.0,Domestic Shorthair Mix,Calico,Spayed Female,2255.0,Alive,4,2017,6,2017,4,2011,63.0,No,Healthy
+A702659,Travis,Stray,Normal,Cat,Spayed Female,365.0,Domestic Shorthair Mix,Black,Spayed Female,420.0,Death,5,2015,7,2015,5,2014,55.0,No,Healthy
+A761830,Austin,Owner Surrender,Normal,Cat,Intact Female,31.0,Domestic Shorthair Mix,Blue,Spayed Female,102.0,Alive,11,2017,1,2018,10,2017,71.0,No,Healthy
+A797477,Austin,Stray,Normal,Cat,Intact Female,39.0,Domestic Shorthair,Mix color,Spayed Female,104.0,Alive,6,2019,8,2019,5,2019,65.0,No,Healthy
+A769036,Valle,Stray,Normal,Dog,Spayed Female,365.0,Labrador Retriever Mix,Mix color,Spayed Female,367.0,Alive,3,2018,3,2018,3,2017,2.0,No,Healthy
+A742443,Austin,Owner Surrender,Normal,Cat,Neutered Male,129.0,Domestic Medium Hair Mix,Mix color,Neutered Male,130.0,Alive,1,2017,1,2017,9,2016,1.0,No,Healthy
+A668241,Austin,Stray,Normal,Dog,Intact Male,731.0,Other,Black,Intact Male,735.0,Alive,11,2013,12,2013,11,2011,4.0,Yes,Healthy
+A697174,Austin,Owner Surrender,Normal,Dog,Spayed Female,70.0,Other,Mix color,Spayed Female,71.0,Alive,2,2015,2,2015,12,2014,1.0,No,Healthy
+A670185,Austin,Stray,Normal,Dog,Neutered Male,1096.0,German Shepherd Mix,Other,Neutered Male,1105.0,Alive,1,2014,1,2014,1,2011,9.0,No,Healthy
+A687865,Austin,Stray,Normal,Dog,Neutered Male,911.0,Other,Mix color,Neutered Male,912.0,Alive,8,2019,8,2019,2,2017,1.0,No,Healthy
+A784334,Austin,Stray,Normal,Cat,Intact Female,67.0,Domestic Shorthair Mix,Tabby,Spayed Female,107.0,Alive,11,2018,12,2018,9,2018,40.0,No,Healthy
+A788692,Austin,Stray,Injured,Dog,Neutered Male,730.0,Other,Brown,Neutered Male,735.0,Alive,2,2019,2,2019,2,2017,5.0,No,Unhealthy
+A724751,Austin,Stray,Normal,Cat,Intact Male,15.0,Domestic Shorthair Mix,Mix color,Neutered Male,94.0,Alive,4,2016,7,2016,4,2016,79.0,No,Healthy
+A708986,Austin,Stray,Normal,Cat,Intact Female,243.0,Domestic Shorthair Mix,Tabby,Intact Female,249.0,Alive,8,2015,8,2015,12,2014,6.0,Yes,Healthy
+A745028,Austin,Stray,Normal,Dog,Intact Female,1461.0,Other,Cream,Intact Female,1468.0,Death,3,2017,3,2017,3,2013,7.0,Yes,Healthy
+A777611,Travis,Stray,Normal,Dog,Spayed Female,365.0,Labrador Retriever Mix,Tricolor,Spayed Female,369.0,Alive,7,2018,8,2018,7,2017,4.0,No,Healthy
+A693202,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Mix color,Neutered Male,382.0,Alive,12,2014,12,2014,12,2013,17.0,No,Healthy
+A737374,Austin,Public Assist,Normal,Dog,Intact Male,3573.5499999999965,Other,Brown,Intact Male,3575.6999999999966,Alive,11,2019,12,2019,7,2003,2.150000000000091,Yes,Healthy
+A640749,Austin,Stray,Sick,Cat,Neutered Male,3573.5499999999965,Siamese Mix,Point,Neutered Male,3575.6999999999966,Alive,1,2017,1,2017,10,2006,2.150000000000091,No,Unhealthy
+A765654,Austin,Stray,Normal,Dog,Neutered Male,731.0,Other,Mix color,Neutered Male,731.0,Alive,1,2018,1,2018,1,2016,0.0,No,Healthy
+A788432,Manor,Stray,Normal,Dog,Intact Female,46.0,Other,Mix color,Spayed Female,58.0,Alive,2,2019,2,2019,12,2018,12.0,No,Healthy
+A771076,Austin,Stray,Normal,Dog,Intact Female,365.0,Labrador Retriever Mix,White,Spayed Female,372.0,Alive,4,2018,5,2018,4,2017,7.0,No,Healthy
+A741684,Austin,Public Assist,Normal,Dog,Neutered Male,1963.0,Labrador Retriever Mix,Black,Neutered Male,1970.0,Alive,1,2017,1,2017,8,2011,7.0,No,Healthy
+A730925,Valle,Stray,Normal,Cat,Intact Female,366.0,Domestic Shorthair Mix,Mix color,Intact Female,374.0,Alive,7,2016,7,2016,7,2015,8.0,Yes,Healthy
+A800780,Austin,Stray,Normal,Dog,Intact Female,48.0,Labrador Retriever Mix,Mix color,Spayed Female,58.0,Alive,7,2019,8,2019,6,2019,10.0,No,Healthy
+A713630,Austin,Stray,Normal,Cat,Intact Male,37.0,Domestic Shorthair Mix,Tabby,Neutered Male,70.0,Alive,10,2015,11,2015,9,2015,33.0,No,Healthy
+A803766,Austin,Stray,Normal,Dog,Intact Female,62.0,Other,Mix color,Intact Female,69.0,Alive,9,2019,9,2019,7,2019,7.0,Yes,Healthy
+A678380,Austin,Stray,Normal,Cat,Intact Female,47.0,Domestic Shorthair Mix,Tortie,Intact Female,52.0,Alive,5,2014,5,2014,3,2014,5.0,Yes,Healthy
+A747980,Austin,Owner Surrender,Normal,Dog,Spayed Female,2205.0,Other,Mix color,Spayed Female,2210.0,Alive,5,2017,5,2017,4,2011,5.0,No,Healthy
+A712064,Austin,Stray,Normal,Cat,Unknown,184.0,Domestic Shorthair Mix,Black,Unknown,185.0,Alive,9,2015,9,2015,3,2015,1.0,Unknown,Healthy
+A773023,Valle,Stray,Normal,Cat,Intact Female,22.0,Domestic Shorthair Mix,Tabby,Intact Female,22.0,Alive,5,2018,5,2018,5,2018,0.0,Yes,Healthy
+A760560,Austin,Stray,Normal,Cat,Intact Male,45.0,Domestic Medium Hair Mix,Mix color,Neutered Male,68.0,Alive,10,2017,11,2017,9,2017,23.0,No,Healthy
+A676759,Austin,Stray,Normal,Cat,Intact Female,22.0,Domestic Shorthair Mix,Mix color,Intact Female,22.0,Alive,4,2014,4,2014,3,2014,0.0,Yes,Healthy
+A758616,Austin,Stray,Normal,Cat,Intact Male,7.0,Domestic Shorthair Mix,Tabby,Intact Male,7.0,Alive,9,2017,9,2017,9,2017,0.0,Yes,Healthy
+A681001,Austin,Stray,Sick,Cat,Intact Female,3573.5499999999965,Domestic Shorthair Mix,Mix color,Intact Female,3575.6999999999966,Death,6,2014,6,2014,6,2004,2.150000000000091,Yes,Unhealthy
+A501071,Austin,Public Assist,Normal,Cat,Neutered Male,2873.0,Other,Tabby,Neutered Male,2898.0,Alive,3,2015,4,2015,4,2007,25.0,No,Healthy
+A791392,Austin,Public Assist,Normal,Dog,Neutered Male,3289.0,Other,Mix color,Neutered Male,3290.0,Alive,3,2019,3,2019,3,2010,1.0,No,Healthy
+A744714,Austin,Stray,Normal,Dog,Intact Male,212.0,Other,Mix color,Neutered Male,219.0,Alive,3,2017,3,2017,8,2016,7.0,No,Healthy
+A756987,Austin,Stray,Normal,Cat,Intact Female,61.0,Domestic Shorthair Mix,Black,Intact Female,65.0,Alive,8,2017,9,2017,6,2017,4.0,Yes,Healthy
+A738580,Austin,Stray,Injured,Cat,Intact Male,366.0,Domestic Shorthair Mix,Black,Neutered Male,438.0,Alive,11,2016,1,2017,11,2015,72.0,No,Unhealthy
+A793202,Austin,Stray,Normal,Cat,Intact Female,516.0,Domestic Shorthair Mix,Black,Spayed Female,527.0,Alive,4,2019,5,2019,11,2017,11.0,No,Healthy
+A810753,Austin,Stray,Normal,Dog,Spayed Female,2770.0,Other,Mix color,Spayed Female,2774.0,Alive,12,2019,12,2019,5,2012,4.0,No,Healthy
+A736263,Austin,Stray,Normal,Dog,Intact Male,33.0,Chihuahua Shorthair Mix,Mix color,Neutered Male,57.0,Alive,10,2016,11,2016,9,2016,24.0,No,Healthy
+A728189,Austin,Stray,Normal,Dog,Spayed Female,3288.0,Other,Tan,Spayed Female,3289.0,Alive,5,2016,6,2016,5,2007,1.0,No,Healthy
+A727808,Austin,Stray,Normal,Cat,Spayed Female,731.0,Domestic Shorthair Mix,Other,Spayed Female,731.0,Death,5,2016,5,2016,5,2014,0.0,No,Healthy
+A664369,Valle,Public Assist,Normal,Dog,Intact Male,131.0,Other,Black,Neutered Male,138.0,Alive,10,2013,10,2013,5,2013,7.0,No,Healthy
+A778362,Austin,Stray,Normal,Dog,Intact Female,122.0,German Shepherd Mix,Mix color,Spayed Female,127.0,Alive,8,2018,8,2018,4,2018,5.0,No,Healthy
+A777995,Austin,Stray,Normal,Dog,Intact Male,730.0,Labrador Retriever Mix,Mix color,Neutered Male,741.0,Alive,8,2018,8,2018,8,2016,11.0,No,Healthy
+A676664,Austin,Stray,Normal,Dog,Intact Male,274.0,Other,Black,Neutered Male,305.0,Alive,4,2014,5,2014,7,2013,31.0,No,Healthy
+A799977,Austin,Public Assist,Normal,Dog,Intact Male,733.0,Other,Mix color,Intact Male,741.0,Alive,7,2019,7,2019,7,2017,8.0,Yes,Healthy
+A693174,Austin,Owner Surrender,Normal,Cat,Intact Female,87.0,Domestic Shorthair Mix,Mix color,Spayed Female,101.0,Alive,12,2014,12,2014,9,2014,14.0,No,Healthy
+A811844,Austin,Owner Surrender,Normal,Cat,Spayed Female,2801.0,Other,Mix color,Spayed Female,2803.0,Alive,1,2020,1,2020,5,2012,2.0,No,Healthy
+A681163,Austin,Stray,Nursing,Cat,Intact Male,15.0,Domestic Shorthair Mix,Tabby,Intact Male,15.0,Alive,6,2014,6,2014,5,2014,0.0,Yes,Healthy
+A739845,Pflugerville,Stray,Normal,Dog,Neutered Male,1114.0,Pit Bull Mix,Mix color,Neutered Male,1115.0,Alive,12,2016,12,2016,11,2013,1.0,No,Healthy
+A806434,Austin,Owner Surrender,Sick,Dog,Intact Male,730.0,Other,Mix color,Neutered Male,733.0,Alive,10,2019,10,2019,10,2017,3.0,No,Unhealthy
+A793704,Austin,Stray,Normal,Cat,Intact Female,26.0,Domestic Shorthair Mix,Blue,Intact Female,28.0,Alive,4,2019,4,2019,4,2019,2.0,Yes,Healthy
+A709923,Austin,Stray,Normal,Cat,Intact Male,22.0,Domestic Shorthair Mix,Tabby,Intact Male,22.0,Alive,8,2015,8,2015,7,2015,0.0,Yes,Healthy
+A698655,Austin,Stray,Normal,Dog,Intact Male,2556.0,Other,Other,Neutered Male,2565.0,Alive,3,2015,3,2015,3,2008,9.0,No,Healthy
+A747325,Austin,Stray,Nursing,Dog,Intact Male,2.0,Chihuahua Shorthair Mix,Tan,Neutered Male,83.0,Alive,4,2017,7,2017,4,2017,81.0,No,Healthy
+A770180,Austin,Public Assist,Normal,Dog,Neutered Male,212.0,Other,Mix color,Neutered Male,221.0,Alive,4,2018,4,2018,9,2017,9.0,No,Healthy
+A650349,Austin,Owner Surrender,Normal,Cat,Spayed Female,2401.0,Domestic Shorthair Mix,Tortie,Spayed Female,2456.0,Alive,10,2013,12,2013,3,2007,55.0,No,Healthy
+A750007,Austin,Stray,Normal,Cat,Intact Female,30.0,Domestic Shorthair Mix,Tortie,Spayed Female,49.0,Alive,5,2017,6,2017,4,2017,19.0,No,Healthy
+A746377,Austin,Wildlife,Normal,Other,Unknown,365.0,Bat Mix,Brown,Unknown,366.0,Death,4,2017,4,2017,4,2016,1.0,Unknown,Healthy
+A725298,Austin,Stray,Normal,Cat,Intact Male,366.0,Siamese Mix,Point,Neutered Male,372.0,Alive,4,2016,5,2016,4,2015,6.0,No,Healthy
+A785393,Travis,Stray,Normal,Dog,Intact Female,183.0,Other,Blue,Spayed Female,240.0,Alive,12,2018,1,2019,6,2018,57.0,No,Healthy
+A720159,Austin,Stray,Normal,Cat,Intact Male,69.0,Domestic Shorthair Mix,Black,Neutered Male,108.0,Alive,2,2016,3,2016,11,2015,39.0,No,Healthy
+A665404,Austin,Stray,Normal,Dog,Spayed Female,1461.0,Other,Mix color,Spayed Female,1461.0,Alive,10,2013,10,2013,10,2009,0.0,No,Healthy
+A758526,Austin,Stray,Normal,Cat,Intact Female,31.0,Other,Torbie,Spayed Female,62.0,Alive,9,2017,10,2017,8,2017,31.0,No,Healthy
+A664503,Travis,Stray,Normal,Cat,Intact Male,76.0,Domestic Shorthair Mix,Mix color,Neutered Male,82.0,Alive,10,2013,10,2013,7,2013,6.0,No,Healthy
+A766606,Austin,Stray,Normal,Cat,Spayed Female,276.0,Domestic Shorthair Mix,Black,Spayed Female,281.0,Alive,2,2018,2,2018,5,2017,5.0,No,Healthy
+A701094,Austin,Stray,Normal,Cat,Intact Male,151.0,Domestic Shorthair Mix,Tabby,Intact Male,152.0,Alive,4,2015,4,2015,11,2014,1.0,Yes,Healthy
+A704365,Austin,Stray,Normal,Cat,Intact Female,61.0,Domestic Shorthair Mix,Mix color,Spayed Female,96.0,Alive,6,2015,7,2015,4,2015,35.0,No,Healthy
+A799230,Austin,Stray,Sick,Cat,Intact Male,52.0,Domestic Shorthair,Mix color,Intact Male,53.0,Alive,7,2019,7,2019,5,2019,1.0,Yes,Unhealthy
+A718115,Austin,Stray,Normal,Cat,Intact Male,1461.0,Domestic Shorthair Mix,Mix color,Neutered Male,1479.0,Alive,12,2015,1,2016,12,2011,18.0,No,Healthy
+A786061,Austin,Owner Surrender,Normal,Cat,Intact Female,46.0,Domestic Medium Hair Mix,Tortie,Spayed Female,77.0,Alive,12,2018,1,2019,10,2018,31.0,No,Healthy
+A590089,Austin,Euthanasia Request,Normal,Dog,Spayed Female,1895.0,Other,Mix color,Spayed Female,1896.0,Death,4,2015,4,2015,2,2010,1.0,No,Healthy
+A788861,Austin,Owner Surrender,Normal,Cat,Neutered Male,1826.0,Other,Tabby,Neutered Male,1830.0,Alive,2,2019,2,2019,2,2014,4.0,No,Healthy
+A689842,Austin,Stray,Normal,Dog,Intact Female,107.0,Other,Other,Spayed Female,117.0,Alive,10,2014,10,2014,6,2014,10.0,No,Healthy
+A797021,Austin,Stray,Normal,Cat,Intact Male,61.0,Other,Mix color,Intact Male,74.0,Alive,6,2019,6,2019,4,2019,13.0,Yes,Healthy
+A702589,Austin,Wildlife,Normal,Other,Unknown,30.0,Other,Mix color,Unknown,30.0,Death,5,2015,5,2015,4,2015,0.0,Unknown,Healthy
+A687387,Austin,Stray,Normal,Other,Intact Male,365.0,Other,Tan,Intact Male,419.0,Alive,9,2014,10,2014,9,2013,54.0,Yes,Healthy
+A712303,Austin,Public Assist,Normal,Dog,Spayed Female,549.0,Other,Mix color,Spayed Female,560.0,Alive,9,2015,10,2015,3,2014,11.0,No,Healthy
+A683663,Austin,Stray,Normal,Cat,Intact Female,150.0,Domestic Shorthair Mix,Mix color,Intact Female,151.0,Alive,7,2014,7,2014,2,2014,1.0,Yes,Healthy
+A730796,Austin,Stray,Normal,Dog,Intact Female,735.0,Labrador Retriever Mix,Mix color,Spayed Female,744.0,Alive,7,2016,7,2016,7,2014,9.0,No,Healthy
+A686268,Austin,Owner Surrender,Normal,Cat,Intact Male,259.0,Domestic Shorthair Mix,Mix color,Neutered Male,270.0,Alive,8,2014,8,2014,12,2013,11.0,No,Healthy
+A697230,Austin,Stray,Injured,Cat,Intact Female,3287.0,Domestic Shorthair Mix,Black,Intact Female,3287.0,Death,2,2015,2,2015,2,2006,0.0,Yes,Unhealthy
+A684893,Austin,Public Assist,Normal,Dog,Spayed Female,1217.0,German Shepherd Mix,Mix color,Spayed Female,1225.0,Alive,7,2014,8,2014,4,2011,8.0,No,Healthy
+A689405,Austin,Wildlife,Normal,Other,Unknown,730.0,Bat Mix,Brown,Unknown,730.0,Death,10,2014,10,2014,10,2012,0.0,Unknown,Healthy
+A759799,Austin,Stray,Normal,Cat,Intact Female,61.0,Domestic Shorthair Mix,Mix color,Spayed Female,66.0,Alive,10,2017,10,2017,8,2017,5.0,No,Healthy
+A739141,Austin,Stray,Sick,Dog,Neutered Male,2922.0,Other,Mix color,Neutered Male,2926.0,Alive,11,2016,12,2016,11,2008,4.0,No,Unhealthy
+A678671,Austin,Owner Surrender,Normal,Cat,Intact Male,6.0,Domestic Shorthair Mix,Tabby,Neutered Male,68.0,Alive,5,2014,7,2014,5,2014,62.0,No,Healthy
+A803408,Austin,Stray,Normal,Cat,Unknown,137.0,Domestic Shorthair Mix,Torbie,Unknown,140.0,Alive,8,2019,9,2019,4,2019,3.0,Unknown,Healthy
+A650399,Austin,Stray,Normal,Dog,Neutered Male,954.0,Other,Mix color,Neutered Male,963.0,Alive,11,2013,11,2013,3,2011,9.0,No,Healthy
+A719490,Valle,Stray,Normal,Dog,Intact Male,52.0,Labrador Retriever Mix,Black,Intact Male,54.0,Alive,1,2016,1,2016,11,2015,2.0,Yes,Healthy
+A781923,Travis,Public Assist,Normal,Dog,Neutered Male,3573.5499999999965,Chihuahua Shorthair Mix,Tan,Neutered Male,3575.6999999999966,Alive,10,2018,10,2018,10,2006,2.150000000000091,No,Healthy
+A746513,Austin,Stray,Normal,Dog,Neutered Male,365.0,Other,White,Neutered Male,365.0,Alive,4,2017,4,2017,4,2016,0.0,No,Healthy
+A708346,Austin,Stray,Normal,Cat,Intact Female,76.0,Domestic Shorthair Mix,Blue,Spayed Female,80.0,Alive,7,2015,7,2015,5,2015,4.0,No,Healthy
+A713344,Austin,Stray,Normal,Cat,Intact Male,28.0,Domestic Medium Hair Mix,Blue,Neutered Male,76.0,Alive,10,2015,11,2015,9,2015,48.0,No,Healthy
+A684222,Austin,Stray,Normal,Dog,Intact Male,1630.0,Pit Bull Mix,Mix color,Intact Male,1637.0,Alive,1,2016,1,2016,7,2011,7.0,Yes,Healthy
+A636542,Austin,Stray,Normal,Cat,Spayed Female,1876.0,Domestic Shorthair Mix,Mix color,Spayed Female,1877.0,Alive,10,2016,10,2016,9,2011,1.0,No,Healthy
+A620608,Austin,Stray,Normal,Dog,Neutered Male,3573.5499999999965,Other,White,Neutered Male,3575.6999999999966,Alive,4,2018,4,2018,2,2003,2.150000000000091,No,Healthy
+A690528,Austin,Wildlife,Normal,Other,Unknown,365.0,Other,Brown,Unknown,366.0,Death,10,2014,10,2014,10,2013,1.0,Unknown,Healthy
+A688168,Austin,Stray,Normal,Dog,Intact Male,730.0,Chihuahua Shorthair Mix,Yellow,Neutered Male,736.0,Alive,9,2014,9,2014,9,2012,6.0,No,Healthy
+A700242,Austin,Owner Surrender,Normal,Dog,Intact Female,2556.0,Other,Black,Intact Female,2569.0,Alive,4,2015,4,2015,4,2008,13.0,Yes,Healthy
+A710748,Austin,Stray,Normal,Cat,Intact Male,46.0,Domestic Shorthair Mix,Mix color,Neutered Male,86.0,Alive,8,2015,10,2015,7,2015,40.0,No,Healthy
+A777743,Austin,Stray,Normal,Dog,Intact Male,92.0,Other,Mix color,Intact Male,103.0,Alive,8,2018,8,2018,5,2018,11.0,Yes,Healthy
+A764672,Austin,Stray,Normal,Dog,Intact Male,1096.0,Other,Tan,Neutered Male,1162.0,Alive,1,2018,3,2018,1,2015,66.0,No,Healthy
+A781486,Austin,Stray,Normal,Dog,Spayed Female,365.0,Chihuahua Shorthair Mix,Mix color,Spayed Female,370.0,Alive,9,2018,10,2018,9,2017,5.0,No,Healthy
+A697606,Austin,Stray,Normal,Dog,Intact Female,549.0,Other,Mix color,Spayed Female,554.0,Alive,2,2015,3,2015,8,2013,5.0,No,Healthy
+A761322,Austin,Stray,Normal,Dog,Intact Male,273.0,Other,Mix color,Intact Male,273.0,Alive,11,2017,11,2017,2,2017,0.0,Yes,Healthy
+A755142,Austin,Stray,Normal,Cat,Unknown,15.0,Domestic Shorthair Mix,Black,Unknown,15.0,Alive,7,2017,7,2017,7,2017,0.0,Unknown,Healthy
+A798441,Travis,Stray,Normal,Cat,Intact Female,68.0,Domestic Shorthair,Mix color,Intact Female,73.0,Alive,6,2019,7,2019,4,2019,5.0,Yes,Healthy
+A776040,Austin,Stray,Normal,Cat,Intact Female,83.0,Domestic Shorthair Mix,Mix color,Spayed Female,87.0,Alive,7,2018,7,2018,4,2018,4.0,No,Healthy
+A798043,Austin,Stray,Normal,Cat,Intact Female,61.0,Domestic Shorthair,Tortie,Spayed Female,65.0,Alive,6,2019,6,2019,4,2019,4.0,No,Healthy
+A698641,Austin,Owner Surrender,Sick,Dog,Neutered Male,3573.5499999999965,Pit Bull Mix,Mix color,Neutered Male,3575.6999999999966,Death,3,2015,3,2015,3,2005,2.150000000000091,No,Unhealthy
+A802042,Austin,Stray,Normal,Cat,Intact Female,76.0,Domestic Shorthair Mix,Tabby,Spayed Female,99.0,Alive,8,2019,9,2019,5,2019,23.0,No,Healthy
+A762307,Austin,Stray,Normal,Dog,Neutered Male,731.0,German Shepherd Mix,Mix color,Neutered Male,733.0,Alive,11,2017,11,2017,11,2015,2.0,No,Healthy
+A802787,Travis,Stray,Injured,Dog,Intact Female,46.0,Chihuahua Shorthair Mix,Mix color,Spayed Female,75.0,Alive,8,2019,9,2019,7,2019,29.0,No,Unhealthy
+A758639,Austin,Stray,Normal,Dog,Intact Male,304.0,Other,Mix color,Neutered Male,312.0,Alive,9,2017,9,2017,11,2016,8.0,No,Healthy
+A743525,Austin,Stray,Normal,Dog,Intact Female,366.0,Other,Mix color,Spayed Female,373.0,Alive,2,2017,2,2017,2,2016,7.0,No,Healthy
+A803437,Austin,Stray,Normal,Dog,Neutered Male,1826.0,Chihuahua Shorthair Mix,Tan,Neutered Male,1835.0,Alive,9,2019,9,2019,9,2014,9.0,No,Healthy
+A749689,Travis,Stray,Normal,Dog,Neutered Male,365.0,German Shepherd Mix,Cream,Neutered Male,375.0,Alive,5,2017,5,2017,5,2016,10.0,No,Healthy
+A785024,Austin,Stray,Normal,Dog,Intact Female,365.0,Other,Tricolor,Spayed Female,452.0,Alive,11,2018,2,2019,11,2017,87.0,No,Healthy
+A797631,Austin,Stray,Normal,Dog,Intact Female,730.0,Other,Mix color,Spayed Female,769.0,Alive,6,2019,7,2019,6,2017,39.0,No,Healthy
+A765736,Austin,Owner Surrender,Normal,Dog,Intact Male,334.0,Chihuahua Shorthair Mix,Mix color,Neutered Male,337.0,Alive,1,2018,1,2018,2,2017,3.0,No,Healthy
+A713635,Austin,Public Assist,Normal,Dog,Spayed Female,1095.0,Other,Brown,Spayed Female,1099.0,Alive,10,2015,10,2015,10,2012,4.0,No,Healthy
+A704360,Austin,Stray,Normal,Cat,Intact Female,61.0,Domestic Shorthair Mix,Tabby,Spayed Female,85.0,Alive,6,2015,6,2015,4,2015,24.0,No,Healthy
+A747387,Austin,Owner Surrender,Normal,Dog,Intact Male,548.0,Other,Mix color,Neutered Male,555.0,Alive,4,2017,4,2017,10,2015,7.0,No,Healthy
+A798224,Austin,Stray,Normal,Cat,Intact Male,53.0,Domestic Shorthair Mix,Mix color,Neutered Male,61.0,Alive,6,2019,7,2019,5,2019,8.0,No,Healthy
+A686406,Austin,Stray,Injured,Dog,Intact Male,365.0,Other,Mix color,Neutered Male,369.0,Alive,8,2014,8,2014,8,2013,4.0,No,Unhealthy
+A677792,Austin,Owner Surrender,Nursing,Cat,Intact Female,7.0,Domestic Shorthair Mix,Mix color,Intact Female,7.0,Death,4,2014,4,2014,4,2014,0.0,Yes,Healthy
+A732541,Austin,Stray,Normal,Dog,Intact Female,244.0,Other,Tan,Spayed Female,364.0,Alive,8,2016,12,2016,12,2015,120.0,No,Healthy
+A684102,Austin,Stray,Normal,Cat,Intact Male,30.0,Domestic Shorthair Mix,Mix color,Intact Male,30.0,Alive,7,2014,7,2014,6,2014,0.0,Yes,Healthy
+A710332,Austin,Stray,Normal,Cat,Intact Female,46.0,Domestic Shorthair Mix,Tabby,Intact Female,75.0,Alive,8,2015,9,2015,7,2015,29.0,Yes,Healthy
+A730385,Austin,Stray,Normal,Dog,Intact Female,366.0,Pit Bull Mix,Mix color,Spayed Female,373.0,Alive,7,2016,7,2016,7,2015,7.0,No,Healthy
+A700114,Outside Jurisdiction,Owner Surrender,Normal,Cat,Spayed Female,1151.0,Other,Mix color,Spayed Female,1163.0,Alive,12,2016,12,2016,10,2013,12.0,No,Healthy
+A797429,Austin,Owner Surrender,Normal,Cat,Neutered Male,95.0,Domestic Shorthair,Tabby,Neutered Male,109.0,Alive,8,2019,8,2019,4,2019,14.0,No,Healthy
+A808995,Austin,Stray,Normal,Cat,Intact Female,88.0,Domestic Shorthair,Calico,Intact Female,102.0,Alive,11,2019,12,2019,8,2019,14.0,Yes,Healthy
+A764761,Austin,Stray,Normal,Dog,Spayed Female,731.0,Other,Cream,Spayed Female,735.0,Alive,1,2018,1,2018,1,2016,4.0,No,Healthy
+A681559,Austin,Stray,Normal,Cat,Intact Female,72.0,Domestic Shorthair Mix,Mix color,Spayed Female,88.0,Alive,6,2014,7,2014,4,2014,16.0,No,Healthy
+A668347,Leander,Stray,Normal,Dog,Intact Male,48.0,Other,Mix color,Intact Male,49.0,Alive,12,2013,12,2013,10,2013,1.0,Yes,Healthy
+A806156,Austin,Stray,Normal,Dog,Spayed Female,2829.0,Other,Mix color,Spayed Female,2831.0,Alive,10,2019,10,2019,1,2012,2.0,No,Healthy
+A642394,Austin,Owner Surrender,Normal,Cat,Neutered Male,1319.0,Domestic Shorthair Mix,Tabby,Neutered Male,1332.0,Alive,5,2016,5,2016,9,2012,13.0,No,Healthy
+A682473,Austin,Stray,Normal,Cat,Intact Female,304.0,Domestic Shorthair Mix,Mix color,Spayed Female,308.0,Alive,6,2014,7,2014,8,2013,4.0,No,Healthy
+A765515,Austin,Stray,Injured,Cat,Spayed Female,731.0,Domestic Shorthair Mix,Mix color,Spayed Female,755.0,Alive,1,2018,2,2018,1,2016,24.0,No,Unhealthy
+A686861,Austin,Stray,Sick,Cat,Spayed Female,730.0,Domestic Shorthair Mix,Tabby,Spayed Female,730.0,Death,8,2014,8,2014,8,2012,0.0,No,Unhealthy
+A684475,Austin,Stray,Normal,Cat,Spayed Female,3340.0,Domestic Shorthair Mix,Mix color,Spayed Female,3352.0,Alive,7,2014,8,2014,6,2005,12.0,No,Healthy
+A810964,Austin,Wildlife,Normal,Other,Unknown,365.0,Other,Brown,Unknown,365.0,Death,12,2019,12,2019,12,2018,0.0,Unknown,Healthy
+A782653,Austin,Public Assist,Sick,Bird,Unknown,730.0,Other,White,Unknown,730.0,Death,10,2018,10,2018,10,2016,0.0,Unknown,Unhealthy
+A744201,Austin,Owner Surrender,Normal,Dog,Neutered Male,314.0,German Shepherd Mix,Mix color,Neutered Male,319.0,Alive,11,2017,11,2017,12,2016,5.0,No,Healthy
+A674305,Austin,Stray,Normal,Dog,Neutered Male,1587.0,Other,Mix color,Neutered Male,1597.0,Alive,7,2014,7,2014,3,2010,10.0,No,Healthy
+A798878,Austin,Stray,Normal,Cat,Unknown,730.0,Domestic Shorthair,Black,Unknown,734.0,Alive,7,2019,7,2019,7,2017,4.0,Unknown,Healthy
+A791457,Austin,Stray,Normal,Cat,Intact Male,0.0,Domestic Shorthair Mix,Mix color,Neutered Male,85.0,Alive,3,2019,6,2019,3,2019,85.0,No,Healthy
+A800418,Austin,Stray,Normal,Dog,Intact Male,730.0,Other,Mix color,Neutered Male,734.0,Alive,7,2019,7,2019,7,2017,4.0,No,Healthy
+A772083,Austin,Stray,Normal,Cat,Intact Male,27.0,Domestic Shorthair Mix,Tabby,Neutered Male,74.0,Alive,5,2018,6,2018,4,2018,47.0,No,Healthy
+A767399,Outside Jurisdiction,Owner Surrender,Normal,Cat,Spayed Female,1096.0,Domestic Shorthair Mix,Black,Spayed Female,1113.0,Alive,2,2018,3,2018,2,2015,17.0,No,Healthy
+A785881,Travis,Public Assist,Normal,Dog,Neutered Male,2191.0,Other,Mix color,Neutered Male,2192.0,Alive,12,2018,12,2018,12,2012,1.0,No,Healthy
+A665608,Austin,Stray,Normal,Cat,Intact Female,22.0,Domestic Shorthair Mix,Tabby,Intact Female,22.0,Alive,10,2013,10,2013,9,2013,0.0,Yes,Healthy
+A693460,Austin,Stray,Normal,Dog,Intact Male,730.0,Other,Cream,Neutered Male,731.0,Alive,12,2014,12,2014,12,2012,1.0,No,Healthy
+A805214,Austin,Stray,Normal,Cat,Unknown,365.0,Domestic Shorthair,Tabby,Unknown,369.0,Alive,9,2019,9,2019,9,2018,4.0,Unknown,Healthy
+A729357,Austin,Public Assist,Normal,Cat,Spayed Female,2922.0,Domestic Shorthair Mix,Tabby,Spayed Female,2944.0,Alive,6,2016,7,2016,6,2008,22.0,No,Healthy
+A687474,Travis,Stray,Sick,Dog,Intact Female,34.0,Pit Bull Mix,Black,Intact Female,36.0,Alive,9,2014,9,2014,8,2014,2.0,Yes,Unhealthy
+A690944,Austin,Stray,Normal,Dog,Spayed Female,365.0,Pit Bull Mix,Mix color,Spayed Female,366.0,Alive,10,2014,10,2014,10,2013,1.0,No,Healthy
+A684061,Austin,Stray,Normal,Dog,Spayed Female,783.0,Other,Tricolor,Spayed Female,784.0,Alive,9,2014,9,2014,7,2012,1.0,No,Healthy
+A755767,Austin,Owner Surrender,Normal,Cat,Spayed Female,3573.5499999999965,Other,Black,Spayed Female,3575.6999999999966,Alive,8,2017,8,2017,8,2006,2.150000000000091,No,Healthy
+A682172,Austin,Owner Surrender,Normal,Cat,Intact Female,92.0,Domestic Shorthair Mix,Tabby,Spayed Female,94.0,Alive,6,2014,6,2014,3,2014,2.0,No,Healthy
+A752668,Austin,Owner Surrender,Normal,Dog,Spayed Female,731.0,Labrador Retriever Mix,Black,Spayed Female,734.0,Alive,6,2017,6,2017,6,2015,3.0,No,Healthy
+A669659,Austin,Stray,Normal,Dog,Intact Male,1461.0,Pit Bull Mix,Mix color,Intact Male,1463.0,Alive,12,2013,12,2013,12,2009,2.0,Yes,Healthy
+A687852,Austin,Public Assist,Normal,Cat,Neutered Male,184.0,Domestic Shorthair Mix,Blue,Neutered Male,185.0,Alive,9,2014,9,2014,3,2014,1.0,No,Healthy
+A710541,Austin,Stray,Normal,Cat,Intact Male,10.0,Domestic Shorthair Mix,Mix color,Neutered Male,64.0,Alive,8,2015,10,2015,8,2015,54.0,No,Healthy
+A760484,Austin,Stray,Normal,Cat,Intact Male,38.0,Domestic Shorthair Mix,Black,Neutered Male,76.0,Alive,10,2017,11,2017,9,2017,38.0,No,Healthy
+A740772,Austin,Owner Surrender,Normal,Cat,Neutered Male,1827.0,Domestic Shorthair Mix,Mix color,Neutered Male,1864.0,Alive,12,2016,1,2017,12,2011,37.0,No,Healthy
+A799131,Austin,Stray,Normal,Dog,Intact Male,45.0,Labrador Retriever Mix,Tricolor,Neutered Male,71.0,Alive,7,2019,7,2019,5,2019,26.0,No,Healthy
+A807051,Austin,Stray,Normal,Dog,Intact Male,1095.0,Other,Mix color,Intact Male,1095.0,Alive,10,2019,10,2019,10,2016,0.0,Yes,Healthy
+A672886,Austin,Stray,Normal,Dog,Intact Male,731.0,Chihuahua Shorthair Mix,Black,Neutered Male,739.0,Alive,2,2014,2,2014,2,2012,8.0,No,Healthy
+A711134,Valle,Stray,Normal,Dog,Intact Male,730.0,Other,Brown,Neutered Male,731.0,Alive,9,2015,9,2015,9,2013,1.0,No,Healthy
+A671411,Austin,Stray,Normal,Cat,Spayed Female,3573.5499999999965,Domestic Shorthair Mix,Calico,Spayed Female,3575.6999999999966,Alive,1,2014,3,2014,1,1998,2.150000000000091,No,Healthy
+A691239,Austin,Stray,Normal,Dog,Intact Male,304.0,Other,Black,Neutered Male,308.0,Alive,11,2014,11,2014,1,2014,4.0,No,Healthy
+A764748,Austin,Stray,Normal,Cat,Intact Male,46.0,Other,Mix color,Neutered Male,77.0,Alive,1,2018,2,2018,11,2017,31.0,No,Healthy
+A713216,Austin,Owner Surrender,Normal,Cat,Neutered Male,1328.0,Domestic Shorthair Mix,Mix color,Neutered Male,1411.0,Alive,10,2015,12,2015,2,2012,83.0,No,Healthy
+A769757,Austin,Stray,Normal,Dog,Intact Female,365.0,Other,Mix color,Intact Female,368.0,Alive,4,2018,4,2018,4,2017,3.0,Yes,Healthy
+A810207,Austin,Stray,Nursing,Dog,Intact Male,9.0,Pit Bull Mix,Brindle,Intact Male,33.0,Alive,12,2019,1,2020,11,2019,24.0,Yes,Healthy
+A674511,Austin,Owner Surrender,Normal,Dog,Spayed Female,777.0,Other,Mix color,Spayed Female,786.0,Death,4,2014,5,2014,3,2012,9.0,No,Healthy
+A788493,Austin,Stray,Normal,Dog,Neutered Male,306.0,Other,Cream,Neutered Male,310.0,Alive,2,2019,2,2019,4,2018,4.0,No,Healthy
+A766675,Austin,Owner Surrender,Normal,Cat,Neutered Male,3573.5499999999965,Domestic Shorthair Mix,Mix color,Neutered Male,3575.6999999999966,Alive,2,2018,2,2018,2,2007,2.150000000000091,No,Healthy
+A706141,Austin,Stray,Normal,Cat,Intact Female,31.0,Domestic Shorthair Mix,Mix color,Intact Female,31.0,Alive,6,2015,6,2015,5,2015,0.0,Yes,Healthy
+A756668,Austin,Stray,Normal,Cat,Intact Female,122.0,Domestic Shorthair Mix,Tortie,Intact Female,126.0,Alive,8,2017,8,2017,4,2017,4.0,Yes,Healthy
+A693641,Austin,Stray,Normal,Dog,Intact Male,730.0,Chihuahua Shorthair Mix,Mix color,Neutered Male,734.0,Alive,12,2014,12,2014,12,2012,4.0,No,Healthy
+A801970,Austin,Stray,Normal,Cat,Intact Male,16.0,Domestic Shorthair Mix,White,Intact Male,34.0,Alive,8,2019,8,2019,7,2019,18.0,Yes,Healthy
+A705928,Austin,Wildlife,Normal,Other,Unknown,31.0,Other,Red,Unknown,32.0,Death,6,2015,6,2015,5,2015,1.0,Unknown,Healthy
+A728395,Austin,Owner Surrender,Normal,Dog,Neutered Male,1461.0,Other,Mix color,Neutered Male,1462.0,Alive,6,2016,6,2016,6,2012,1.0,No,Healthy
+A711110,Austin,Stray,Nursing,Cat,Intact Female,22.0,Domestic Shorthair Mix,Torbie,Spayed Female,72.0,Alive,9,2015,10,2015,8,2015,50.0,No,Healthy
+A793725,Austin,Stray,Nursing,Cat,Intact Male,7.0,Domestic Shorthair Mix,Tabby,Intact Male,7.0,Alive,4,2019,4,2019,4,2019,0.0,Yes,Healthy
+A726540,Austin,Stray,Normal,Dog,Intact Male,0.0,Other,Brindle,Neutered Male,59.0,Alive,5,2016,7,2016,5,2016,59.0,No,Healthy
+A732674,Austin,Wildlife,Sick,Other,Unknown,731.0,Bat Mix,Brown,Unknown,732.0,Death,8,2016,8,2016,8,2014,1.0,Unknown,Unhealthy
+A803415,Austin,Stray,Normal,Dog,Intact Female,365.0,Other,Mix color,Spayed Female,372.0,Alive,8,2019,9,2019,8,2018,7.0,No,Healthy
+A748941,Austin,Stray,Normal,Cat,Intact Female,30.0,Other,Tabby,Spayed Female,131.0,Alive,5,2017,8,2017,4,2017,101.0,No,Healthy
+A736915,Austin,Stray,Normal,Cat,Spayed Female,731.0,Domestic Medium Hair Mix,Black,Spayed Female,733.0,Alive,10,2016,10,2016,10,2014,2.0,No,Healthy
+A808767,Austin,Stray,Normal,Dog,Intact Female,153.0,Other,Mix color,Spayed Female,159.0,Alive,11,2019,11,2019,6,2019,6.0,No,Healthy
+A744505,Austin,Wildlife,Normal,Other,Unknown,731.0,Bat Mix,Brown,Unknown,732.0,Death,3,2017,3,2017,3,2015,1.0,Unknown,Healthy
+A741444,Austin,Stray,Normal,Dog,Spayed Female,731.0,Other,Tan,Spayed Female,738.0,Alive,1,2017,1,2017,1,2015,7.0,No,Healthy
+A677592,Austin,Stray,Normal,Cat,Unknown,7.0,Domestic Shorthair Mix,Tabby,Unknown,7.0,Alive,4,2014,4,2014,4,2014,0.0,Unknown,Healthy
+A654191,Austin,Stray,Normal,Dog,Neutered Male,3573.5499999999965,Other,Mix color,Neutered Male,3575.6999999999966,Alive,5,2014,5,2014,5,2004,2.150000000000091,No,Healthy
+A664550,Austin,Stray,Nursing,Dog,Intact Male,4.0,Other,Mix color,Neutered Male,60.0,Alive,10,2013,11,2013,10,2013,56.0,No,Healthy
+A737140,Austin,Stray,Normal,Dog,Intact Male,45.0,German Shepherd Mix,Mix color,Intact Male,51.0,Alive,10,2016,10,2016,9,2016,6.0,Yes,Healthy
+A707041,Austin,Stray,Normal,Cat,Intact Male,61.0,Domestic Shorthair Mix,Mix color,Neutered Male,87.0,Alive,7,2015,8,2015,5,2015,26.0,No,Healthy
+A788786,Austin,Stray,Normal,Dog,Intact Male,730.0,Other,Mix color,Neutered Male,734.0,Alive,2,2019,2,2019,2,2017,4.0,No,Healthy
+A775903,Austin,Owner Surrender,Normal,Dog,Spayed Female,730.0,Other,Red,Spayed Female,915.0,Alive,7,2018,1,2019,7,2016,185.0,No,Healthy
+A670850,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Mix color,Neutered Male,376.0,Alive,1,2014,1,2014,1,2013,11.0,No,Healthy
+A701801,Austin,Stray,Normal,Cat,Neutered Male,1095.0,Domestic Shorthair Mix,Mix color,Neutered Male,1102.0,Alive,5,2015,5,2015,5,2012,7.0,No,Healthy
+A801523,Austin,Stray,Nursing,Cat,Intact Male,6.0,Domestic Shorthair,Mix color,Intact Male,6.0,Alive,8,2019,8,2019,7,2019,0.0,Yes,Healthy
+A757381,Austin,Public Assist,Normal,Dog,Spayed Female,484.0,Other,Cream,Spayed Female,492.0,Alive,10,2018,10,2018,6,2017,8.0,No,Healthy
+A712200,Austin,Stray,Normal,Cat,Intact Male,36.0,Domestic Shorthair Mix,Black,Intact Male,38.0,Alive,9,2015,9,2015,8,2015,2.0,Yes,Healthy
+A733048,Austin,Owner Surrender,Normal,Dog,Neutered Male,3573.5499999999965,Other,Mix color,Neutered Male,3575.6999999999966,Alive,9,2016,9,2016,9,2004,2.150000000000091,No,Healthy
+A700533,Travis,Stray,Normal,Dog,Intact Male,365.0,Other,Mix color,Neutered Male,368.0,Alive,4,2015,4,2015,4,2014,3.0,No,Healthy
+A365172,Austin,Owner Surrender,Normal,Dog,Neutered Male,3573.5499999999965,Labrador Retriever Mix,Mix color,Neutered Male,3575.6999999999966,Alive,8,2014,8,2014,8,2004,2.150000000000091,No,Healthy
+A728760,Travis,Stray,Normal,Dog,Intact Female,366.0,German Shepherd Mix,Mix color,Spayed Female,377.0,Alive,6,2016,6,2016,6,2015,11.0,No,Healthy
+A663868,Austin,Stray,Normal,Dog,Neutered Male,261.0,Other,Mix color,Neutered Male,1107.0,Alive,2,2016,10,2013,1,2013,846.0,No,Healthy
+A796298,Austin,Stray,Normal,Cat,Intact Female,365.0,Domestic Shorthair,Point,Intact Female,368.0,Alive,5,2019,6,2019,5,2018,3.0,Yes,Healthy
+A412626,Austin,Owner Surrender,Normal,Dog,Neutered Male,3573.5499999999965,Labrador Retriever Mix,Mix color,Neutered Male,3575.6999999999966,Alive,3,2016,3,2016,11,2003,2.150000000000091,No,Healthy
+A723751,Austin,Owner Surrender,Normal,Dog,Spayed Female,257.0,Other,Brindle,Spayed Female,268.0,Alive,6,2016,6,2016,10,2015,11.0,No,Healthy
+A696610,Austin,Stray,Normal,Dog,Intact Male,62.0,Labrador Retriever Mix,Mix color,Neutered Male,66.0,Alive,2,2015,2,2015,12,2014,4.0,No,Healthy
+A719862,Austin,Stray,Normal,Dog,Intact Female,153.0,Other,Mix color,Spayed Female,157.0,Alive,1,2016,2,2016,8,2015,4.0,No,Healthy
+A745621,Austin,Stray,Normal,Cat,Intact Female,151.0,Domestic Shorthair Mix,Black,Spayed Female,155.0,Alive,3,2017,3,2017,10,2016,4.0,No,Healthy
+A671318,Austin,Owner Surrender,Normal,Dog,Spayed Female,211.0,Other,Yellow,Spayed Female,214.0,Alive,4,2014,4,2014,9,2013,3.0,No,Healthy
+A748965,Austin,Stray,Normal,Cat,Intact Female,24.0,Domestic Shorthair Mix,Mix color,Spayed Female,77.0,Alive,5,2017,7,2017,4,2017,53.0,No,Healthy
+A780964,Austin,Owner Surrender,Normal,Dog,Neutered Male,3287.0,Labrador Retriever Mix,Mix color,Neutered Male,3396.0,Alive,9,2018,1,2019,9,2009,109.0,No,Healthy
+A697844,Austin,Stray,Normal,Dog,Spayed Female,546.0,German Shepherd Mix,Mix color,Spayed Female,550.0,Alive,3,2015,3,2015,9,2013,4.0,No,Healthy
+A775204,Austin,Public Assist,Normal,Dog,Intact Female,1096.0,Other,Mix color,Intact Female,1096.0,Alive,6,2018,6,2018,6,2015,0.0,Yes,Healthy
+A756394,Austin,Owner Surrender,Normal,Cat,Neutered Male,2922.0,Domestic Shorthair,Mix color,Neutered Male,2982.0,Alive,8,2017,10,2017,8,2009,60.0,No,Healthy
+A747563,Austin,Stray,Normal,Dog,Intact Male,731.0,Pit Bull Mix,Mix color,Neutered Male,748.0,Alive,4,2017,5,2017,4,2015,17.0,No,Healthy
+A765093,Pflugerville,Stray,Normal,Dog,Neutered Male,1096.0,Labrador Retriever Mix,Black,Neutered Male,1112.0,Alive,1,2018,1,2018,1,2015,16.0,No,Healthy
+A668605,Austin,Wildlife,Sick,Other,Unknown,365.0,Other,Other,Unknown,365.0,Death,12,2013,12,2013,12,2012,0.0,Unknown,Unhealthy
+A740997,Austin,Stray,Normal,Dog,Intact Female,167.0,German Shepherd Mix,Mix color,Spayed Female,171.0,Alive,12,2016,12,2016,7,2016,4.0,No,Healthy
+A809550,Austin,Owner Surrender,Normal,Cat,Intact Male,76.0,Other,Mix color,Neutered Male,82.0,Alive,11,2019,12,2019,9,2019,6.0,No,Healthy
+A677468,Austin,Stray,Normal,Cat,Intact Female,31.0,Domestic Shorthair Mix,Tabby,Intact Female,33.0,Alive,4,2014,4,2014,3,2014,2.0,Yes,Healthy
+A669494,Manor,Owner Surrender,Normal,Dog,Spayed Female,606.0,Labrador Retriever Mix,Mix color,Spayed Female,613.0,Alive,12,2013,12,2013,4,2012,7.0,No,Healthy
+A797406,Austin,Stray,Normal,Dog,Intact Female,730.0,Other,Mix color,Intact Female,735.0,Alive,6,2019,6,2019,6,2017,5.0,Yes,Healthy
+A801597,Pflugerville,Stray,Normal,Other,Spayed Female,92.0,Other,Other,Spayed Female,95.0,Alive,8,2019,8,2019,5,2019,3.0,No,Healthy
+A772718,Austin,Stray,Normal,Cat,Intact Male,30.0,Domestic Shorthair Mix,Mix color,Neutered Male,87.0,Alive,5,2018,7,2018,4,2018,57.0,No,Healthy
+A796433,Austin,Stray,Normal,Cat,Intact Male,22.0,Domestic Shorthair Mix,Mix color,Neutered Male,59.0,Alive,6,2019,7,2019,5,2019,37.0,No,Healthy
+A781004,Austin,Owner Surrender,Normal,Cat,Intact Female,62.0,Domestic Shorthair Mix,Mix color,Spayed Female,65.0,Alive,9,2018,9,2018,7,2018,3.0,No,Healthy
+A654090,Austin,Owner Surrender,Normal,Cat,Spayed Female,950.0,Domestic Shorthair Mix,Mix color,Spayed Female,959.0,Alive,12,2013,12,2013,5,2011,9.0,No,Healthy
+A746091,Austin,Stray,Normal,Dog,Intact Female,365.0,Chihuahua Shorthair Mix,Tan,Intact Female,372.0,Alive,3,2017,4,2017,3,2016,7.0,Yes,Healthy
+A705197,Austin,Stray,Normal,Cat,Intact Male,33.0,Domestic Shorthair Mix,Mix color,Neutered Male,67.0,Alive,6,2015,7,2015,5,2015,34.0,No,Healthy
+A747805,Austin,Stray,Normal,Cat,Intact Female,14.0,Domestic Shorthair,Mix color,Spayed Female,123.0,Alive,4,2017,8,2017,4,2017,109.0,No,Healthy
+A787644,Austin,Stray,Normal,Dog,Intact Female,118.0,Other,Mix color,Spayed Female,122.0,Alive,1,2019,1,2019,9,2018,4.0,No,Healthy
+A726306,Austin,Stray,Normal,Cat,Intact Male,366.0,Domestic Medium Hair Mix,Tabby,Neutered Male,372.0,Alive,5,2016,5,2016,5,2015,6.0,No,Healthy
+A812292,Austin,Stray,Normal,Dog,Intact Male,306.0,Other,Brindle,Neutered Male,311.0,Alive,1,2020,1,2020,3,2019,5.0,No,Healthy
+A672474,Austin,Stray,Normal,Dog,Intact Male,2191.0,Chihuahua Shorthair Mix,Mix color,Neutered Male,2194.0,Alive,2,2014,2,2014,2,2008,3.0,No,Healthy
+A434171,Austin,Stray,Injured,Dog,Spayed Female,3573.5499999999965,Other,Mix color,Spayed Female,3575.6999999999966,Alive,11,2019,11,2019,11,2005,2.150000000000091,No,Unhealthy
+A786979,Austin,Owner Surrender,Normal,Cat,Spayed Female,1461.0,Domestic Shorthair Mix,Tabby,Spayed Female,1670.0,Alive,1,2019,8,2019,1,2015,209.0,No,Healthy
+A742780,Travis,Stray,Normal,Dog,Intact Male,1096.0,Other,Mix color,Intact Male,1107.0,Alive,1,2017,2,2017,1,2014,11.0,Yes,Healthy
+A717559,Austin,Stray,Normal,Cat,Intact Female,71.0,Domestic Shorthair Mix,Torbie,Spayed Female,78.0,Alive,12,2015,12,2015,9,2015,7.0,No,Healthy
+A761359,Austin,Stray,Normal,Dog,Intact Female,92.0,Chihuahua Shorthair Mix,Tan,Spayed Female,96.0,Alive,11,2017,11,2017,8,2017,4.0,No,Healthy
+A809939,Austin,Stray,Normal,Other,Intact Male,730.0,Other,Brown,Neutered Male,760.0,Alive,12,2019,1,2020,12,2017,30.0,No,Healthy
+A711903,Austin,Stray,Normal,Cat,Intact Male,40.0,Domestic Shorthair Mix,Black,Intact Male,44.0,Alive,9,2015,9,2015,8,2015,4.0,Yes,Healthy
+A789942,Austin,Owner Surrender,Normal,Cat,Intact Female,59.0,Domestic Shorthair Mix,Tabby,Spayed Female,63.0,Alive,3,2019,3,2019,1,2019,4.0,No,Healthy
+A765847,Pflugerville,Owner Surrender,Normal,Dog,Intact Male,17.0,Labrador Retriever Mix,Tricolor,Neutered Male,66.0,Alive,1,2018,2,2018,12,2017,49.0,No,Healthy
+A715686,Austin,Stray,Normal,Dog,Spayed Female,365.0,Other,Mix color,Spayed Female,367.0,Alive,11,2015,11,2015,11,2014,2.0,No,Healthy
+A534548,Austin,Stray,Normal,Dog,Spayed Female,2462.0,Other,Mix color,Spayed Female,2472.0,Alive,4,2014,5,2014,8,2007,10.0,No,Healthy
+A736382,Austin,Stray,Normal,Dog,Intact Male,243.0,Other,Mix color,Intact Male,255.0,Alive,10,2016,10,2016,2,2016,12.0,Yes,Healthy
+A805042,Manor,Owner Surrender,Normal,Dog,Intact Male,42.0,Other,Mix color,Intact Male,48.0,Alive,9,2019,9,2019,8,2019,6.0,Yes,Healthy
+A730919,Austin,Stray,Normal,Dog,Intact Male,274.0,Other,Mix color,Intact Male,274.0,Alive,7,2016,7,2016,10,2015,0.0,Yes,Healthy
+A668905,Austin,Stray,Normal,Dog,Intact Female,731.0,Other,Mix color,Spayed Female,743.0,Alive,12,2013,12,2013,12,2011,12.0,No,Healthy
+A809150,Austin,Stray,Normal,Cat,Unknown,365.0,Domestic Shorthair Mix,Tabby,Unknown,370.0,Alive,11,2019,11,2019,11,2018,5.0,Unknown,Healthy
+A681340,Austin,Stray,Normal,Cat,Intact Male,14.0,Domestic Shorthair Mix,Mix color,Neutered Male,85.0,Alive,6,2014,8,2014,6,2014,71.0,No,Healthy
+A751584,Austin,Stray,Normal,Cat,Intact Male,46.0,Domestic Shorthair Mix,Mix color,Intact Male,56.0,Alive,6,2017,6,2017,4,2017,10.0,Yes,Healthy
+A735972,Austin,Stray,Normal,Dog,Neutered Male,450.0,Other,Mix color,Neutered Male,450.0,Alive,10,2016,10,2016,7,2015,0.0,No,Healthy
+A799805,Austin,Public Assist,Normal,Dog,Intact Male,365.0,Other,Mix color,Neutered Male,376.0,Alive,7,2019,7,2019,7,2018,11.0,No,Healthy
+A690386,Austin,Stray,Injured,Cat,Intact Male,122.0,Domestic Medium Hair Mix,Mix color,Intact Male,123.0,Death,10,2014,10,2014,6,2014,1.0,Yes,Unhealthy
+A738032,Austin,Stray,Normal,Cat,Intact Male,61.0,Domestic Shorthair Mix,Other,Neutered Male,69.0,Alive,11,2016,11,2016,9,2016,8.0,No,Healthy
+A740231,Austin,Stray,Normal,Cat,Intact Female,91.0,Domestic Shorthair Mix,Tortie,Spayed Female,95.0,Alive,12,2016,12,2016,9,2016,4.0,No,Healthy
+A779667,Manor,Public Assist,Normal,Bird,Intact Female,365.0,Other,Brown,Intact Female,383.0,Alive,9,2018,9,2018,9,2017,18.0,Yes,Healthy
+A674507,Austin,Owner Surrender,Normal,Dog,Neutered Male,730.0,Other,Mix color,Neutered Male,744.0,Alive,3,2014,3,2014,3,2012,14.0,No,Healthy
+A681281,Austin,Stray,Normal,Cat,Intact Female,73.0,Domestic Shorthair Mix,Tabby,Spayed Female,100.0,Alive,6,2014,7,2014,4,2014,27.0,No,Healthy
+A689351,Austin,Stray,Normal,Dog,Intact Male,730.0,Pit Bull Mix,Mix color,Neutered Male,742.0,Alive,10,2014,10,2014,10,2012,12.0,No,Healthy
+A799752,Austin,Stray,Sick,Dog,Intact Female,510.0,Other,Black,Intact Female,515.0,Alive,7,2019,7,2019,2,2018,5.0,Yes,Unhealthy
+A690543,Outside Jurisdiction,Stray,Normal,Dog,Spayed Female,411.0,Pit Bull Mix,Mix color,Spayed Female,412.0,Alive,12,2014,12,2014,10,2013,1.0,No,Healthy
+A801576,Austin,Stray,Normal,Dog,Intact Female,1095.0,Other,Mix color,Intact Female,1110.0,Alive,8,2019,8,2019,8,2016,15.0,Yes,Healthy
+A787392,Travis,Owner Surrender,Normal,Dog,Neutered Male,763.0,Other,Mix color,Neutered Male,765.0,Alive,2,2019,2,2019,1,2017,2.0,No,Healthy
+A686093,Leander,Owner Surrender,Normal,Cat,Intact Female,131.0,Domestic Shorthair Mix,Mix color,Spayed Female,138.0,Alive,8,2014,8,2014,4,2014,7.0,No,Healthy
+A772766,Austin,Stray,Normal,Cat,Intact Male,57.0,Domestic Shorthair Mix,Tabby,Neutered Male,61.0,Alive,5,2018,5,2018,3,2018,4.0,No,Healthy
+A716407,Austin,Stray,Normal,Cat,Intact Female,38.0,Domestic Shorthair Mix,Torbie,Spayed Female,102.0,Alive,11,2015,1,2016,10,2015,64.0,No,Healthy
+A740085,Austin,Public Assist,Normal,Cat,Spayed Female,735.0,Domestic Medium Hair Mix,Calico,Spayed Female,739.0,Alive,12,2016,12,2016,12,2014,4.0,No,Healthy
+A757914,Austin,Owner Surrender,Normal,Dog,Intact Male,111.0,Other,Mix color,Neutered Male,112.0,Alive,9,2017,9,2017,5,2017,1.0,No,Healthy
+A723750,Austin,Wildlife,Injured,Other,Unknown,1827.0,Other,Mix color,Unknown,1827.0,Death,4,2016,4,2016,4,2011,0.0,Unknown,Unhealthy
+A698983,Travis,Stray,Normal,Cat,Intact Female,273.0,Domestic Medium Hair Mix,Torbie,Intact Female,274.0,Alive,3,2015,3,2015,6,2014,1.0,Yes,Healthy
+A721423,Travis,Owner Surrender,Normal,Dog,Intact Female,730.0,Labrador Retriever Mix,Mix color,Intact Female,732.0,Alive,2,2016,2,2016,2,2014,2.0,Yes,Healthy
+A747766,Austin,Stray,Normal,Dog,Intact Male,365.0,Labrador Retriever Mix,Mix color,Neutered Male,374.0,Alive,4,2017,5,2017,4,2016,9.0,No,Healthy
+A782742,Austin,Stray,Normal,Cat,Intact Male,365.0,Domestic Shorthair Mix,Tabby,Neutered Male,369.0,Alive,10,2018,10,2018,10,2017,4.0,No,Healthy
+A762225,Austin,Stray,Normal,Dog,Intact Male,365.0,Pit Bull Mix,Mix color,Neutered Male,466.0,Alive,11,2017,2,2018,11,2016,101.0,No,Healthy
+A728216,Austin,Stray,Normal,Dog,Intact Male,731.0,Other,Tricolor,Neutered Male,732.0,Alive,6,2016,6,2016,6,2014,1.0,No,Healthy
+A672411,Austin,Stray,Other,Dog,Intact Female,731.0,Labrador Retriever Mix,Black,Intact Female,735.0,Alive,2,2014,2,2014,2,2012,4.0,Yes,Healthy
+A806336,Austin,Stray,Normal,Other,Unknown,730.0,Other,Tricolor,Unknown,734.0,Alive,10,2019,10,2019,10,2017,4.0,Unknown,Healthy
+A793248,Austin,Stray,Normal,Cat,Intact Female,31.0,Domestic Shorthair Mix,Mix color,Spayed Female,67.0,Alive,4,2019,5,2019,3,2019,36.0,No,Healthy
+A621099,Austin,Owner Surrender,Normal,Dog,Spayed Female,3573.5499999999965,Other,Mix color,Spayed Female,3575.6999999999966,Alive,2,2016,2,2016,3,2005,2.150000000000091,No,Healthy
+A675194,Austin,Stray,Normal,Dog,Intact Female,729.0,Chihuahua Shorthair Mix,Mix color,Spayed Female,734.0,Alive,3,2014,3,2014,3,2012,5.0,No,Healthy
+A777840,Austin,Stray,Normal,Dog,Intact Female,730.0,Other,Mix color,Spayed Female,739.0,Alive,8,2018,8,2018,8,2016,9.0,No,Healthy
+A614458,Valle,Owner Surrender,Normal,Dog,Neutered Male,2925.0,Other,Black,Neutered Male,2925.0,Death,11,2017,11,2017,11,2009,0.0,No,Healthy
+A778055,Travis,Stray,Normal,Cat,Intact Female,365.0,Domestic Shorthair Mix,Mix color,Intact Female,369.0,Alive,8,2018,8,2018,8,2017,4.0,Yes,Healthy
+A698634,Austin,Stray,Normal,Dog,Neutered Male,2191.0,Other,Mix color,Neutered Male,2191.0,Alive,3,2015,3,2015,3,2009,0.0,No,Healthy
+A727079,Austin,Stray,Normal,Cat,Intact Male,30.0,Domestic Shorthair Mix,Tabby,Intact Male,39.0,Death,5,2016,5,2016,4,2016,9.0,Yes,Healthy
+A714304,Austin,Stray,Normal,Cat,Intact Female,61.0,Domestic Shorthair Mix,Black,Intact Female,69.0,Alive,10,2015,10,2015,8,2015,8.0,Yes,Healthy
+A675079,Austin,Stray,Normal,Dog,Neutered Male,3573.5499999999965,Chihuahua Shorthair Mix,Tan,Neutered Male,3575.6999999999966,Alive,3,2014,3,2014,3,1999,2.150000000000091,No,Healthy
+A702162,Austin,Stray,Normal,Cat,Intact Male,18.0,Domestic Shorthair Mix,Tabby,Neutered Male,70.0,Alive,5,2015,7,2015,4,2015,52.0,No,Healthy
+A700776,Austin,Stray,Normal,Cat,Unknown,22.0,Domestic Shorthair Mix,Black,Unknown,22.0,Death,4,2015,4,2015,3,2015,0.0,Unknown,Healthy
+A812049,Austin,Owner Surrender,Normal,Cat,Intact Female,730.0,Domestic Shorthair,Point,Spayed Female,740.0,Alive,1,2020,1,2020,1,2018,10.0,No,Healthy
+A726821,Austin,Stray,Normal,Dog,Neutered Male,2556.0,Labrador Retriever Mix,Yellow,Neutered Male,2572.0,Alive,5,2016,5,2016,5,2009,16.0,No,Healthy
+A651000,Austin,Public Assist,Normal,Cat,Neutered Male,3573.5499999999965,Domestic Shorthair,Mix color,Neutered Male,3575.6999999999966,Alive,11,2014,11,2014,4,2001,2.150000000000091,No,Healthy
+A755445,Austin,Stray,Injured,Cat,Neutered Male,3573.5499999999965,Domestic Shorthair Mix,Black,Neutered Male,3575.6999999999966,Death,8,2017,8,2017,8,2007,2.150000000000091,No,Unhealthy
+A692273,Austin,Owner Surrender,Normal,Dog,Spayed Female,1461.0,Other,Red,Spayed Female,1503.0,Alive,11,2014,12,2014,11,2010,42.0,No,Healthy
+A773030,Manor,Stray,Normal,Cat,Intact Male,45.0,Other,Mix color,Intact Male,45.0,Death,5,2018,5,2018,4,2018,0.0,Yes,Healthy
+A672107,Austin,Owner Surrender,Normal,Cat,Neutered Male,444.0,Domestic Medium Hair Mix,Mix color,Neutered Male,480.0,Alive,4,2014,5,2014,2,2013,36.0,No,Healthy
+A677108,Pflugerville,Stray,Normal,Cat,Unknown,2.0,Domestic Shorthair Mix,Calico,Unknown,2.0,Alive,4,2014,4,2014,4,2014,0.0,Unknown,Healthy
+A718431,Austin,Stray,Normal,Cat,Intact Male,365.0,Domestic Shorthair Mix,Black,Neutered Male,370.0,Alive,12,2015,1,2016,12,2014,5.0,No,Healthy
+A775522,Austin,Stray,Normal,Cat,Intact Male,87.0,Siamese Mix,Point,Neutered Male,103.0,Alive,7,2018,7,2018,4,2018,16.0,No,Healthy
+A718354,Austin,Stray,Normal,Cat,Intact Male,122.0,Domestic Shorthair Mix,Tabby,Neutered Male,133.0,Alive,12,2015,1,2016,8,2015,11.0,No,Healthy
+A798603,Austin,Stray,Normal,Cat,Intact Male,46.0,Domestic Shorthair Mix,Black,Neutered Male,166.0,Alive,6,2019,10,2019,5,2019,120.0,No,Healthy
+A678697,Austin,Stray,Normal,Dog,Intact Female,1096.0,Other,Mix color,Spayed Female,1101.0,Alive,5,2014,5,2014,5,2011,5.0,No,Healthy
+A691896,Manor,Stray,Normal,Dog,Neutered Male,1603.0,Other,Mix color,Neutered Male,1607.0,Alive,11,2014,11,2014,6,2010,4.0,No,Healthy
+A606852,Austin,Stray,Normal,Cat,Neutered Male,3573.5499999999965,Domestic Shorthair Mix,Tabby,Neutered Male,3575.6999999999966,Alive,4,2015,4,2015,7,2001,2.150000000000091,No,Healthy
+A775769,Austin,Owner Surrender,Normal,Cat,Intact Female,2191.0,Domestic Medium Hair Mix,Calico,Intact Female,2193.0,Alive,7,2018,7,2018,7,2012,2.0,Yes,Healthy
+A744362,Austin,Stray,Normal,Dog,Intact Male,544.0,Other,Black,Neutered Male,549.0,Alive,2,2017,3,2017,9,2015,5.0,No,Healthy
+A738671,Austin,Stray,Normal,Cat,Intact Female,226.0,Domestic Shorthair Mix,Tortie,Intact Female,227.0,Alive,11,2016,11,2016,4,2016,1.0,Yes,Healthy
+A680676,Austin,Stray,Normal,Dog,Neutered Male,2557.0,Labrador Retriever Mix,Yellow,Neutered Male,2567.0,Alive,6,2014,6,2014,6,2007,10.0,No,Healthy
+A704629,Austin,Euthanasia Request,Sick,Dog,Intact Female,243.0,Labrador Retriever Mix,Black,Intact Female,282.0,Death,6,2015,7,2015,10,2014,39.0,Yes,Unhealthy
+A687934,Austin,Wildlife,Normal,Other,Unknown,365.0,Other,Brown,Unknown,365.0,Death,9,2014,9,2014,9,2013,0.0,Unknown,Healthy
+A787818,Austin,Stray,Nursing,Cat,Intact Female,549.0,Domestic Shorthair Mix,Tortie,Spayed Female,610.0,Alive,1,2019,3,2019,7,2017,61.0,No,Healthy
+A738966,Austin,Stray,Normal,Dog,Neutered Male,3573.5499999999965,Chihuahua Shorthair Mix,Brown,Neutered Male,3575.6999999999966,Alive,11,2016,12,2016,11,2006,2.150000000000091,No,Healthy
+A705183,Outside Jurisdiction,Owner Surrender,Normal,Dog,Neutered Male,488.0,Pit Bull Mix,Mix color,Neutered Male,565.0,Alive,12,2015,10,2015,6,2014,77.0,No,Healthy
+A798159,Travis,Owner Surrender,Normal,Cat,Intact Female,68.0,Domestic Shorthair Mix,Tabby,Spayed Female,87.0,Alive,6,2019,7,2019,4,2019,19.0,No,Healthy
+A722223,Austin,Stray,Normal,Dog,Spayed Female,3573.5499999999965,Other,Mix color,Spayed Female,3575.6999999999966,Alive,3,2016,3,2016,3,2003,2.150000000000091,No,Healthy
+A758584,Austin,Stray,Normal,Cat,Intact Male,9.0,Other,Mix color,Neutered Male,78.0,Alive,9,2017,11,2017,9,2017,69.0,No,Healthy
+A671431,Austin,Owner Surrender,Normal,Dog,Intact Female,365.0,Chihuahua Shorthair Mix,Mix color,Spayed Female,408.0,Alive,1,2014,3,2014,1,2013,43.0,No,Healthy
+A801137,Austin,Stray,Normal,Cat,Intact Female,546.0,Other,Mix color,Intact Female,577.0,Alive,7,2019,8,2019,1,2018,31.0,Yes,Healthy
+A696130,Austin,Stray,Normal,Dog,Spayed Female,2546.0,Other,Tan,Spayed Female,2548.0,Alive,1,2020,1,2020,1,2013,2.0,No,Healthy
+A759786,Austin,Stray,Injured,Cat,Intact Female,365.0,Domestic Shorthair Mix,Tabby,Spayed Female,539.0,Alive,10,2017,3,2018,10,2016,174.0,No,Unhealthy
+A696709,Austin,Stray,Normal,Dog,Intact Female,306.0,Other,Tan,Spayed Female,310.0,Alive,2,2015,2,2015,4,2014,4.0,No,Healthy
+A673113,Travis,Public Assist,Normal,Dog,Intact Female,1826.0,Other,White,Spayed Female,1851.0,Alive,2,2014,3,2014,2,2009,25.0,No,Healthy
+A729594,Travis,Stray,Normal,Dog,Intact Male,1827.0,Chihuahua Shorthair Mix,Mix color,Neutered Male,1833.0,Alive,6,2016,6,2016,6,2011,6.0,No,Healthy
+A763354,Austin,Stray,Normal,Cat,Intact Male,731.0,Domestic Shorthair Mix,Tabby,Intact Male,732.0,Alive,12,2017,12,2017,12,2015,1.0,Yes,Healthy
+A669304,Austin,Wildlife,Injured,Other,Unknown,731.0,Other,Brown,Unknown,731.0,Death,12,2013,12,2013,12,2011,0.0,Unknown,Unhealthy
+A766336,Austin,Owner Surrender,Normal,Dog,Neutered Male,418.0,Labrador Retriever Mix,Brown,Neutered Male,435.0,Alive,4,2018,4,2018,2,2017,17.0,No,Healthy
+A682911,Austin,Stray,Normal,Cat,Intact Female,6.0,Other,Point,Spayed Female,113.0,Alive,7,2014,10,2014,6,2014,107.0,No,Healthy
+A769619,Austin,Owner Surrender,Normal,Dog,Intact Female,3573.5499999999965,Other,Mix color,Intact Female,3575.6999999999966,Alive,4,2018,4,2018,4,2007,2.150000000000091,Yes,Healthy
+A757471,Austin,Owner Surrender,Normal,Cat,Intact Male,138.0,Domestic Shorthair Mix,Tabby,Neutered Male,155.0,Alive,9,2017,9,2017,4,2017,17.0,No,Healthy
+A706891,Austin,Stray,Normal,Dog,Unknown,91.0,Labrador Retriever Mix,Mix color,Unknown,92.0,Death,7,2015,7,2015,4,2015,1.0,Unknown,Healthy
+A685509,Austin,Stray,Normal,Cat,Intact Male,22.0,Domestic Shorthair Mix,Mix color,Intact Male,22.0,Alive,8,2014,8,2014,7,2014,0.0,Yes,Healthy
+A725273,Austin,Owner Surrender,Normal,Cat,Spayed Female,1096.0,Domestic Shorthair Mix,Tabby,Spayed Female,1108.0,Alive,4,2016,5,2016,4,2013,12.0,No,Healthy
+A760265,Austin,Stray,Normal,Cat,Intact Male,61.0,Domestic Shorthair Mix,Tabby,Neutered Male,72.0,Alive,10,2017,10,2017,8,2017,11.0,No,Healthy
+A782762,Pflugerville,Owner Surrender,Normal,Dog,Neutered Male,365.0,Other,Mix color,Neutered Male,442.0,Alive,10,2018,1,2019,10,2017,77.0,No,Healthy
+A796761,Pflugerville,Public Assist,Normal,Cat,Neutered Male,1463.0,Domestic Shorthair,Mix color,Neutered Male,1469.0,Alive,6,2019,6,2019,6,2015,6.0,No,Healthy
+A772354,Austin,Stray,Normal,Cat,Intact Female,61.0,Domestic Shorthair Mix,Mix color,Spayed Female,105.0,Alive,5,2018,7,2018,3,2018,44.0,No,Healthy
+A755651,Austin,Stray,Normal,Dog,Intact Male,61.0,Chihuahua Shorthair Mix,Brown,Neutered Male,67.0,Alive,8,2017,8,2017,6,2017,6.0,No,Healthy
+A773864,Austin,Owner Surrender,Normal,Dog,Intact Female,359.0,Other,Brown,Spayed Female,363.0,Alive,6,2018,6,2018,6,2017,4.0,No,Healthy
+A791595,Austin,Stray,Normal,Dog,Intact Female,270.0,Chihuahua Shorthair Mix,Mix color,Spayed Female,274.0,Alive,3,2019,4,2019,7,2018,4.0,No,Healthy
+A715582,Austin,Stray,Normal,Dog,Spayed Female,549.0,Labrador Retriever Mix,Blue,Spayed Female,553.0,Alive,11,2015,11,2015,5,2014,4.0,No,Healthy
+A762139,Austin,Owner Surrender,Normal,Cat,Spayed Female,1826.0,Domestic Shorthair Mix,Torbie,Spayed Female,1876.0,Alive,11,2017,1,2018,11,2012,50.0,No,Healthy
+A782805,Pflugerville,Stray,Normal,Dog,Neutered Male,730.0,Other,Mix color,Neutered Male,735.0,Alive,10,2018,10,2018,10,2016,5.0,No,Healthy
+A357846,Austin,Stray,Normal,Dog,Neutered Male,3573.5499999999965,Other,Mix color,Neutered Male,3575.6999999999966,Alive,3,2016,3,2016,4,2004,2.150000000000091,No,Healthy
+A802859,Austin,Stray,Injured,Dog,Intact Male,730.0,Other,Mix color,Intact Male,733.0,Alive,8,2019,8,2019,8,2017,3.0,Yes,Unhealthy
+A776287,Austin,Stray,Normal,Dog,Neutered Male,1461.0,Chihuahua Shorthair Mix,Mix color,Neutered Male,1463.0,Alive,7,2018,7,2018,7,2014,2.0,No,Healthy
+A805714,Manor,Owner Surrender,Normal,Dog,Intact Female,548.0,Other,Mix color,Spayed Female,551.0,Alive,10,2019,10,2019,4,2018,3.0,No,Healthy
+A774941,Travis,Stray,Normal,Dog,Intact Male,730.0,Pit Bull Mix,Black,Neutered Male,768.0,Alive,6,2018,7,2018,6,2016,38.0,No,Healthy
+A806021,Travis,Stray,Normal,Dog,Neutered Male,1460.0,Other,Mix color,Neutered Male,1462.0,Alive,10,2019,10,2019,10,2015,2.0,No,Healthy
+A733746,Austin,Stray,Nursing,Cat,Intact Female,31.0,Domestic Shorthair Mix,Tabby,Intact Female,65.0,Alive,8,2016,9,2016,7,2016,34.0,Yes,Healthy
+A723323,Austin,Stray,Normal,Dog,Spayed Female,3573.5499999999965,Other,Mix color,Spayed Female,3575.6999999999966,Alive,3,2016,3,2016,3,2004,2.150000000000091,No,Healthy
+A724425,Austin,Public Assist,Normal,Dog,Intact Female,183.0,Other,Brindle,Intact Female,191.0,Alive,4,2016,4,2016,10,2015,8.0,Yes,Healthy
+A715235,Austin,Stray,Normal,Cat,Neutered Male,549.0,Siamese Mix,Point,Neutered Male,549.0,Death,11,2015,11,2015,5,2014,0.0,No,Healthy
+A757685,Austin,Stray,Normal,Dog,Neutered Male,3573.5499999999965,Other,White,Neutered Male,3575.6999999999966,Alive,9,2017,9,2017,9,2001,2.150000000000091,No,Healthy
+A699917,Austin,Stray,Normal,Dog,Intact Female,59.0,Labrador Retriever Mix,Mix color,Spayed Female,63.0,Alive,4,2015,4,2015,2,2015,4.0,No,Healthy
+A713955,Austin,Owner Surrender,Injured,Cat,Neutered Male,913.0,Domestic Shorthair Mix,Mix color,Neutered Male,927.0,Alive,10,2015,10,2015,4,2013,14.0,No,Unhealthy
+A614238,Austin,Stray,Normal,Cat,Spayed Female,2075.0,Domestic Medium Hair Mix,Calico,Spayed Female,2076.0,Alive,9,2016,9,2016,1,2011,1.0,No,Healthy
+A761141,Austin,Public Assist,Normal,Dog,Intact Female,731.0,Other,Mix color,Intact Female,736.0,Alive,10,2017,11,2017,10,2015,5.0,Yes,Healthy
+A748629,Austin,Stray,Normal,Cat,Intact Female,48.0,Domestic Shorthair Mix,Tabby,Spayed Female,135.0,Alive,5,2017,7,2017,3,2017,87.0,No,Healthy
+A690099,Outside Jurisdiction,Stray,Normal,Dog,Intact Male,334.0,Other,Tricolor,Intact Male,338.0,Alive,10,2014,10,2014,11,2013,4.0,Yes,Healthy
+A794207,Austin,Stray,Normal,Cat,Unknown,365.0,Domestic Shorthair Mix,Mix color,Unknown,370.0,Alive,5,2019,5,2019,5,2018,5.0,Unknown,Healthy
+A724545,Austin,Stray,Normal,Dog,Spayed Female,686.0,Pit Bull Mix,Mix color,Spayed Female,688.0,Alive,11,2017,11,2017,12,2015,2.0,No,Healthy
+A676511,Travis,Wildlife,Injured,Other,Unknown,365.0,Other,Black,Unknown,365.0,Death,4,2014,4,2014,4,2013,0.0,Unknown,Unhealthy
+A742777,Austin,Owner Surrender,Normal,Dog,Intact Male,245.0,Other,Mix color,Neutered Male,247.0,Alive,1,2017,1,2017,5,2016,2.0,No,Healthy
+A696557,Austin,Owner Surrender,Normal,Dog,Intact Female,730.0,Other,Mix color,Spayed Female,733.0,Alive,2,2015,2,2015,2,2013,3.0,No,Healthy
+A764754,Austin,Stray,Normal,Cat,Intact Female,38.0,Domestic Medium Hair Mix,Black,Spayed Female,53.0,Alive,1,2018,1,2018,11,2017,15.0,No,Healthy
+A717316,Austin,Stray,Normal,Dog,Intact Male,1095.0,Pit Bull Mix,Mix color,Neutered Male,1117.0,Alive,12,2015,12,2015,12,2012,22.0,No,Healthy
+A732544,Valle,Stray,Normal,Dog,Intact Female,182.0,Chihuahua Shorthair Mix,Mix color,Spayed Female,187.0,Alive,8,2016,8,2016,2,2016,5.0,No,Healthy
+A681742,Austin,Stray,Normal,Dog,Neutered Male,365.0,Other,Other,Neutered Male,383.0,Alive,6,2014,7,2014,6,2013,18.0,No,Healthy
+A811270,Austin,Stray,Normal,Cat,Intact Female,730.0,Siamese Mix,Point,Spayed Female,735.0,Alive,12,2019,1,2020,12,2017,5.0,No,Healthy
+A670584,Manor,Stray,Normal,Dog,Intact Male,184.0,Other,White,Neutered Male,189.0,Alive,1,2014,1,2014,7,2013,5.0,No,Healthy
+A787444,Austin,Stray,Normal,Bird,Unknown,365.0,Other,Mix color,Unknown,376.0,Alive,1,2019,1,2019,1,2018,11.0,Unknown,Healthy
+A797652,Austin,Owner Surrender,Normal,Dog,Intact Female,1826.0,Other,Mix color,Spayed Female,1836.0,Alive,6,2019,6,2019,6,2014,10.0,No,Healthy
+A699436,Austin,Owner Surrender,Normal,Cat,Neutered Male,3573.5499999999965,Other,Blue,Neutered Male,3575.6999999999966,Alive,3,2015,4,2015,6,2001,2.150000000000091,No,Healthy
+A705496,Austin,Stray,Normal,Cat,Unknown,7.0,Domestic Shorthair Mix,Mix color,Unknown,7.0,Alive,6,2015,6,2015,6,2015,0.0,Unknown,Healthy
+A706168,Valle,Owner Surrender,Sick,Dog,Intact Male,55.0,Other,Tricolor,Intact Male,68.0,Alive,6,2015,7,2015,5,2015,13.0,Yes,Unhealthy
+A771262,Travis,Stray,Normal,Cat,Intact Male,22.0,Domestic Shorthair Mix,Tabby,Neutered Male,74.0,Alive,5,2018,6,2018,4,2018,52.0,No,Healthy
+A736597,Austin,Stray,Normal,Dog,Intact Male,183.0,Other,Cream,Intact Male,201.0,Alive,10,2016,10,2016,4,2016,18.0,Yes,Healthy
+A666452,Austin,Stray,Normal,Dog,Intact Male,3573.5499999999965,Other,Red,Intact Male,3575.6999999999966,Alive,11,2013,11,2013,11,2000,2.150000000000091,Yes,Healthy
+A680051,Austin,Stray,Normal,Cat,Intact Male,36.0,Domestic Shorthair Mix,Black,Neutered Male,80.0,Alive,5,2014,7,2014,4,2014,44.0,No,Healthy
+A770206,Austin,Stray,Normal,Cat,Intact Male,730.0,Domestic Shorthair Mix,Tabby,Neutered Male,737.0,Alive,4,2018,4,2018,4,2016,7.0,No,Healthy
+A721375,Travis,Owner Surrender,Normal,Dog,Intact Male,32.0,Other,Mix color,Intact Male,35.0,Alive,2,2016,2,2016,1,2016,3.0,Yes,Healthy
+A700196,Austin,Stray,Normal,Dog,Intact Female,1460.0,Pit Bull Mix,Mix color,Spayed Female,1472.0,Death,4,2015,4,2015,4,2011,12.0,No,Healthy
+A780259,Austin,Public Assist,Normal,Dog,Intact Male,366.0,German Shepherd Mix,Mix color,Intact Male,375.0,Alive,9,2018,9,2018,9,2017,9.0,Yes,Healthy
+A684431,Austin,Owner Surrender,Normal,Dog,Neutered Male,575.0,Other,Mix color,Neutered Male,578.0,Alive,8,2014,8,2014,1,2013,3.0,No,Healthy
+A774059,Austin,Stray,Normal,Cat,Intact Male,55.0,Domestic Shorthair Mix,Tabby,Neutered Male,69.0,Alive,6,2018,6,2018,4,2018,14.0,No,Healthy
+A697436,Austin,Wildlife,Normal,Other,Unknown,184.0,Bat Mix,Brown,Unknown,185.0,Death,2,2015,2,2015,8,2014,1.0,Unknown,Healthy
+A803887,Austin,Stray,Normal,Cat,Intact Male,73.0,Domestic Shorthair,Mix color,Neutered Male,157.0,Alive,9,2019,11,2019,6,2019,84.0,No,Healthy
+A729834,Austin,Owner Surrender,Normal,Dog,Neutered Male,1096.0,Other,Mix color,Neutered Male,1702.0,Alive,6,2016,2,2018,6,2013,606.0,No,Healthy
+A666733,Austin,Owner Surrender,Normal,Dog,Intact Male,614.0,Other,White,Intact Male,619.0,Alive,6,2015,6,2015,10,2013,5.0,Yes,Healthy
+A743140,Austin,Owner Surrender,Normal,Dog,Neutered Male,731.0,Pit Bull Mix,Blue,Neutered Male,750.0,Alive,2,2017,2,2017,2,2015,19.0,No,Healthy
+A685374,Austin,Stray,Normal,Cat,Intact Female,15.0,Domestic Shorthair Mix,Tabby,Intact Female,15.0,Alive,8,2014,8,2014,7,2014,0.0,Yes,Healthy
+A754478,Austin,Stray,Normal,Cat,Intact Female,8.0,Domestic Shorthair Mix,Tabby,Intact Female,8.0,Alive,7,2017,7,2017,7,2017,0.0,Yes,Healthy
+A721368,Austin,Stray,Normal,Dog,Spayed Female,1826.0,Labrador Retriever Mix,Mix color,Spayed Female,1826.0,Alive,2,2016,2,2016,2,2011,0.0,No,Healthy
+A773328,Valle,Stray,Normal,Cat,Intact Female,30.0,Domestic Shorthair Mix,Tabby,Spayed Female,110.0,Alive,5,2018,8,2018,4,2018,80.0,No,Healthy
+A778360,Austin,Stray,Normal,Dog,Neutered Male,3573.5499999999965,Other,Tan,Neutered Male,3575.6999999999966,Alive,8,2018,8,2018,8,2007,2.150000000000091,No,Healthy
+A758103,Austin,Stray,Normal,Dog,Intact Male,731.0,Other,Brown,Neutered Male,746.0,Alive,9,2017,9,2017,9,2015,15.0,No,Healthy
+A759504,Travis,Stray,Normal,Dog,Intact Male,1461.0,Labrador Retriever Mix,Yellow,Neutered Male,1581.0,Alive,10,2017,1,2018,10,2013,120.0,No,Healthy
+A716402,Austin,Owner Surrender,Normal,Cat,Neutered Male,382.0,Domestic Shorthair,Mix color,Neutered Male,403.0,Alive,12,2015,12,2015,11,2014,21.0,No,Healthy
+A769344,Austin,Stray,Nursing,Cat,Intact Female,2.0,Domestic Shorthair Mix,Mix color,Spayed Female,66.0,Alive,4,2018,6,2018,4,2018,64.0,No,Healthy
+A714185,Austin,Owner Surrender,Normal,Cat,Intact Female,168.0,Domestic Shorthair Mix,Tortie,Spayed Female,218.0,Alive,10,2015,12,2015,5,2015,50.0,No,Healthy
+A783915,Austin,Wildlife,Sick,Other,Unknown,365.0,Other,Mix color,Unknown,365.0,Death,11,2018,11,2018,11,2017,0.0,Unknown,Unhealthy
+A500862,Austin,Stray,Normal,Dog,Spayed Female,2444.0,Other,White,Spayed Female,2446.0,Alive,10,2013,10,2013,2,2007,2.0,No,Healthy
+A692482,Austin,Owner Surrender,Normal,Cat,Spayed Female,2922.0,Domestic Shorthair Mix,Tabby,Spayed Female,2944.0,Alive,11,2014,12,2014,11,2006,22.0,No,Healthy
+A694588,Valle,Stray,Normal,Cat,Intact Female,365.0,Domestic Shorthair Mix,Tabby,Spayed Female,371.0,Alive,12,2014,1,2015,12,2013,6.0,No,Healthy
+A669883,Vista,Owner Surrender,Normal,Cat,Neutered Male,1096.0,Siamese Mix,Point,Neutered Male,1219.0,Alive,12,2013,5,2014,12,2010,123.0,No,Healthy
+A677539,Austin,Stray,Normal,Cat,Intact Male,15.0,Domestic Shorthair Mix,Mix color,Intact Male,15.0,Alive,4,2014,4,2014,4,2014,0.0,Yes,Healthy
+A786253,Austin,Stray,Normal,Cat,Intact Female,143.0,Domestic Shorthair Mix,Mix color,Spayed Female,153.0,Alive,12,2018,12,2018,7,2018,10.0,No,Healthy
+A750347,Austin,Owner Surrender,Normal,Other,Intact Female,89.0,Other,Tricolor,Intact Female,94.0,Alive,5,2017,5,2017,2,2017,5.0,Yes,Healthy
+A802263,Austin,Stray,Normal,Dog,Intact Female,88.0,Other,Brindle,Spayed Female,92.0,Alive,8,2019,8,2019,5,2019,4.0,No,Healthy
+A686857,Austin,Stray,Injured,Cat,Intact Male,92.0,Domestic Shorthair Mix,Mix color,Intact Male,92.0,Death,8,2014,8,2014,5,2014,0.0,Yes,Unhealthy
+A724825,Austin,Stray,Normal,Dog,Intact Male,1.0,Pit Bull Mix,Mix color,Neutered Male,73.0,Alive,4,2016,7,2016,4,2016,72.0,No,Healthy
+A752906,Austin,Wildlife,Normal,Other,Unknown,365.0,Bat Mix,Brown,Unknown,366.0,Death,6,2017,6,2017,6,2016,1.0,Unknown,Healthy
+A721061,Travis,Owner Surrender,Normal,Other,Intact Female,245.0,Other,Mix color,Intact Female,245.0,Alive,2,2016,2,2016,6,2015,0.0,Yes,Healthy
+A698216,Austin,Owner Surrender,Normal,Cat,Spayed Female,575.0,Siamese Mix,Point,Spayed Female,590.0,Alive,10,2015,10,2015,3,2014,15.0,No,Healthy
+A756598,Austin,Stray,Normal,Cat,Unknown,365.0,Domestic Shorthair Mix,Mix color,Unknown,368.0,Alive,8,2017,8,2017,8,2016,3.0,Unknown,Healthy
+A717400,Austin,Stray,Normal,Cat,Intact Male,244.0,Domestic Shorthair Mix,Black,Neutered Male,248.0,Alive,12,2015,12,2015,4,2015,4.0,No,Healthy
+A807798,Travis,Stray,Normal,Cat,Intact Male,76.0,Domestic Shorthair,Mix color,Neutered Male,108.0,Alive,10,2019,12,2019,8,2019,32.0,No,Healthy
+A756242,Austin,Stray,Normal,Cat,Intact Male,61.0,Domestic Shorthair Mix,Tabby,Neutered Male,66.0,Alive,8,2017,8,2017,6,2017,5.0,No,Healthy
+A645971,Austin,Public Assist,Normal,Dog,Neutered Male,2484.0,Pit Bull Mix,Mix color,Neutered Male,2599.0,Alive,11,2017,2,2018,1,2011,115.0,No,Healthy
+A759220,Outside Jurisdiction,Stray,Normal,Dog,Intact Male,72.0,Labrador Retriever Mix,Black,Neutered Male,76.0,Alive,9,2017,10,2017,7,2017,4.0,No,Healthy
+A672295,Austin,Stray,Normal,Cat,Intact Male,2192.0,Other,Tabby,Intact Male,2193.0,Alive,2,2014,2,2014,2,2008,1.0,Yes,Healthy
+A740413,Austin,Stray,Normal,Dog,Intact Male,1725.0,Labrador Retriever Mix,Mix color,Intact Male,1728.0,Alive,12,2016,12,2016,3,2012,3.0,Yes,Healthy
+A677785,Austin,Stray,Normal,Dog,Intact Female,2191.0,Chihuahua Shorthair Mix,Mix color,Spayed Female,2262.0,Alive,4,2014,7,2014,4,2008,71.0,No,Healthy
+A810161,Austin,Owner Surrender,Normal,Dog,Spayed Female,65.0,Other,Mix color,Spayed Female,65.0,Alive,12,2019,12,2019,10,2019,0.0,No,Healthy
+A764907,Austin,Owner Surrender,Normal,Cat,Spayed Female,3573.5499999999965,Domestic Medium Hair Mix,Mix color,Spayed Female,3575.6999999999966,Alive,1,2018,1,2018,1,2000,2.150000000000091,No,Healthy
+A683303,Austin,Stray,Sick,Cat,Intact Male,38.0,Other,Black,Intact Male,38.0,Death,7,2014,7,2014,6,2014,0.0,Yes,Unhealthy
+A755746,Austin,Stray,Normal,Dog,Spayed Female,731.0,Labrador Retriever Mix,Mix color,Spayed Female,739.0,Alive,8,2017,8,2017,8,2015,8.0,No,Healthy
+A762465,Austin,Owner Surrender,Normal,Cat,Spayed Female,1096.0,Siamese Mix,Point,Spayed Female,1104.0,Alive,11,2017,11,2017,11,2014,8.0,No,Healthy
+A794749,Travis,Stray,Normal,Dog,Intact Female,342.0,Other,Mix color,Intact Female,343.0,Alive,5,2019,5,2019,6,2018,1.0,Yes,Healthy
+A776047,Austin,Public Assist,Normal,Dog,Intact Female,730.0,Pit Bull Mix,Black,Spayed Female,1104.0,Alive,7,2018,7,2019,7,2016,374.0,No,Healthy
+A805253,Austin,Owner Surrender,Normal,Cat,Intact Female,123.0,Domestic Shorthair,Mix color,Spayed Female,232.0,Alive,9,2019,1,2020,5,2019,109.0,No,Healthy
+A779999,Austin,Stray,Normal,Dog,Intact Male,365.0,Other,Mix color,Intact Male,445.0,Alive,9,2018,11,2018,9,2017,80.0,Yes,Healthy
+A732905,Austin,Stray,Normal,Dog,Intact Female,366.0,Other,Mix color,Spayed Female,371.0,Alive,8,2016,8,2016,8,2015,5.0,No,Healthy
+A697378,Austin,Stray,Normal,Dog,Intact Female,35.0,Chihuahua Shorthair Mix,Tricolor,Spayed Female,59.0,Alive,2,2015,3,2015,1,2015,24.0,No,Healthy
+A673508,Austin,Owner Surrender,Normal,Dog,Intact Female,457.0,Labrador Retriever Mix,Mix color,Spayed Female,468.0,Alive,2,2014,3,2014,11,2012,11.0,No,Healthy
+A712586,Austin,Stray,Nursing,Cat,Intact Male,16.0,Domestic Shorthair Mix,Mix color,Neutered Male,120.0,Alive,9,2015,1,2016,9,2015,104.0,No,Healthy
+A751541,Austin,Stray,Normal,Cat,Intact Male,55.0,Domestic Medium Hair Mix,Black,Neutered Male,64.0,Alive,6,2017,6,2017,4,2017,9.0,No,Healthy
+A712424,Austin,Stray,Normal,Cat,Unknown,123.0,Domestic Shorthair Mix,Mix color,Unknown,124.0,Alive,9,2015,9,2015,5,2015,1.0,Unknown,Healthy
+A753998,Austin,Owner Surrender,Normal,Cat,Neutered Male,815.0,Domestic Shorthair Mix,Black,Neutered Male,819.0,Alive,7,2017,7,2017,4,2015,4.0,No,Healthy
+A809335,Austin,Stray,Normal,Dog,Intact Male,92.0,Labrador Retriever Mix,Yellow,Neutered Male,96.0,Alive,11,2019,11,2019,8,2019,4.0,No,Healthy
+A712089,Austin,Stray,Normal,Dog,Neutered Male,1826.0,Other,Brown,Neutered Male,1830.0,Alive,9,2015,9,2015,9,2010,4.0,No,Healthy
+A696814,Austin,Stray,Normal,Dog,Intact Female,77.0,Other,Other,Spayed Female,81.0,Alive,2,2015,2,2015,11,2014,4.0,No,Healthy
+A703430,Austin,Stray,Normal,Cat,Unknown,730.0,Domestic Shorthair Mix,Tabby,Unknown,731.0,Alive,5,2015,5,2015,5,2013,1.0,Unknown,Healthy
+A792481,Austin,Stray,Normal,Dog,Intact Male,365.0,German Shepherd Mix,Cream,Neutered Male,373.0,Alive,4,2019,4,2019,4,2018,8.0,No,Healthy
+A716474,Austin,Wildlife,Sick,Other,Unknown,730.0,Bat Mix,Brown,Unknown,734.0,Death,11,2015,11,2015,11,2013,4.0,Unknown,Unhealthy
+A721760,Austin,Owner Surrender,Normal,Cat,Neutered Male,2922.0,Other,Tabby,Neutered Male,2935.0,Alive,3,2016,3,2016,3,2008,13.0,No,Healthy
+A804188,Manor,Owner Surrender,Normal,Dog,Intact Male,363.0,Other,Mix color,Neutered Male,371.0,Alive,9,2019,9,2019,9,2018,8.0,No,Healthy
+A721540,Austin,Stray,Normal,Cat,Intact Female,1826.0,Domestic Shorthair Mix,Mix color,Spayed Female,1868.0,Alive,2,2016,4,2016,3,2011,42.0,No,Healthy
+A759271,Austin,Stray,Normal,Dog,Intact Female,37.0,Other,Mix color,Spayed Female,120.0,Alive,9,2017,12,2017,8,2017,83.0,No,Healthy
+A803492,Austin,Owner Surrender,Normal,Dog,Spayed Female,194.0,Other,Black,Spayed Female,199.0,Alive,9,2019,9,2019,3,2019,5.0,No,Healthy
+A721324,Austin,Owner Surrender,Normal,Dog,Intact Female,730.0,German Shepherd Mix,Mix color,Spayed Female,737.0,Alive,2,2016,3,2016,2,2014,7.0,No,Healthy
+A683596,Travis,Stray,Injured,Cat,Spayed Female,72.0,Other,Tabby,Spayed Female,231.0,Alive,12,2014,7,2014,5,2014,159.0,No,Unhealthy
+A693368,Austin,Stray,Normal,Dog,Spayed Female,2740.0,Other,Mix color,Spayed Female,2741.0,Alive,12,2014,12,2014,6,2007,1.0,No,Healthy
+A808170,Austin,Stray,Normal,Dog,Intact Male,214.0,Other,Mix color,Neutered Male,218.0,Alive,11,2019,11,2019,4,2019,4.0,No,Healthy
+A732517,Ridge,Stray,Normal,Dog,Intact Male,37.0,Other,Mix color,Neutered Male,69.0,Alive,8,2016,9,2016,7,2016,32.0,No,Healthy
+A724049,Austin,Stray,Normal,Cat,Intact Female,22.0,Domestic Shorthair Mix,Black,Intact Female,86.0,Alive,4,2016,6,2016,3,2016,64.0,Yes,Healthy
+A685351,Austin,Stray,Normal,Dog,Intact Male,2191.0,Other,Red,Intact Male,2193.0,Alive,8,2014,8,2014,8,2008,2.0,Yes,Healthy
+A727139,Travis,Stray,Normal,Dog,Intact Male,2556.0,Other,Mix color,Intact Male,2557.0,Alive,5,2016,5,2016,5,2009,1.0,Yes,Healthy
+A691291,Austin,Stray,Normal,Dog,Intact Female,68.0,Other,Mix color,Spayed Female,70.0,Alive,11,2014,11,2014,8,2014,2.0,No,Healthy
+A681490,Travis,Owner Surrender,Normal,Dog,Intact Female,730.0,Other,Tricolor,Spayed Female,739.0,Alive,6,2014,6,2014,6,2012,9.0,No,Healthy
+A707553,Austin,Stray,Normal,Cat,Intact Male,106.0,Domestic Shorthair Mix,Mix color,Neutered Male,113.0,Alive,7,2015,7,2015,3,2015,7.0,No,Healthy
+A787288,Austin,Stray,Normal,Dog,Intact Male,730.0,German Shepherd Mix,Mix color,Neutered Male,736.0,Alive,1,2019,1,2019,1,2017,6.0,No,Healthy
+A735691,Austin,Stray,Normal,Dog,Neutered Male,1461.0,Other,Mix color,Neutered Male,1462.0,Alive,9,2016,9,2016,9,2012,1.0,No,Healthy
+A690422,Austin,Owner Surrender,Normal,Cat,Intact Female,76.0,Siamese Mix,Point,Intact Female,77.0,Alive,10,2014,10,2014,8,2014,1.0,Yes,Healthy
+A675421,Austin,Owner Surrender,Normal,Cat,Intact Female,55.0,Domestic Shorthair Mix,Tabby,Intact Female,56.0,Alive,3,2014,3,2014,1,2014,1.0,Yes,Healthy
+A737726,Austin,Owner Surrender,Normal,Dog,Spayed Female,376.0,Other,Mix color,Spayed Female,382.0,Alive,11,2016,11,2016,11,2015,6.0,No,Healthy
+A705977,Austin,Stray,Normal,Cat,Intact Male,24.0,Domestic Shorthair Mix,Black,Neutered Male,61.0,Alive,6,2015,7,2015,5,2015,37.0,No,Healthy
+A675787,Travis,Stray,Normal,Dog,Intact Female,730.0,Other,White,Spayed Female,777.0,Alive,4,2014,5,2014,4,2012,47.0,No,Healthy
+A702168,Austin,Stray,Normal,Dog,Intact Male,1826.0,Other,Mix color,Neutered Male,1827.0,Alive,5,2015,5,2015,5,2010,1.0,No,Healthy
+A684535,Austin,Stray,Normal,Dog,Intact Male,91.0,Other,Mix color,Neutered Male,95.0,Alive,7,2014,7,2014,4,2014,4.0,No,Healthy
+A695179,Austin,Owner Surrender,Normal,Dog,Intact Female,2922.0,Other,Mix color,Intact Female,2937.0,Alive,1,2015,1,2015,1,2007,15.0,Yes,Healthy
+A664907,Austin,Stray,Injured,Cat,Intact Male,1826.0,Other,Point,Neutered Male,1846.0,Alive,10,2013,10,2013,10,2008,20.0,No,Unhealthy
+A715478,Travis,Stray,Normal,Dog,Intact Male,73.0,Other,Mix color,Neutered Male,77.0,Alive,11,2015,11,2015,8,2015,4.0,No,Healthy
+A707697,Austin,Stray,Normal,Cat,Unknown,365.0,Domestic Medium Hair Mix,Tabby,Unknown,366.0,Alive,7,2015,7,2015,7,2014,1.0,Unknown,Healthy
+A664960,Travis,Stray,Normal,Dog,Intact Female,304.0,Pit Bull Mix,Mix color,Intact Female,304.0,Alive,10,2013,10,2013,12,2012,0.0,Yes,Healthy
+A694696,Austin,Stray,Normal,Dog,Intact Male,730.0,German Shepherd Mix,Mix color,Neutered Male,734.0,Alive,1,2015,1,2015,1,2013,4.0,No,Healthy
+A805274,Austin,Stray,Normal,Dog,Intact Male,62.0,Other,Mix color,Intact Male,76.0,Alive,9,2019,10,2019,7,2019,14.0,Yes,Healthy
+A668105,Austin,Stray,Injured,Bird,Intact Male,365.0,Other,Mix color,Intact Male,369.0,Death,11,2013,12,2013,11,2012,4.0,Yes,Unhealthy
+A734944,Austin,Stray,Normal,Dog,Neutered Male,3573.5499999999965,Chihuahua Shorthair Mix,Tricolor,Neutered Male,3575.6999999999966,Alive,9,2016,10,2016,9,2006,2.150000000000091,No,Healthy
+A728533,Austin,Stray,Normal,Dog,Intact Male,366.0,Other,Mix color,Neutered Male,415.0,Alive,6,2016,7,2016,6,2015,49.0,No,Healthy
+A678349,Austin,Stray,Normal,Dog,Intact Female,730.0,Other,Mix color,Spayed Female,735.0,Alive,5,2014,5,2014,5,2012,5.0,No,Healthy
+A805250,Austin,Owner Surrender,Normal,Cat,Intact Female,2191.0,Domestic Shorthair,Mix color,Intact Female,2192.0,Alive,9,2019,9,2019,9,2013,1.0,Yes,Healthy
+A750766,Austin,Owner Surrender,Normal,Cat,Intact Male,37.0,Domestic Shorthair Mix,Mix color,Neutered Male,68.0,Alive,5,2017,7,2017,4,2017,31.0,No,Healthy
+A791945,Austin,Public Assist,Normal,Dog,Neutered Male,731.0,Other,Brown,Neutered Male,739.0,Alive,4,2019,4,2019,4,2017,8.0,No,Healthy
+A774312,Austin,Stray,Normal,Cat,Intact Female,365.0,Domestic Shorthair Mix,Mix color,Spayed Female,405.0,Alive,6,2018,7,2018,6,2017,40.0,No,Healthy
+A812427,Austin,Owner Surrender,Injured,Cat,Intact Female,730.0,Domestic Shorthair,Mix color,Spayed Female,740.0,Alive,1,2020,2,2020,1,2018,10.0,No,Unhealthy
+A741599,Austin,Stray,Normal,Dog,Intact Male,731.0,Other,Brown,Neutered Male,750.0,Alive,1,2017,1,2017,1,2015,19.0,No,Healthy
+A720072,Austin,Public Assist,Normal,Dog,Spayed Female,1814.0,Other,Brindle,Spayed Female,1820.0,Alive,2,2016,2,2016,2,2011,6.0,No,Healthy
+A802466,Austin,Owner Surrender,Normal,Dog,Intact Male,273.0,Other,Mix color,Intact Male,276.0,Alive,8,2019,8,2019,11,2018,3.0,Yes,Healthy
+A757367,Outside Jurisdiction,Public Assist,Normal,Dog,Intact Female,731.0,German Shepherd Mix,Other,Intact Female,752.0,Alive,9,2017,9,2017,9,2015,21.0,Yes,Healthy
+A786816,Austin,Stray,Normal,Dog,Neutered Male,730.0,Other,Mix color,Neutered Male,735.0,Alive,1,2019,1,2019,1,2017,5.0,No,Healthy
+A717111,Austin,Stray,Normal,Dog,Intact Female,365.0,Pit Bull Mix,White,Spayed Female,391.0,Alive,12,2015,12,2015,12,2014,26.0,No,Healthy
+A801567,Austin,Public Assist,Normal,Other,Unknown,365.0,Other,Brown,Unknown,368.0,Death,8,2019,8,2019,8,2018,3.0,Unknown,Healthy
+A725287,Austin,Stray,Injured,Cat,Intact Male,1096.0,Domestic Shorthair Mix,Tabby,Intact Male,1103.0,Death,4,2016,5,2016,4,2013,7.0,Yes,Unhealthy
+A736677,Austin,Owner Surrender,Normal,Cat,Intact Female,32.0,Domestic Shorthair Mix,Black,Spayed Female,102.0,Alive,10,2016,12,2016,9,2016,70.0,No,Healthy
+A782299,Travis,Stray,Nursing,Dog,Intact Male,0.0,German Shepherd Mix,Mix color,Neutered Male,62.0,Alive,10,2018,12,2018,10,2018,62.0,No,Healthy
+A768862,Travis,Stray,Normal,Cat,Unknown,1.0,Domestic Shorthair Mix,Mix color,Unknown,1.0,Alive,3,2018,3,2018,3,2018,0.0,Unknown,Healthy
+A683187,Austin,Stray,Nursing,Cat,Intact Female,15.0,Domestic Shorthair Mix,Mix color,Intact Female,24.0,Alive,7,2014,7,2014,6,2014,9.0,Yes,Healthy
+A708038,Pflugerville,Owner Surrender,Normal,Dog,Neutered Male,488.0,Other,Mix color,Neutered Male,498.0,Alive,7,2015,8,2015,3,2014,10.0,No,Healthy
+A721222,Austin,Owner Surrender,Normal,Cat,Spayed Female,1095.0,Domestic Shorthair Mix,Tabby,Spayed Female,1104.0,Alive,2,2016,3,2016,2,2013,9.0,No,Healthy
+A672269,Austin,Stray,Normal,Dog,Intact Female,365.0,Other,Mix color,Spayed Female,372.0,Alive,2,2014,2,2014,2,2013,7.0,No,Healthy
+A800553,Austin,Stray,Pregnant,Dog,Intact Female,303.0,Other,Mix color,Intact Female,305.0,Alive,7,2019,7,2019,9,2018,2.0,Yes,Healthy
+A774455,Austin,Wildlife,Normal,Other,Unknown,365.0,Other,Brown,Unknown,365.0,Death,6,2018,6,2018,6,2017,0.0,Unknown,Healthy
+A705809,Valle,Stray,Normal,Dog,Intact Female,79.0,Labrador Retriever Mix,Mix color,Spayed Female,83.0,Alive,6,2015,6,2015,4,2015,4.0,No,Healthy
+A755187,Austin,Public Assist,Normal,Dog,Intact Male,1887.0,Pit Bull Mix,Mix color,Neutered Male,2007.0,Alive,9,2017,1,2018,7,2012,120.0,No,Healthy
+A740383,Austin,Stray,Normal,Cat,Neutered Male,366.0,Domestic Shorthair Mix,Mix color,Neutered Male,370.0,Alive,12,2016,12,2016,12,2015,4.0,No,Healthy
+A707119,Austin,Stray,Normal,Dog,Intact Male,730.0,Pit Bull Mix,Mix color,Neutered Male,794.0,Alive,7,2015,9,2015,7,2013,64.0,No,Healthy
+A733280,Austin,Stray,Normal,Dog,Intact Female,731.0,Other,Mix color,Intact Female,738.0,Alive,8,2016,8,2016,8,2014,7.0,Yes,Healthy
+A747712,Austin,Stray,Normal,Cat,Intact Female,31.0,Domestic Shorthair Mix,Black,Intact Female,33.0,Alive,4,2017,4,2017,3,2017,2.0,Yes,Healthy
+A776978,Austin,Stray,Normal,Cat,Intact Female,47.0,Domestic Shorthair Mix,Mix color,Spayed Female,92.0,Alive,7,2018,9,2018,6,2018,45.0,No,Healthy
+A800068,Austin,Stray,Normal,Cat,Intact Female,43.0,Domestic Shorthair,Tabby,Intact Female,49.0,Alive,7,2019,7,2019,6,2019,6.0,Yes,Healthy
+A720994,Austin,Owner Surrender,Normal,Dog,Intact Male,3287.0,Chihuahua Shorthair Mix,Mix color,Neutered Male,3330.0,Alive,2,2016,4,2016,2,2007,43.0,No,Healthy
+A805686,Austin,Owner Surrender,Normal,Cat,Intact Female,182.0,Domestic Shorthair,Blue,Spayed Female,214.0,Alive,9,2019,11,2019,4,2019,32.0,No,Healthy
+A793108,Austin,Stray,Normal,Cat,Neutered Male,136.0,Domestic Shorthair Mix,Mix color,Neutered Male,144.0,Alive,4,2019,4,2019,12,2018,8.0,No,Healthy
+A787760,Austin,Owner Surrender,Other,Cat,Intact Female,730.0,Siamese Mix,Point,Spayed Female,752.0,Alive,1,2019,2,2019,1,2017,22.0,No,Healthy
+A641222,Austin,Stray,Normal,Cat,Neutered Male,1432.0,Domestic Medium Hair Mix,Black,Neutered Male,1459.0,Alive,10,2013,11,2013,11,2009,27.0,No,Healthy
+A703270,Austin,Stray,Normal,Cat,Unknown,22.0,Domestic Shorthair Mix,Mix color,Unknown,22.0,Alive,5,2015,5,2015,4,2015,0.0,Unknown,Healthy
+A712298,Austin,Stray,Normal,Cat,Intact Female,2556.0,Domestic Shorthair Mix,Black,Intact Female,2557.0,Alive,9,2015,9,2015,9,2008,1.0,Yes,Healthy
+A682831,Austin,Stray,Normal,Cat,Intact Female,22.0,Domestic Shorthair Mix,Black,Intact Female,69.0,Alive,7,2014,8,2014,6,2014,47.0,Yes,Healthy
+A662171,Pflugerville,Stray,Normal,Dog,Spayed Female,2151.0,Other,Mix color,Spayed Female,2152.0,Alive,12,2017,12,2017,2,2012,1.0,No,Healthy
+A726736,Austin,Owner Surrender,Normal,Dog,Spayed Female,1827.0,Pit Bull Mix,Mix color,Spayed Female,1829.0,Alive,5,2016,5,2016,5,2011,2.0,No,Healthy
+A793425,Austin,Owner Surrender,Normal,Dog,Neutered Male,1461.0,Other,Mix color,Neutered Male,1484.0,Alive,4,2019,5,2019,4,2015,23.0,No,Healthy
+A749520,Austin,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair Mix,Mix color,Intact Female,29.0,Death,5,2017,6,2017,5,2017,28.0,Yes,Healthy
+A773230,Manor,Stray,Normal,Dog,Intact Female,2.0,Other,Mix color,Intact Female,52.0,Alive,5,2018,7,2018,5,2018,50.0,Yes,Healthy
+A657764,Austin,Owner Surrender,Normal,Dog,Spayed Female,531.0,Pit Bull Mix,Mix color,Spayed Female,555.0,Death,12,2013,1,2014,7,2012,24.0,No,Healthy
+A783643,Austin,Stray,Normal,Cat,Intact Male,25.0,Domestic Shorthair Mix,Mix color,Intact Male,35.0,Alive,11,2018,11,2018,10,2018,10.0,Yes,Healthy
+A759207,Austin,Stray,Normal,Dog,Intact Female,365.0,Labrador Retriever Mix,Mix color,Spayed Female,376.0,Alive,9,2017,10,2017,9,2016,11.0,No,Healthy
+A667969,Austin,Stray,Normal,Dog,Intact Female,167.0,Other,Tan,Intact Female,171.0,Alive,11,2013,11,2013,6,2013,4.0,Yes,Healthy
+A746575,Austin,Owner Surrender,Normal,Dog,Intact Male,548.0,Other,Brindle,Neutered Male,604.0,Alive,4,2017,5,2017,10,2015,56.0,No,Healthy
+A734250,Austin,Public Assist,Normal,Other,Intact Female,244.0,Other,Black,Intact Female,252.0,Alive,9,2016,9,2016,1,2016,8.0,Yes,Healthy
+A771788,Manor,Owner Surrender,Nursing,Other,Unknown,2.0,Other,White,Unknown,2.0,Alive,5,2018,5,2018,5,2018,0.0,Unknown,Healthy
+A697000,Austin,Stray,Normal,Dog,Neutered Male,2191.0,Other,Mix color,Neutered Male,2191.0,Alive,2,2015,2,2015,2,2009,0.0,No,Healthy
+A795759,Austin,Stray,Sick,Dog,Intact Female,76.0,Other,Mix color,Intact Female,77.0,Death,5,2019,5,2019,3,2019,1.0,Yes,Unhealthy
